@@ -1,18 +1,14 @@
 ## Semana 5
 
-En esta sección se plantean los objetivos y las actividades del proyecto para la semana 5.
-
 ### Objetivos
 
-Los objetivos de la semana 5 son:
+El objetivo de las actividades de esta semana es utilizar la práctica de TDD para implementar algunas de las Historias de Usuario.
 
-1. Usar el framework Angular para implementar los casos de uso de listar detalle en la aplicación
+
 
 ### Resumen de las Actividades
 
 | Actividad                                    |
 | -------------------------------------------- |
-| [Incorporar accesbilidad ](s5_accesibilidad) |
-| [Terminar la implementación](s5_terminar)    |
-| [Hacer la retrospectiva](s5_retrospectiva)   |
-| [Hacer seguimiento y planeación ](s5_syp)    |
+| [Implementar usando TDD ](s5_tdd) |
+
