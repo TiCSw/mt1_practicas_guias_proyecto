@@ -12,6 +12,7 @@ Los integrantes realizan la retrospectiva final del proyecto usando la herramien
 * Para el cierre del proyecto los integrantes del equipo elaboran una presentación final en video: 
   *  Crear y grabar escenario de uso de la aplicación  que muestre las historias de uso logradas
   *  Analizar las prácticas y cómo se desarrollarón durante el proyecto, los reusltados finales y los datos de las pruebas. 
+
 ### Entregables
 
 * Los integrantes finalizan la implementación del proyecto 
