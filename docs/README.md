@@ -2,8 +2,7 @@ Bienvenidos a la página con las guías para el desarrollo del proyecto del curs
 
 El material está organizado semana a semana, junto con una sección de generalidades.
 
-## Contenido
-
 1. [Generalidades](https://ticsw.github.io/mt1_practicas_guias_proyecto/generalidades)
 2. [Semana 2](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semanas/semana2/semana2)
+
 
