@@ -11,4 +11,4 @@ Generan datos aleatorioas para las pruebas unitarios.
 
 ### Entregables
 
-* Codigo fuente en el github del grupo.
+* Código fuente en el github del grupo.

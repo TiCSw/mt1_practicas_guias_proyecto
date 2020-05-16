@@ -12,4 +12,4 @@ Se hace la automatización de las pruebas y se generan datos aleatorioas para la
 
 ### Entregables
 
-* Codigo fuente en el github del grupo.
+* Código fuente en el github del grupo.

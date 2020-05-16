@@ -7,9 +7,9 @@ El objetivo de la semana 7 es terminar la implementación Proyecto utilizando el
 ### Pasos
 
 * Implementar las pruebas unitarias
-* IMplementar el código para completar las historias de usuario
+* Implementar el código para completar las historias de usuario
 * Realizar la integración continua
 
 ### Entregables
 
-* Codigo fuente en el github del grupo.
+* Código fuente en el github del grupo.
