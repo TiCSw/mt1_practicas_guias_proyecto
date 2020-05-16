@@ -2,7 +2,7 @@
 
 ### Objetivos
 
-El objetivo de la semana 4 es inicar la implementación del proyecto a partir de la construcción de un diagrama de clases de diseño. El propósito principal es practicar el proceso de flujos de trabajo sobre el manejador de versiones. 
+El objetivo de la semana 4 es iniciar la implementación del proyecto a partir de la construcción de un diagrama de clases de diseño. El propósito principal es practicar el proceso de flujos de trabajo sobre el manejador de versiones. 
 Los estudiantes se distribuyen la implementación, cada uno debe crear su rama e ir integrando a medida que se avanza en la implementación.
 
 1. Diseñar la aplicación utilizando UML 
@@ -16,5 +16,5 @@ Los estudiantes se distribuyen la implementación, cada uno debe crear su rama e
 | ------------------------------------------------------------------------------------------- |
 | [Diseñar la aplicación ](s4_disenio) |
 | [Distribuir implementación y definir flujo de trabajo](s4_flujo)                          |
-| [Implementar los cascarones](s4_cascarones)                                                           |
+
                                                |

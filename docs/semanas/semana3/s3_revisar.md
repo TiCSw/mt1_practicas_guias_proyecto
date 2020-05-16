@@ -6,7 +6,7 @@ Con el objetivo de asegurar la calidad de las historias en esta actividad se deb
 inspección de la historia buscando su claridad, completitud y coherencia.  
 
 ### Pasos
-  ada integrante del grupo:
+Cada integrante del grupo:
 * Realiza la revisión de pares (inspección) de las historias de usuario que no detalló.   
 Para esto, debe utilizar la lista de chequeo para la inspección de las historias. 
 

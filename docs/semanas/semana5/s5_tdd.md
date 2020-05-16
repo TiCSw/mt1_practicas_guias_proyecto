@@ -13,4 +13,4 @@ El objetivo de las actividades de esta semana es utilizar la práctica de TDD pa
 
 ### Entregables
 
-Las fuentes del código deben estar en la rama principla del github del grupo. 
+Las fuentes del código deben estar en la rama principal del github del grupo. 

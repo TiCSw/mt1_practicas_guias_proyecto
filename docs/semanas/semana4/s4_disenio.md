@@ -7,7 +7,7 @@ Realizar el diseño para la aplicación.
 ### Pasos
 
 Este diseño debe tener en cuenta:
-* Utilizar genmymodel para definir el diseño. 
+* Utilizar Genmymodel para definir el diseño. 
 * Prototipo de la IU
 * Diseño de la base de datos. 
   

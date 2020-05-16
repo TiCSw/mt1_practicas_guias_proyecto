@@ -9,10 +9,15 @@ para iniciar la implementación del proyecto.
 
 * Distribuir la implementación del diseño y definir claramente el alcance
 * Acordar el flujo de trabajo que se seguirá durante la implementación
+* Cada integrante implementa sus clases definidas e integra al repositorio del equipo siguiendo el flujo de trabajo acordado. 
+
+
+
 
 ### Entregables
 
 En la wiki del proyecto debe quedar:
-* El alzance de la implementación
-* La distribución de la implementaci´+on
+* El alcance de la implementación
+* La distribución de la implementación
 * El acuerdo sobre el flujo de trabajo
+* Fuentes de la implementación en el repositorio de github
