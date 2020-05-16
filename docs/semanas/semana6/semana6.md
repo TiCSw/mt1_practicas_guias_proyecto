@@ -1,18 +1,13 @@
 ## Semana 6
 
-En esta sección se plantean los objetivos y las actividades del proyecto para la semana 6.
-
 ### Objetivos
 
-Los objetivos de la semana 6 son:
-
-1. Usar el framework Angular para implementar las historias de usuario de crear.
+Los objetivos de la semana 6 son continuar con la implementación de las pruebas unitarias y el código. Ejecutar el proceso de integración continua y analizar los resultados.		
 
 ### Resumen de las Actividades
 
-| Actividad                                                                |
-| ------------------------------------------------------------------------ |
-| [Realizar el lanzamiento de la iteración 2 del proyecto](s6_lanzamiento) |
-| [Implementar la creación de recursos ](s6_crear)                         |
-| [Incorporar internacionalización](s6_i18n)                               |
-| [Hacer seguimiento y planeación ](s6_syp)                                |
+| Actividad                                                       |
+| --------------------------------------------------------------- |
+| [Implementar y automatizar las pruebas unitarias](s6_unitarias) |
+| [Generar datos de prueba en el proyecto](s6_generaciondatos)    |
+
