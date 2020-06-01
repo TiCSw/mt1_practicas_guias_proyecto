@@ -1,18 +1,19 @@
 ## Semana 3
 
-En esta sección se plantean los objetivos y las actividades del proyecto para la semana 3.
 
 ### Objetivos
 
 Los objetivos de la semana 3 son:
 
-1. Iniciar la construcción de la aplicación
-2. Asegurar la calidad de la aplicación mediante la construcción de pruebas unitarias
+1. Configurar el repositorio del proyecto y la wiki para la documentación. 
+2. Detallar y revisar las historias de usuario.
 
-### Resumen de las Actividades
+### Resumen de las actividades
 
-| Actividad                                           |
-| --------------------------------------------------- |
-| [Detallar HU](s3_detallar) |
-|[Revisar HU](s3_revisar)
+| Actividad                                                                      |
+| ------------------------------------------------------------------------------ |
+| [Configurar el repositorio de fuentes del proyecto](s3_configurar_repositorio) |
+| [Configurar el sitio de la documentación del proyecto](s3_configurar_wiki)     |
+| [Detallar HU](s3_detallar)                                                     |
+| [Revisar HU](s3_revisar)                                                       |
 
