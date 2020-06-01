@@ -1,13 +1,13 @@
-## Semana 5
+## Semana 5: Práctica de TDD
 
 ### Objetivos
 
-El objetivo de las actividades de esta semana es utilizar la práctica de TDD para implementar algunas de las Historias de 
-Usuario.
+Utilizar la práctica de TDD para implementar algunas de las Historias de 
+Usuario del proyecto.
 
 
 
-### Resumen de las Actividades
+### Resumen de las actividades
 
 | Actividad                                    |
 | -------------------------------------------- |

@@ -10,11 +10,10 @@ Los estudiantes se distribuyen la implementación, cada uno debe crear su rama e
 3. Definir el flujo de trabajo sobre github para la implementación de base de las clases
 4. Implementar las clases y el cascarón de los métodos. 
 
-### Resumen de las Actividades
+### Resumen de las actividades
 
 | Actividad                                                                                   |
 | ------------------------------------------------------------------------------------------- |
 | [Diseñar la aplicación ](s4_disenio) |
 | [Distribuir implementación y definir flujo de trabajo](s4_flujo)                          |
 
-                                               |
