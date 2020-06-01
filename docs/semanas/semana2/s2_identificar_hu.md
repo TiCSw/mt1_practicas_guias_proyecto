@@ -5,7 +5,7 @@
 ---
 Construir el listado de historias de usuario de la aplicación. 
 
-### Descripción actividad previos
+### Pasos previos
 
 ---
 * Tener el modelo conceptual consolidado y el glosario de términos.
