@@ -2,48 +2,36 @@
 ## Semana 2 - Construcción del modelo conceptual
 
 ### Objetivos
-A partir del enunciado del proyecto deben construir un modelo conceptual que les permitirá:
 
-* Entender el contexto del proyecto. 
-
+* Construir el modelo conceptual del enunciado del proyecto. 
 * Identificar dudas respecto a las funcionalidades que se deben desarrollar. 
-
 * Plantear preguntas al cliente que permitan clarificar las dudas y supuestos identificados, a través de un foro de preguntas del enunciado del proyecto. 
 
-### Tareas
+### Pasos previos
 
-Cada uno de los integrantes del grupo: 
+* Cada uno debe conocer quién en su compañero/a de equipo.
+* Cada equipo debe comunicarse para definir el horario de la reunión de consolidación del modelo conceptual. 
 
-* Lee el enunciado con atención. 
+### Descripción actividad
 
-* Hace un modelo conceptual en la herramienta de modelado que incluya: . El modelo debe incluir las clases, atributos y relaciones. Por ahora no se incluyen los métodos. En caso de tener dudas plantee sus preguntas en el foro de Preguntas del enunciado. 
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Una vez finalizado el modelo lo sube a la wiki del proyecto. 
+* Leer el enunciado con atención. 
+* Hacer un modelo conceptual en la herramienta de modelado que incluya: las clases, atributos y relaciones. 
+* Plantear  preguntas en el foro de preguntas del enunciado. 
 
-* El grupo se reúne para consolidar, en un solo modelo conceptual, los dos modelos propuestos.  
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-* El modelo conceptual consolidado se sube a la wiki del proyecto. 
-
+* Consolidar, en un solo modelo conceptual, los dos modelos propuestos.  
 * Elaborar el glosario de términos del modelo consolidado. 
 
-### Tiempo estimado 
-
-* 30 minutos lectura y elaboración del modelo individual 
-
-* 30 minutos en consolidación 
 
 ### Recursos 
 
 * Herramienta de modelado: Genmymodel 
-* (Link al Mooc uml del caso de estudio con el cliente) 
 * Plantilla glosario de términos 
-
- 
 
 ### Entregables
 
-* DigramaDiagrama conceptual en UML 
-
+* Digrama conceptual en UML individual y el modelo conceptual consolidado en la wiki del proyecto. 
 * Glosario de términos del modelo  
-
-* Subir ambos entregables a la Wiki del proyecto de acuerdo con la estructura propuesta para la wiki.  
