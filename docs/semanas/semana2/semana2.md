@@ -1,7 +1,5 @@
 ## Semana 2
 
-En esta sección se plantean los objetivos y las actividades del proyecto para la semana 2.
-
 ### Objetivos
 
 Los objetivos de la semana 2 son:
