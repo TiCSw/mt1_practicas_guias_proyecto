@@ -38,5 +38,5 @@
 ### Entregables
 
 ---
-* Digrama conceptual en UML individual y el modelo conceptual consolidado en la wiki del proyecto. 
-* Glosario de términos del modelo  
+* Digrama conceptual en UML individual y el modelo conceptual consolidado `como aqui aun no tienen la wiki toca decidir en dónde lo suben`. 
+* Glosario de términos del modelo.  

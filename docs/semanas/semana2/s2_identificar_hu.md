@@ -33,4 +33,5 @@ Si durante el proceso surgen dudas utilizar el foro de Preguntas del enunciado d
 ### Entregables
 
 ---
-Listado de historias de usuario consolidado de la aplicación. Subir el entregable en la wiki en el sitio indicado en la estructura de la wiki.  
+Listado de historias de usuario consolidado de la aplicación. 
+Subir el entregable `como aqui aun no tienen la wiki toca decidir en dónde lo suben`
