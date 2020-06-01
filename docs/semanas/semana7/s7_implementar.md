@@ -4,7 +4,7 @@
 
 El objetivo de la semana 7 es terminar la implementación Proyecto utilizando el flujo de trabajo definido, desarrollando las pruebas unitarias con sus datos aleatorios y realizando la integración continua.
 
-### Pasos
+### Descripción actividad
 
 * Implementar las pruebas unitarias
 * Implementar el código para completar las historias de usuario

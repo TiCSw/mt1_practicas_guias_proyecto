@@ -8,7 +8,7 @@
 * Identificar dudas respecto a las funcionalidades que se deben desarrollar. 
 * Plantear preguntas al cliente que permitan clarificar las dudas y supuestos identificados, a través de un foro de preguntas del enunciado del proyecto. 
 
-### Pasos previos
+### Descripción actividad previos
 
 ---
 * Cada uno debe conocer quién en su compañero/a de equipo.

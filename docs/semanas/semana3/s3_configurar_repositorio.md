@@ -6,7 +6,7 @@
 
 Definir la estructura del repositorio de fuentes del proyecto.
    
-### Pasos previos
+### Descripción actividad previos
 ----
 
 1. Tener el modelo conceptual consolidado con el glosario de términos

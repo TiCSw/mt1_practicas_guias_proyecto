@@ -1,27 +1,38 @@
 ## Semana 3 - Detallar Historias de Usuario
 
-### Objetivos
+### Objetivo
 
-Como ya se han identificado para el proyecto, en esta actividad se van a detallar XXX historias de usuario.
- Estas historias son las  que se van a desarrollar d en las actividades posteriores. 
- Detallar una historia significa escribir una descripción de la historia, realizar un mockup y definir los criterios de 
- aceptación. 
-### Pasos
+---
+* Detallar las historias de usuario del proyecto.
 
-* En grupo seleccionan las XXX historias que van a detallar. Tener en cuenta que estas historias deben constituir un conjunto 
-que se puedan probar. 
 
-* Distribuir entre los dos integrantes del grupo las historias para su detalle. 
+### Descripción actividad
 
-* Cada integrante del equipo detalla las historias que le corresponden y las sube a la wiki de acuerdo con la estructura propuesta. Utilizar el formato de detalle de historias de usuario. 
+---
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-| Nota: Si al detallar las historias surgen dudas, utilice el foro Preguntas enunciado del proyecto para resolverlas. |
-| ------------------------------------------------------------------------------------------------------------------- |
+* Seleccionar las XXX historias que van a detallar. 
+* Distribuir entre los dos integrantes del grupo las historias para su detalle y actualizar el listado de historias con el responsable. 
+  
+#### ![](./../../assets/images/individuo.png) Actividad individual
+
+* Detallar cada historia con la descripción, el mockup y los criterios de aceptación.  
+
+### Recursos
+
+---
+Formato de detalle de historias de usuario. 
+
 ### Entregables
  
+---
+En la wiki del proyecto:
 
-Las XXX historias de usuario detalladas. Para cada historia se llena un formato de historias de usuario y 
-se enlazan en la wiki del proyecto.
-
-
+* La página del listado de historias de usuario fue actualizado con la información del responsable y con el enlace al detalle de la historia.
+* Una página para el detalle de cada historia
   
+### Criterios de evaluación
+
+---
+* El listado de la shistorias de usuario está completo con los responsables y con los enlaces a los detalles. 
+* Cada detalle contiene la descripción, el mockup y los criterios de aceptación.  

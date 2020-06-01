@@ -4,7 +4,7 @@
 
 Realizar el diseño para la aplicación. 
 
-### Pasos
+### Descripción actividad
 
 Este diseño debe tener en cuenta:
 * Utilizar Genmymodel para definir el diseño. 

@@ -4,7 +4,7 @@
 
 Generan datos aleatorioas para las pruebas unitarios.
 
-### Pasos
+### Descripción actividad
 
 * Generación de los datos aleatorios para las pruebas.
 

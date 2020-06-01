@@ -4,7 +4,7 @@
 
 Los integrantes realizan la retrospectiva final del proyecto usando la herramienta DAKI Drop Add Keep Improve
 
-### Pasos
+### Descripción actividad
 
 * Los integrantes finalizan la implementación del proyecto 
 * Actualizan la wiki

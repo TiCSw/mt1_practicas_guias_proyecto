@@ -8,7 +8,7 @@ Los objetivos de esta actividad son:
 1. aaar
 2. 
    
-### Pasos previos
+### Descripción actividad previos
 ----
 
 1. aaar

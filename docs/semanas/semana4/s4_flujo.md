@@ -5,7 +5,7 @@
 El objetivo de esta actividad es que el equipo defina el flujo de trabajo que va a utilizar sobre el manejador de versiones 
 para iniciar la implementación del proyecto. 
 
-### Pasos
+### Descripción actividad
 
 * Distribuir la implementación del diseño y definir claramente el alcance
 * Acordar el flujo de trabajo que se seguirá durante la implementación

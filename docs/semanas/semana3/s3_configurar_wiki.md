@@ -6,7 +6,7 @@
 
 Crear la wiki para la documentación del proyecto.
    
-### Pasos previos
+### Descripción actividad previos
 ----
 
 1. Haber creado el repositorio del proyecto en github.
