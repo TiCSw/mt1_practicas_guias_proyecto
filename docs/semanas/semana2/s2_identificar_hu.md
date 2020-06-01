@@ -35,3 +35,10 @@ Si durante el proceso surgen dudas utilizar el foro de Preguntas del enunciado d
 ---
 Listado de historias de usuario consolidado de la aplicación. 
 Subir el entregable `como aqui aun no tienen la wiki toca decidir en dónde lo suben`
+
+### Criterios de evaluación
+
+---
+
+* Las historias de usuario fueron identificadas. Cada una tiene un código y un resumen que sigue el formato definido. 
+  `este listado incial tiene el resulmen o solo el nombre? `

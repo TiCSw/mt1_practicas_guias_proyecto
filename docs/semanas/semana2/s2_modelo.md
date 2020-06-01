@@ -40,3 +40,10 @@
 ---
 * Digrama conceptual en UML individual y el modelo conceptual consolidado `como aqui aun no tienen la wiki toca decidir en dónde lo suben`. 
 * Glosario de términos del modelo.  
+
+### Criterios de evaluación
+
+---
+
+* El diagrama conceptual refleja el entendimiento del problema.
+* El glosario de términos describe cada uno de los elementos del diagrama (clases y asociaciones).
