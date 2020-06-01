@@ -1,17 +1,21 @@
 ## Semana 2 - Identificar Historias de Usuario
 
-### Objetivos
-Luego de entender el contexto del proyecto y de resolver las dudas sobre la aplicación que se debe desarrollar, 
-se puede construir el listado de historias de usuario de la aplicación. 
-En este listado se identifican todas las funcionalidades que se solicitan en la aplicación. 
-Para garantizar dicha identificación cada uno de los integrantes del grupo realizará un listado individual y 
-luego consolidarán sus resultados en un solo listado.  
+### Objetivo
 
+---
+Construir el listado de historias de usuario de la aplicación. 
 
-### Tareas
+### Pasos previos
 
+---
+* Tener el modelo conceptual consolidado y el glosario de términos.
+* Haber resuelto las preguntas relacionadas con el enunciado.
 
-Cada integrante del grupo construye su listado siguiendo los siguientes pasos: 
+### Descripción actividad
+
+---
+#### ![](./../../assets/images/individuo.png) Actividad individual
+
 
 * Identificar los usuarios de la aplicación 
 
@@ -19,14 +23,14 @@ Cada integrante del grupo construye su listado siguiendo los siguientes pasos:
 
 * Construir el listado utilizando el formato Listado de historias de usuario 
 
-* Subir a la wiki del proyecto su listado. 
+#### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-El grupo se reune y consolida en un solo Listado de historias de usuario, y lo sube a la wiki del proyecto. 
+El equipo consolida las historias de usuario en un solo listado.
 
 Si durante el proceso surgen dudas utilizar el foro de Preguntas del enunciado del proyecto para resolverlas. 
 
- 
 
 ### Entregables
 
-Listado de historias de usuario de la aplicación. Subir el entregable en la wiki en el sitio indicado en la estructura de la wiki.  
+---
+Listado de historias de usuario consolidado de la aplicación. Subir el entregable en la wiki en el sitio indicado en la estructura de la wiki.  

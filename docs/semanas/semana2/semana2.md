@@ -9,7 +9,7 @@ Los objetivos de la semana 2 son:
  
 ### Resumen de las Actividades
 
-| Actividad                                 |
-| ----------------------------------------- |
-| [Elaborar Modelo Conceptual](s2_modelo)      |
+| Actividad                                            |
+| ---------------------------------------------------- |
+| [Elaborar Modelo Conceptual](s2_modelo)              |
 | [Identificar Historias de Usario](s2_identificar_hu) |
