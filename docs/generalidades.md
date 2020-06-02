@@ -1,21 +1,27 @@
 ## Generalidades del proyecto
 
-El objetivo global del proyecto del curso es facilitar la aplicación integrada de las 4 prácticas de ingeniería de software vistas a lo largo del curso: 
+El objetivo global del proyecto del curso es facilitar la aplicación de las 4 prácticas de ingeniería de software vistas a lo largo del curso: 
 * Historias de usuario, 
 * Manejo de control de versiones y flujos de trabajo, 
 * Desarrollo basado en pruebas,
 * Integración continua. 
 
-Es un proyecto pequeño, que será desarrollado en equipos de dos estudiantes, donde su alcance está definido y para el cual, los estudiantes analizarán el enunciado 
-construyen un modelo conceptual en UML y definen unas historias de usuario.
-
-Cada estudiante debe desarrollar un conjunto de HU cuya implementación se hará utilizando la 
-práctica de desarrollo basado en pruebas.  
-El proceso de desarrollo es incremental. Para coordinar el trabajo, deben usar un sistema de control de versiones, 
-un sitio para documentación del proyecto y definir un flujo de trabajo que les permita ir integrando de forma 
-tal que el proyecto funcione en todo momento.
+El proyecto es pequeño, su alcance ya está ha definido y documentado a través de un enunciado. Para desarrollar el proyecto se conformarán equipos de dos esduantes. El proceso de desarrollo es incremental, en cada semana se avanza en el desarrollo y se incorporarán las  prácticas que se van estudiando en el curso.
+Las semanas 2 y 3, se dedican al entendimiento del problema y al alistamiento del sitio para la documentación del proyecto y del repositorio para el código.
+  - Se construye un modelo conceptual en UML para ayudar en el entendimiento del problema y se construye un glosario de términos
+  - Se identifican los requerimientos y se contruye un listado de historias de usuario.
+  - Se selecciona un conjunto de las historias para detallar y desarrollar.
+  - Se configura el espacio de documentación del proyecto en GitHub y el repositorio en sistema de control de versiones GIT donde se gestionará el código del proyecto.
+En la semana 4 se realiza el diseño detallado, se definen las firmas de los métodos. Se utiliza un flujo de trabajo GITFlow para realizar los cambios en el repositorio.
+En las semanas 5, 6 y 7 se desarrollan las historias. En cada semana se van integrando nuevas prácticas:
+  - Desarrollo dirigido por pruebas (Test Driven Development): se introduce en en la semana 5 y se usa en las semanas 6 y 7.
+  - Generación automática de datos prueba en la semana 6
+  - Integración contínua: en la semanas 5 y 6, se usa flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento.
 Esta verificación se hace de manera automatizada utilizando una herramienta de integración continua que construye 
 el proyecto y ejecuta las pruebas definidas, reportando el resultado.
+Cada semana se hace una entrega del avance del proyecto.
+En las semana 8, se realiza el cierre del proyecto y se hace una retrospectiva del trabajo realizado. 
+
 
 El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. 
 
