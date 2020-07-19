@@ -43,4 +43,4 @@ En la wiki del proyecto:
 
 * Cada historia de usuario tiene la información de la revisión realizada por el integrante del equipo que no la detalló.
 * La revisión cubre cada uno de los elementos solicitados. 
-* En el caso donde se encontró algún problema en el detalle de la istoria, esta fue corregida por responsable.
+* En el caso donde se encontró algún problema en el detalle de la historia, esta fue corregida por responsable.
