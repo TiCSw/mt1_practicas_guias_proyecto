@@ -26,8 +26,6 @@ El objetivo de las actividades de esta semana es utilizar la práctica de TDD pa
 Las fuentes del código deben estar en la rama principal del Github del grupo. 
 
 ### Criterios de evaluación
-
-
 ---
 * El resultado de la integración continua es exitoso.
 * Todas las pruebas unitarias funcionan correctamente. 
