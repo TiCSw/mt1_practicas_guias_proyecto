@@ -9,11 +9,11 @@ El objetivo de las actividades de esta semana es utilizar la práctica de TDD pa
 ---
 
 * Haber realizado la implementación básica del proyecto: La interface usuario de las HU y el cascarón de las clases de la lógica. 
-* EL código debe estar integrado, sin errores, en la rama master del repositorio. 
+* El código debe estar integrado, sin errores, en la rama master del repositorio. 
 
 
 ### Descripción actividad
-
+---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 * Seguir el proceso de TDD y pair programming en parejas para implementar las HU seleccionadas.
 

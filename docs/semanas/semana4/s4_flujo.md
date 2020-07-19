@@ -1,7 +1,7 @@
 ## Semana 4 - Implementación y flujos de trabajo
 
 ### Objetivos
-
+---
 El objetivo de esta actividad es que el equipo defina el flujo de trabajo que va a utilizar sobre el manejador de versiones 
 para iniciar la implementación del proyecto. 
 
@@ -13,7 +13,7 @@ para iniciar la implementación del proyecto.
   
 
 ### Descripción actividad
-
+---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
 * Siguiendo el diseño realizado, distribuir la implementación de las historias de usuario y el alcance de esta implementación. 
@@ -26,7 +26,7 @@ para iniciar la implementación del proyecto.
 
 
 ### Entregables
-
+---
 En la wiki del proyecto debe quedar:
 
 * La distribución de la implementación
