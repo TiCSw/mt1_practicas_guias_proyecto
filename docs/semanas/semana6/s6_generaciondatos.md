@@ -2,7 +2,7 @@
 
 ### Objetivos
 
-Generan datos aleatorioas para las pruebas unitarios.
+Completar la implementación de las HU y generan datos aleatorioas para las pruebas unitarias.
 
 ### Descripción actividad
 
@@ -11,4 +11,4 @@ Generan datos aleatorioas para las pruebas unitarios.
 
 ### Entregables
 
-* Código fuente en el github del grupo.
+* Código fuente en el Github del proyecto.
