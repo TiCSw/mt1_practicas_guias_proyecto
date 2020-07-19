@@ -9,7 +9,7 @@ Crear la wiki para la documentación del proyecto.
 ### Descripción actividad previos
 ----
 
-1. Haber creado el repositorio del proyecto en github.
+1. Haber creado el repositorio del proyecto en Github.
 
 ### Descripción actividad
 
@@ -17,26 +17,26 @@ Crear la wiki para la documentación del proyecto.
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-* Siguiendo los pasos del [tutorial creación de wiki](), definir la wiki del proyecto
-* Subir el modelo coneptual consolidado a la wiki
+* Siguiendo los pasos del [Tutorial creación de wiki](), definir la wiki del proyecto.
+* Subir el modelo conceptual consolidado a la wiki.
 * Subir el listado de historias de usuario. 
 
 ### Recursos
 
 ---
 
-* Estructura de la wiki. 
+* Tutorial creación de wiki]().
 
 ### Entregables
 
 ---
 
-La wiki del proyecto  fue creado en el respositorio del equipo en github.
+La wiki del proyecto fue creado en el repositorio del equipo en Github.
 
 ### Criterios de evaluación
 
 ---
 
-* Se puede acceder a la wiki del equipo en el repositorio de github y la estructura corresponde con la solicitada.
-* Los entregables de la semana naterior, modeleo conceptual y el listado de las historias de usuario, están en la wiki del proyecto. 
+* Se puede acceder a la wiki del equipo en el repositorio de Github y la estructura corresponde con la solicitada.
+* Los entregables de la semana anterior, modelo conceptual y el listado de las historias de usuario, están en la wiki del proyecto. 
   
