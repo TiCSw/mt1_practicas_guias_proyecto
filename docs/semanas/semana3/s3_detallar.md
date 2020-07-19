@@ -11,7 +11,7 @@
 ---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-* Seleccionar las XXX historias que van a detallar. 
+* Seleccionar las 4 historias que va a detallar cada estudiante.
 * Distribuir entre los dos integrantes del grupo las historias para su detalle y actualizar el listado de historias con el responsable. 
   
 #### ![](./../../assets/images/individuo.png) Actividad individual
@@ -34,5 +34,5 @@ En la wiki del proyecto:
 ### Criterios de evaluación
 
 ---
-* El listado de la shistorias de usuario está completo con los responsables y con los enlaces a los detalles. 
+* El listado de las historias de usuario está completo con los responsables y con los enlaces a los detalles. 
 * Cada detalle contiene la descripción, el mockup y los criterios de aceptación.  
