@@ -20,7 +20,7 @@ En la semana 4 se realiza el diseño detallado, se definen las firmas de los mé
 En las semanas 5, 6 y 7 se desarrollan las historias. En cada semana se van integrando nuevas prácticas:
   - Desarrollo dirigido por pruebas (Test Driven Development): se introduce en en la semana 5 y se usa en las semanas 6 y 7.
   - Generación automática de datos prueba en la semana 6
-  - Integración contínua: en la semanas 5 y 6, se usa flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento.Esta verificación se hace de manera automatizada y ejecuta las pruebas definidas, reportando el resultado.
+  - Integración contínua: en la semanas 5, 6 y 7, se usa flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento.Esta verificación se hace de manera automatizada y ejecuta las pruebas definidas, reportando el resultado.
   
   Cada semana se hace una entrega del avance del proyecto.
 
