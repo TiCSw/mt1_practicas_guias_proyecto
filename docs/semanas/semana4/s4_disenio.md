@@ -9,8 +9,8 @@ Realizar el diseño para la aplicación.
 ---
 
 * Haber realizado el tutorial sobre  [SQLAlchemy](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-SQLAlchemy-Python/index.html#0).
-* Haber realizado el tutorial sobre [PTQt5 Parte 1](https://misovirtual.virtual.uniandes.edu.co/codelabs/interfaces-graficas-pyqt5/index.html).
-* Haber realizado el tutorial sobre [PTQt5 Parte 2](https://misovirtual.virtual.uniandes.edu.co/codelabs/interfaces-graficas-pyqt5-parte-2/index.html)
+* Haber realizado el tutorial sobre [PyQt5 Parte 1](https://misovirtual.virtual.uniandes.edu.co/codelabs/interfaces-graficas-pyqt5/index.html).
+* Haber realizado el tutorial sobre [PyQt5 Parte 2](https://misovirtual.virtual.uniandes.edu.co/codelabs/interfaces-graficas-pyqt5-parte-2/index.html)
 * Haber revisado y actualizado las Historias de USuario que se van a implementar. 
   
   
