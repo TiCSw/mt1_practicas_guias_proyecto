@@ -29,8 +29,8 @@ para iniciar la implementación del proyecto.
 ---
 En la wiki del proyecto debe quedar:
 
-* La distribución de la implementación
-* El acuerdo sobre el flujo de trabajo
+* La distribución de la implementación.
+* El acuerdo sobre el flujo de trabajo.
 
 En el repositorio de código debe quedar integrado el código de cada uno.
 
@@ -38,6 +38,6 @@ En el repositorio de código debe quedar integrado el código de cada uno.
 
 ---
 
-* Hay una correspondencia entre la distribución de la implementación entre los integrantes y los commits realizados en el repostorio del códdigo dele proyecto.
+* Hay una correspondencia entre la distribución de la implementación entre los integrantes y los commits realizados en el repostorio del código del proyecto.
 * El flujo de trabajo definido se siguió durante la implementación.
   
