@@ -6,7 +6,7 @@ El objetivo global del proyecto del curso es facilitar la aplicación de las 4 p
 * Desarrollo basado en pruebas,
 * Integración continua. 
 
-El proyecto es pequeño, su alcance ya está ha definido y documentado a través de un enunciado. Para desarrollar el proyecto se conformarán equipos de dos esduantes. El proceso de desarrollo es incremental, en cada semana se avanza en el desarrollo y se incorporarán las  prácticas que se van estudiando en el curso.
+El proyecto es pequeño, su alcance ya está ha definido y documentado a través de un enunciado. Para desarrollar el proyecto se conformarán equipos de dos estudiantes. El proceso de desarrollo es incremental, en cada semana se avanza en el desarrollo y se incorporarán las prácticas que se van estudiando en el curso.
 
 Las semanas 2 y 3, se dedican al entendimiento del problema y al alistamiento del sitio para la documentación del proyecto y del repositorio para el código.
 
