@@ -10,7 +10,7 @@ El proyecto es pequeño, su alcance ya está ha definido y documentado a través
 
 Las semanas 2 y 3, se dedican al entendimiento del problema y al alistamiento del sitio para la documentación del proyecto y del repositorio para el código.
 
-  - Se construye un modelo conceptual en UML para ayudar en el entendimiento del problema y se construye un glosario de términos
+  - Se construye un modelo conceptual en UML para ayudar en el entendimiento del problema y se construye un glosario de términos.
   - Se identifican los requerimientos y se contruye un listado de historias de usuario.
   - Se selecciona un conjunto de las historias para detallar y desarrollar.
   - Se configura el espacio de documentación del proyecto en GitHub y el repositorio en sistema de control de versiones GIT donde se gestionará el código del proyecto.
@@ -19,8 +19,8 @@ En la semana 4 se realiza el diseño detallado, se definen las firmas de los mé
 
 En las semanas 5, 6 y 7 se desarrollan las historias. En cada semana se van integrando nuevas prácticas:
   - Desarrollo dirigido por pruebas (Test Driven Development): se introduce en en la semana 5 y se usa en las semanas 6 y 7.
-  - Generación automática de datos prueba en la semana 6
-  - Integración contínua: en la semanas 5, 6 y 7, se usa flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento.Esta verificación se hace de manera automatizada y ejecuta las pruebas definidas, reportando el resultado.
+  - Generación automática de datos prueba en la semana 6.
+  - Integración contínua: en la semanas 5, 6 y 7, se usa flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento. Esta verificación se hace de manera automatizada y ejecuta las pruebas definidas, reportando el resultado.
   
   Cada semana se hace una entrega del avance del proyecto.
 
@@ -37,21 +37,19 @@ Para utilizar este software, el viajero debe abrir una pantalla principal, donde
 
 Cuando el viajero abre una actividad verá la lista de gastos asociados a esta, mostrando por cada gasto el concepto, su el valor, la persona que lo realizó y la fecha del gasto. La lista debe ofrecer opciones para para adicionar, editar o eliminar un gasto, agregar a una persona registrada en Ordéname para compartir los gastos de la actividad, una opción para regresar a la lista de actividades, y una opción para generar un reporte con la distribución de gastos por persona y cuánto se deben entre los participantes para hacer una repartición equitativa de los gastos.
 
-Cuando el usuario ya no quiera seguir utilizando Ordéname, podrá utilizar en cualquier momento una opción para salirse del sistema.
+Cuando el usuario ya no quiera seguir utilizando Ordéname, podrá utilizar en cualquier momento una opción para salir de la aplicación.
 
 
 ## Tecnologías para el desarrollo 
 
-La aplicación que se va a desarrollar es una aplicaicón muy sencilla, mono usuario y con interface de escritorio. 
+La aplicación que se va a desarrollar es una aplicación muy sencilla, mono usuario y con interfaz de escritorio. 
 
-Lass tecnologías que se utilizarán para desarrollar el proyecto son:
-
-Python como lenguaje de programación, git como hera el desarrollo del proyecto se cuenta con la siguiente infraestructura:
+Las tecnologías que se utilizarán para desarrollar el proyecto son: Python como lenguaje de programación, GIT para el control de versiones, SQLite y SQLAlchemy para la base de datos. Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
 
 
 | Elemento                  | Herramienta |
 | ------------------------- | ----------- |
-| Base de datos             | Postgres    |
+| Base de datos             | SQLite     |
 | Framework ORM para Python | SQLAlchemy  |
 | Lenguaje de programación  | Python      |
 | Manejador de versiones    | Git         |
