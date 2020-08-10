@@ -31,12 +31,12 @@ Crear la wiki para la documentación del proyecto.
 
 ---
 
-La wiki del proyecto fue creado en el repositorio del equipo en Github.
+La wiki del proyecto fue creada en el repositorio del equipo en GitHub.
 
 ### Criterios de evaluación
 
 ---
 
-* Se puede acceder a la wiki del equipo en el repositorio de Github y la estructura corresponde con la solicitada.
+* Se puede acceder a la wiki del equipo en el repositorio de GitHub y la estructura corresponde con la solicitada.
 * Los entregables de la semana anterior, modelo conceptual y el listado de las historias de usuario, están en la wiki del proyecto. 
   
