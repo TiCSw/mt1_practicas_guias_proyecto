@@ -17,7 +17,7 @@ Crear la wiki para la documentación del proyecto.
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-* Siguiendo los pasos del [Tutorial creación de wiki](), definir la wiki del proyecto.
+* Siguiendo los pasos del [Tutorial creación de wiki](https://misovirtual.virtual.uniandes.edu.co/codelabs/wiki_github/index.html?index=..%2F..index#0), definir la wiki del proyecto.
 * Subir el modelo conceptual consolidado a la wiki.
 * Subir el listado de historias de usuario. 
 
@@ -25,7 +25,7 @@ Crear la wiki para la documentación del proyecto.
 
 ---
 
-* Tutorial creación de wiki]().
+* Tutorial creación de wiki(https://misovirtual.virtual.uniandes.edu.co/codelabs/wiki_github/index.html?index=..%2F..index#0).
 
 ### Entregables
 
