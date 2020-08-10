@@ -25,7 +25,7 @@ Crear la wiki para la documentación del proyecto.
 
 ---
 
-* Tutorial creación de wiki(https://misovirtual.virtual.uniandes.edu.co/codelabs/wiki_github/index.html?index=..%2F..index#0).
+* [Tutorial creación de wiki](https://misovirtual.virtual.uniandes.edu.co/codelabs/wiki_github/index.html?index=..%2F..index#0).
 
 ### Entregables
 
