@@ -1,15 +1,15 @@
 ## Semana 3 - Configurar la wiki del proyecto
 
-### Objetivos
+### Objetivo
 
 ----
 
-Crear la wiki para la documentación del proyecto.
+* Crear la wiki para la documentación del proyecto.
    
-### Descripción actividad previos
+### Pasos previos
 ----
 
-1. Haber creado el repositorio del proyecto en Github.
+* Haber creado el repositorio del proyecto en Github.
 
 ### Descripción actividad
 
@@ -31,7 +31,7 @@ Crear la wiki para la documentación del proyecto.
 
 ---
 
-La wiki del proyecto fue creada en el repositorio del equipo en GitHub.
+* La wiki del proyecto fue creada en el repositorio del equipo en GitHub.
 
 ### Criterios de evaluación
 
