@@ -21,7 +21,7 @@
 ### Recursos
 
 ---
-Formato de detalle de historias de usuario. 
+* Formato de detalle de historias de usuario que se encuentra en la sección de formatos de la Wiki. 
 
 ### Entregables
  
