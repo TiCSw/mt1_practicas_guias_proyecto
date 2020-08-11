@@ -2,14 +2,16 @@
 
 ### Objetivos
 ---
-El objetivo de esta actividad es que el equipo defina el flujo de trabajo que va a utilizar sobre el manejador de versiones 
-para iniciar la implementación del proyecto. 
+Los objetivos de esta actividad son:
+* Definir el flujo de trabajo que va a utilizar sobre el manejador de versiones el equipo para iniciar la implementación del proyecto.
+* Implementar el cascarón de las clases de la lógica de la aplicación.
+* Implementar las clases de interfaz de la aplicación.
 
 ### Pasos previos
 
 ---
 * Haber realizado el diseño de la aplicación. 
-* Tener creado el repositorio del código del proyecto en Github.
+* Tener creado el repositorio del código del proyecto en GitHub.
   
 
 ### Descripción actividad
@@ -17,7 +19,7 @@ para iniciar la implementación del proyecto.
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
 * Siguiendo el diseño realizado, distribuir la implementación de las historias de usuario y el alcance de esta implementación. 
-* Acordar el flujo de trabajo que se seguirá durante la implementación.
+* Acordar el flujo de trabajo que se seguirá durante la implementación. Para esta semana se debe utilizar un flujo centralizado, solo se utiliza la rama master para integrar los desarrollos de los dos integrantes.
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
