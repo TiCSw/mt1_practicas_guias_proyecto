@@ -13,6 +13,7 @@
 
 * Seleccionar las 4 historias que va a detallar cada estudiante.
 * Distribuir entre los dos integrantes del grupo las historias para su detalle y actualizar el listado de historias con el responsable. 
+* Agregar a la sección de formatos de la wiki el [formato de detalle de historias de usuario](MT1PEA-FM-DetalleHU). 
   
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
@@ -21,15 +22,15 @@
 ### Recursos
 
 ---
-* Formato de detalle de historias de usuario que se encuentra en la sección de formatos de la Wiki. 
+* [Formato de detalle de historias de usuario](MT1PEA-FM-DetalleHU). 
 
 ### Entregables
  
 ---
 En la wiki del proyecto:
 
-* La página del listado de historias de usuario fue actualizado con la información del responsable y con el enlace al detalle de la historia.
-* Una página para el detalle de cada historia
+* La página del listado de historias de usuario fue actualizada con la información del responsable y con el enlace al detalle para cada historia de usuario.
+* Una página para el detalle de cada historia.
   
 ### Criterios de evaluación
 
