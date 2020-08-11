@@ -7,7 +7,7 @@ Los estudiantes se distribuyen la implementación, cada uno debe crear su reposi
 
 1. Diseñar la aplicación utilizando UML 
 2. Distribuir las clases para la implementación 
-3. Definir el flujo de trabajo sobre github para la implementación de base de las clases
+3. Definir el flujo de trabajo sobre GitHub para la implementación de base de las clases
 4. Implementar las clases y el cascarón de los métodos. 
 
 ### Resumen de las actividades
