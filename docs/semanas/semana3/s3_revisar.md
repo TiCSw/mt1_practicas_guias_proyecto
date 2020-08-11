@@ -17,7 +17,7 @@ Asegurar la calidad de las historias de usuario a través de  una revisión de p
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Realizar la revisión de pares (inspección) de las historias de usuario detalladas por su compañero de grupo.   
-* Registrar el resultado de la inspección el espacio de correspondiente del formato de historia de usuario. 
+* Registrar el resultado de la inspección en el espacio correspondiente en el formato de historia de usuario. 
 * Cada integrante del grupo corrige las historias que detalló con las observaciones que realizó su compañero en la inspección. 
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
@@ -43,4 +43,4 @@ En la wiki del proyecto:
 
 * Cada historia de usuario tiene la información de la revisión realizada por el integrante del equipo que no la detalló.
 * La revisión cubre cada uno de los elementos solicitados. 
-* En el caso donde se encontró algún problema en el detalle de la historia, esta fue corregida por responsable.
+* En el caso donde se encontró algún problema en el detalle de la historia, esta fue corregida por el responsable.
