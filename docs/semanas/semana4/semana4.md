@@ -2,8 +2,8 @@
 
 ### Objetivos
 
-El objetivo de la semana 4 es iniciar la implementación del proyecto a partir de la construcción de un diagrama de clases de diseño. El propósito principal es practicar el proceso de flujos de trabajo sobre el manejador de versiones. 
-Los estudiantes se distribuyen la implementación, cada uno debe crear su rama e ir integrando a medida que se avanza en la implementación.
+El objetivo de la semana 4 es iniciar la implementación del proyecto a partir de la construcción de un diagrama de clases de diseño. El propósito principal es practicar el uso del repositorio en el manejador de versiones. 
+Los estudiantes se distribuyen la implementación, cada uno debe crear su repositorio local e ir integrando a medida que se avanza en la implementación en el repositorio del proyecto.
 
 1. Diseñar la aplicación utilizando UML 
 2. Distribuir las clases para la implementación 
