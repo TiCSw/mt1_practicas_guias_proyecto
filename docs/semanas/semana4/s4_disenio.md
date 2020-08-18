@@ -37,5 +37,5 @@ En la wiki del proyecto subir el diagrama de clases que representa el diseño.
 ---
 
 * El diagrama de clases contiene y se puede verificar con el prototipo de las historias de usuario, las clases y elementos necesarios para implementar la interfaz usuario definida. 
-* El diagrama de clases contiene las entidades persistentes y los métodos para implementar las historias de usuario seleccionadas.
+* El diagrama de clases contiene las entidades persistentes y la firma de los métodos para implementar las historias de usuario seleccionadas.
 * En el diseño es claro cómo se comunica la interfaz del usuario con la lógica de la aplicación.

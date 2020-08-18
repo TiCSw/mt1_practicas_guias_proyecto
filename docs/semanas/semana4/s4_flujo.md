@@ -19,13 +19,21 @@ Los objetivos de esta actividad son:
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
 * Siguiendo el diseño realizado, distribuir la implementación de las historias de usuario y el alcance de esta implementación. 
-* Acordar el flujo de trabajo que se seguirá durante la implementación. Para esta semana se debe utilizar un flujo centralizado, solo se utiliza la rama master para integrar los desarrollos de los dos integrantes.
+* Acordar el flujo de trabajo que se seguirá durante la implementación. Para esta semana se debe utilizar un flujo centralizado, solo se utiliza la rama master para integrar los desarrollos de los dos integrantes. Consignar el acuerdo en el formato [Flujo de trabajo](./MT1PEA-FM-FlujoDeTrabajo.md) 
+* Cada integrante actuliza en la columna **Por Hacer** del tablero de actividades del proyecto, las tareas que le corresponden de acuerdo a la distribución.
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Cada integrante implementa las clases implicadas en sus historias de usuario e integra al repositorio del equipo siguiendo el flujo de trabajo acordado. 
 * Para las clases de la lógica de la aplicación, solo se implementa el cascarón.
 
+* Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
+  estado de la tarea en el tablero de actividades del proyecto.
+
+### Recursos
+
+---
+* [Formato Flujo de trabajo](./MT1PEA-FM-FlujoDeTrabajo.md) 
 
 ### Entregables
 ---
@@ -35,6 +43,9 @@ En la wiki del proyecto debe quedar:
 * El acuerdo sobre el flujo de trabajo.
 
 En el repositorio de código debe quedar integrado el código de cada uno.
+
+En el tablero de actividades del proyecto:
+* El estado del tablero de actividades del proyecto refleja el estado de las actividades durante el proceso.
 
 ### Criterios de evaluación
 
