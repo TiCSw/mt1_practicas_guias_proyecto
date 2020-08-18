@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Asegurar la calidad de las historias de usuario a través de  una revisión de pares buscando  claridad, completitud y coherencia.  
+Asegurar la calidad de las historias de usuario a través de  una revisión de pares buscando claridad, completitud y coherencia.  
 
 ### Pasos previos
 
