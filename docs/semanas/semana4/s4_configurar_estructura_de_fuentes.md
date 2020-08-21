@@ -7,7 +7,7 @@
 Crear la estructura del repositorio de fuentes del proyecto.
 Configurar los espacios locales de trabajo de cada uno de los integrantes de la pareja.
    
-### Descripción actividad previos
+### Pasos previos
 ----
 
 Verificar el acceso de cada uno de los integrantes al repositorio asignado al equipo.
