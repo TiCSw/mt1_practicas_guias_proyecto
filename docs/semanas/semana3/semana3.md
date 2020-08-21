@@ -12,7 +12,6 @@ Los objetivos de la semana 3 son:
 
 | Actividad                                                                      |
 | ------------------------------------------------------------------------------ |
-| [Configurar el repositorio de fuentes del proyecto](s3_configurar_repositorio) |
 | [Configurar el sitio de la documentación del proyecto](s3_configurar_wiki)     |
 | [Configurar el tablero de actividades del proyecto](s3_configurar_tablero_actividades) |
 | [Detallar HU](s3_detallar)                                                     |
