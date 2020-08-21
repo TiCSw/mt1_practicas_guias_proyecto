@@ -25,10 +25,8 @@ Los objetivos de esta actividad son:
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Cada integrante implementa las clases implicadas en sus historias de usuario e integra al repositorio del equipo siguiendo el flujo de trabajo acordado. 
-* Para las clases de la lógica de la aplicación, solo se implementa el cascarón.
-
-* Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
-  estado de la tarea en el tablero de actividades del proyecto.
+* Para las clases de la lógica de la aplicación, se implementa solo el cascaron (se definen las firmas de los métodos y se implementan retornando valores estáticos).
+* Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el estado de la tareas en el tablero de actividades del proyecto.
 
 ### Recursos
 
@@ -52,5 +50,6 @@ En el tablero de actividades del proyecto:
 ---
 
 * Hay una correspondencia entre la distribución de la implementación entre los integrantes y los commits realizados en el repostorio del código del proyecto.
+* El código en el repositorio no tiene errores y la interfaz funciona para los valores estáticos que retornan las clases de la lógica.
 * El flujo de trabajo definido se siguió durante la implementación.
   
