@@ -15,5 +15,6 @@ Los estudiantes se distribuyen la implementación, cada uno debe crear su reposi
 | Actividad                                                                                   |
 | ------------------------------------------------------------------------------------------- |
 | [Diseñar la aplicación ](s4_disenio) |
-| [Definir flujo de trabajo, distribuir implementación e implementar clases ](s4_flujo)                          |
+| [Configurar la estructura de fuentes del proyecto](s4_configurar_estructura_de_fuentes) |
+| [Definir flujo de trabajo, distribuir implementación e implementar clases ](s4_flujo)   |
 
