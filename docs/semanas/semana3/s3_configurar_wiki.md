@@ -9,7 +9,7 @@
 ### Pasos previos
 ----
 
-* Haber creado el repositorio del proyecto en Github.
+* Verificar el acceso al repositorio del proyecto asignado al equipo en la organización del curso en Github.
 
 ### Descripción actividad
 
