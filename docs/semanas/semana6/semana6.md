@@ -2,7 +2,10 @@
 
 ### Objetivos
 
-Los objetivos de la semana 6 son continuar con la implementación de las pruebas unitarias y el código. Ejecutar el proceso de integración continua y analizar los resultados.		
+Los objetivos de la semana 6 son:
+* Continuar con la implementación de las pruebas unitarias y el código de la aplicación utilizando TDD.
+* Utilizar pair programming en historias que el equipo considere críticas.
+* Generar datos de prueba para el proyecto utilizando librerías para generación de datos automática. 
 
 ### Resumen de las Actividades
 
