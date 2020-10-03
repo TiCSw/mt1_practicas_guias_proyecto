@@ -1,4 +1,4 @@
-## Semana 7 - Terminar la implementación Proyecto
+## Semana 7 - Implementación historias usando GitHub Flow e IC
 
 ### Objetivos
 
