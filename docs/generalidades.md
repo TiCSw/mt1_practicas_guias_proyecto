@@ -15,12 +15,12 @@ Las semanas 2 y 3, se dedican al entendimiento del problema y al alistamiento de
   - Se selecciona un conjunto de las historias para detallar y desarrollar.
   - Se configura el espacio de documentación del proyecto en GitHub y el repositorio en sistema de control de versiones GIT donde se gestionará el código del proyecto.
   
-En la semana 4 se realiza el diseño detallado, se definen las firmas de los métodos. Se utiliza un flujo de trabajo GITFlow para realizar los cambios en el repositorio.
+En la semana 4 se realiza el diseño detallado de la aplicación (lógica e interfaz), se definen las firmas de los métodos. Se define el flujo de trabajo inicial.
 
-En las semanas 5, 6 y 7 se desarrollan las historias. En cada semana se van integrando nuevas prácticas:
+En las semanas 5, 6, 7  y 8 se desarrollan las historias. En cada semana se van integrando nuevas prácticas:
   - Desarrollo dirigido por pruebas (Test Driven Development): se introduce en en la semana 5 y se usa en las semanas 6 y 7.
   - Generación automática de datos prueba en la semana 6.
-  - Integración contínua: en la semanas 5, 6 y 7, se usa flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento. Esta verificación se hace de manera automatizada y ejecuta las pruebas definidas, reportando el resultado.
+  - Integración contínua: en la semanas 6 se usa el flujo de trabajo GitFlow y en la semanas 7 y 8 el flujo de trabajo GiHub Flow. En la semanas 7 y 8 se definen un flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento. Esta verificación se hace de manera automatizada y ejecuta las pruebas definidas, reportando el resultado.
   
   Cada semana se hace una entrega del avance del proyecto.
 
