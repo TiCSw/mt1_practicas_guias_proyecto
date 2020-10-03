@@ -12,6 +12,7 @@
 * El código debe estar integrado, sin errores, en la rama master del repositorio.
 
 ### Descripción actividad
+---
 
 En esta semana se van desarrollar el segundo grupo de historias de usuario del proyecto utilizando TDD en todas las historias y usando GitFlow como flujo de trabajo. 
 
@@ -30,17 +31,17 @@ En aquellas historias que el equipo considere críticas, el equipo debe usar pai
 * Desarrollar las historias asignadas usando TDD:
     * Para dejar evidencia del uso de TDD, se debe realizar commit al repositorio al definir las pruebas, al implementar el código y al realizar recfactoring del código. 
     * Seguir el flujo de trabajo acordado
-    * Integrar el código que pasa exitosamente las pruebas unitarias en el repositorio github del grupo.
+    * Integrar el código que pasa exitosamente las pruebas unitarias en el repositorio GitHub del grupo.
 
 ### Entregables
+---
 
-* Flujo de trabajo GitFlow acordado
-* Las fuentes del código deben estar en la rama principal del Github del equipo.
+* Fluj de trabajo GitFlow acordado
+* Las fuentes del código deben estar en la rama principal del GitHub del equipo.
 
 
 ### Criterios de evaluación
 ---
-* El resultado de la integración continua es exitoso.
 * Todas las pruebas unitarias funcionan correctamente. 
 * Se han desarrollado las historias del segundo grupo de funcionalidades.
 * En el historial del código en el respositorio se evidencia el desarrollo usando TDD.
