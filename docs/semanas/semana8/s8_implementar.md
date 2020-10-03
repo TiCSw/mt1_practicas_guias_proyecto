@@ -25,14 +25,14 @@
 
 Desarrollar las historias asignadas usando TDD:
 
-    * Para dejar evidencia del uso de TDD, se debe realizar commit al repositorio al definir las pruebas, al implementar el código y al realizar recfactoring del código. 
-    * Seguir el flujo de trabajo acordado
-    * Una vez el código  pasa exitosamente las pruebas unitarias en el repositorio local, solicitar un pull-request a la rama master.
-    * Si el pull-requests es rechazado realizar las correcciones que se soliciten al pull-request.
+*    Para dejar evidencia del uso de TDD, se debe realizar commit al repositorio al definir las pruebas, al implementar el código y al realizar recfactoring del código. 
+*    Seguir el flujo de trabajo acordado
+*    Una vez el código  pasa exitosamente las pruebas unitarias en el repositorio local, solicitar un pull-request a la rama master.
+*    Si el pull-request es rechazado realizar las correcciones que se soliciten al pull-request.
     
 Revisar pull-requests
 
-    * Alrecibir una solicitud de revisión de un pull-request, realice una inspección al código para aprobar o rechazar el pull-request. Cuando se rechace el pull-request, explique en detalle las razones por las que se rechaza.
+*    Al recibir una solicitud de revisión de un pull-request, realice una inspección al código para aprobar o rechazar el pull-request. Cuando se rechace el pull-request, explique en detalle las razones por las que se rechaza.
 
 ### Entregables
 ---
