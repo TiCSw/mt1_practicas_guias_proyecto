@@ -34,7 +34,8 @@ Revisar pull-requests
     * Al recibir una solicitud de revisión de un pull-request, realice una inspección al código para aprobar o rechazar el pull-request. Cuando se rechazado explique en detalle las razones por las que se rechaza.
 
 ### Entregables
----* Las fuentes del código deben estar en la rama principal del GitHub del equipo.
+---
+* Las fuentes del código deben estar en la rama principal del GitHub del equipo.
 
 
 ### Criterios de evaluación
