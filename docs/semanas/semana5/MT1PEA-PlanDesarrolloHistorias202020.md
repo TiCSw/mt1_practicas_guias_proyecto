@@ -5,7 +5,7 @@
 | Funcionalidad           | 
 |-------------------------| 
 |Listado de actividades  |
-|Reporte de compensación de gastos de actividad|
+|Reporte de compensación de gastos de actividad|
 |Ver gastos de actividad|
 
 ### Semana 6
