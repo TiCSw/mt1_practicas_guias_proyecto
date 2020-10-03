@@ -20,6 +20,7 @@
 * Planear los tiempos para desarrollar cada una de las historias: el equipo debe acordar los espacios en la semana para hacer el desarrollo de las historias con pair programming y el tiempo individual para las otras historias.
 * Actualizar el tablero de actividades del proyecto con las tareas planeadas.
 * Desarrollar las historias que escogieron realizar en pair programming usando TDD.
+* Al finalizar el desarrollo de todas las historias generar un realease de la aplicación en GitHub. 
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
