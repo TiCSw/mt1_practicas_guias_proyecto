@@ -33,10 +33,16 @@ En aquellas historias que el equipo considere críticas, el equipo debe usar pai
     * Seguir el flujo de trabajo acordado
     * Integrar el código que pasa exitosamente las pruebas unitarias en el repositorio GitHub del grupo.
 
+
+### Recursos
+
+---
+* [Formato Flujo de trabajo](./../semana4/MT1PEA-FM-FlujoDeTrabajo.md) 
+
 ### Entregables
 ---
 
-* Fluj de trabajo GitFlow acordado
+* Flujo de trabajo GitFlow acordado
 * Las fuentes del código deben estar en la rama principal del GitHub del equipo.
 
 
