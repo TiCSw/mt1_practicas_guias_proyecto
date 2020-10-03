@@ -1,19 +1,23 @@
-## Semana 8 - Elaborar retrospectiva
+## Semana 8 - Cierre del proyecto (demostración y retrospectiva)
 
 ### Objetivos
 
-Los integrantes realizan la retrospectiva final del proyecto usando la herramienta DAKI Drop Add Keep Improve
+* Realizar una demostración de la aplicación desarrolladas.
+* Analizar los resultados del proyecto
+* Realizar la retrospectiva del proyecto.
+
 
 ### Descripción actividad
 
-* Los integrantes finalizan la implementación del proyecto 
-* Actualizan la wiki
-* Crean un release en el github con la versión final
-* Para el cierre del proyecto los integrantes del equipo elaboran una presentación final en video: 
-  *  Crear y grabar escenario de uso de la aplicación  que muestre las historias de uso logradas
-  *  Analizar las prácticas y cómo se desarrollarón durante el proyecto, los reusltados finales y los datos de las pruebas. 
+Para cerrar el proyecto los integrantes del equipo llevan a cabo las siguientes actividades 
+  *  Realizar un video con una demostración de la aplicación donde se muestren las historias de uso logradas
+  *  Analizar los resultados del proyecto:
+      * Revisan los resultados finales y los datos de las pruebas. 
+      * Analizar el dashboard del proyecto en Jenkins (Cómo ver los resultados en Jenkins)
+      * Realizar una presentación con las conclusiones
+  *  Realizar una retrospectectiva usando la técnica DAKI
 
 ### Entregables
 
 * Los integrantes finalizan la implementación del proyecto 
-* Wiki del proyecto actualizada con la retrospectiva y el video
+* Wiki del proyecto actualizada con el video de la demostración, la presentación de análisis de los resultados y la retrospectiva
