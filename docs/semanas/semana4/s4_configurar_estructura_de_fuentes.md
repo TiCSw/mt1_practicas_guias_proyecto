@@ -4,8 +4,8 @@
 
 ----
 
-Crear la estructura del repositorio de fuentes del proyecto.
-Configurar los espacios locales de trabajo de cada uno de los integrantes de la pareja.
+* Crear la estructura del repositorio de fuentes del proyecto.
+* Configurar los espacios locales de trabajo de cada uno de los integrantes del equipo.
    
 ### Pasos previos
 ----
