@@ -1,5 +1,5 @@
 ## Distribución de funcionalidades por semana
-
+<!--
 ### Semana 5
 
 | Funcionalidad           | 
@@ -36,3 +36,4 @@
 |Listar viajeros |
 |Editar viajero|
 |Eliminar viajero |
+-->
