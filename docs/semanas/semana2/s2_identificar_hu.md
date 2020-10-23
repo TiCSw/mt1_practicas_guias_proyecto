@@ -21,7 +21,7 @@ Construir el listado de historias de usuario de la aplicación.
 
 * Identificar las historias de usuario. 
 
-* Construir el listado utilizando el formato Listado de historias de usuario. 
+* Construir el listado utilizando el [formato Listado de historias de usuario](MT1PEA-FM-ListadoHU.md). 
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
