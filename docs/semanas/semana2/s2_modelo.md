@@ -33,12 +33,12 @@
 
 ---
 * Herramienta de modelado: Genmymodel 
-* Plantilla glosario de términos 
+* [Plantilla glosario de términos](MT1PEA-FM-Glosario.md) 
 
 ### Entregables
 
 ---
-* Digrama conceptual en UML individual y el modelo conceptual consolidado `como aqui aun no tienen la wiki toca decidir en dónde lo suben`. 
+* Digrama conceptual en UML individual y el modelo conceptual consolidado. Subir el entregable en el sitio indicado en Coursera.
 * Glosario de términos del modelo.  
 
 ### Criterios de evaluación
