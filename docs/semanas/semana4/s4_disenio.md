@@ -18,10 +18,10 @@ Realizar el diseño de la aplicación.
 ---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-* Utilizar Genmymodel para construir un modelo de clases que represente el diseño de la aplicación que incluya las clases necesarias para:
+* Utilizar Genmymodel para construir un modelo de clases que represente el diseño de la aplicación correspondiente con las funcionalidades iniciales, es decir las que se desarrollarán en la semana 5. Este diseño debe incluir las clases necesarias para implementar:
   * La interfaz usuario.
+  * Las clases que contienen los métodos que servirán para implementar las historias de usuario. 
   * Las entidades persistentes en la base de datos.
-  * Los métodos que servirán para implementar las historias de usuario. 
 
 ### Recursos
 
