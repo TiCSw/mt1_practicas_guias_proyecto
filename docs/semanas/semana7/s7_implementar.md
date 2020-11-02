@@ -19,6 +19,7 @@
 
 
 *   Revisar en la [distribución de funcionalidades por semana](./../semana5/MT1PEA-PlanDesarrolloHistorias202020.md) las historias a desarrollar en la semana.
+*   Actualizar el diseño, en genmymodel, para que incluya el segundo grupo de funcionalidades. 
 *   Definir en cuáles historias van a hacer pair programming. Distribuir las demás historias entre los dos miembros del equipo.
 *   Planear los tiempos para desarrollar cada una de las historias: el equipo debe acordar los espacios en la semana para hacer el desarrollo de las historias con pair programming y el tiempo individual para las otras historias.
 *   Actualizar el tablero de actividades del proyecto con las tareas planeadas.
