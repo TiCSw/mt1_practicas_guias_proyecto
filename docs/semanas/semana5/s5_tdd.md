@@ -16,6 +16,7 @@ En esta semana se inicia el desarrollo de las funcionalidades del producto. Se p
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 * Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202020) el listado de funcionalidades a desarrollar en la semana.
+* Realizar las correcciones sugeridas por el tutor para las historias de usuario que se deben entregar esa semana.
 * Planear los tiempos para desarrollar cada una de las historias: el equipo debe acordar los espacios en la semana para hacer el desarrollo puesto que se va a realizar haciendo pair programming, como se muestra en el video de la Kata TDD. 
 * Actualizar el tablero de actividades del proyecto con las tareas planeadas.
 * Desarrollar cada una de las historias en los espacios planeados usando TDD y pair programming. 
