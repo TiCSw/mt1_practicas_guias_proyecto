@@ -19,7 +19,7 @@ Para cerrar el proyecto los integrantes del equipo llevan a cabo las siguientes 
       * Revisan los resultados finales y los datos de las pruebas. 
       * Analizar el dashboard del proyecto en Jenkins (Cómo ver los resultados en Jenkins)
       * Realizar una presentación con las conclusiones
-  *  Realizar una retrospectectiva usando la técnica DAKI
+  *  Realizar una retrospectectiva usando la técnica [DAKI](MISW4101-202015-Daki)
 
 ### Entregables
 ---
