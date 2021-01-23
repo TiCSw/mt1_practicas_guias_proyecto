@@ -11,8 +11,7 @@
 ### Pasos previos
 
 ---
-* Cada uno debe conocer quién en su compañero/a de equipo.
-* Cada equipo debe comunicarse para definir el horario de la reunión de consolidación del modelo conceptual. 
+* Haber realizado el proyecto guíado para la creación de diagramas de clases UML en GenMyModel. 
 
 ### Descripción actividad
 
@@ -22,10 +21,6 @@
 * Leer el enunciado con atención. 
 * Hacer un modelo conceptual en la herramienta de modelado que incluya: las clases, atributos y relaciones. 
 * Plantear  preguntas en el foro de preguntas del enunciado. 
-
-#### ![](./../../assets/images/grupo.png) Actividad de equipo
-
-* Consolidar, en un solo modelo conceptual, los dos modelos propuestos.  
 * Elaborar el glosario de términos del modelo consolidado. 
 
 
