@@ -10,24 +10,48 @@ El proyecto es pequeño, su alcance ya está ha definido y documentado a través
 
 Las semanas 2 y 3, se dedican al entendimiento del problema y al alistamiento del sitio para la documentación del proyecto y del repositorio para el código.
 
-  - Se construye un modelo conceptual en UML para ayudar en el entendimiento del problema y se construye un glosario de términos.
-  - Se identifican los requerimientos y se contruye un listado de historias de usuario.
-  - Se selecciona un conjunto de las historias para detallar y desarrollar.
-  - Se configura el espacio de documentación del proyecto en GitHub y el repositorio en sistema de control de versiones GIT donde se gestionará el código del proyecto.
+**Semana 2**
+
+      - Se construye un modelo conceptual usando un diagrama de clases en UML para ayudar en el entendimiento del problema y se construye un glosario de términos.
+      - Se identifican los requerimientos y se contruye un listado de historias de usuario.
   
-En la semana 4 se realiza el diseño detallado de la aplicación (lógica e interfaz), se definen las firmas de los métodos. Se define el flujo de trabajo inicial.
+**Semana 3**
 
-En las semanas 5, 6, 7  y 8 se desarrollan las historias. En cada semana se van integrando nuevas prácticas:
-  - Desarrollo dirigido por pruebas (Test Driven Development): se introduce en en la semana 5 y se usa en las semanas 6 y 7.
-  - Generación automática de datos prueba en la semana 6.
-  - Integración contínua: en la semanas 6 se usa el flujo de trabajo GitFlow y en la semanas 7 y 8 el flujo de trabajo GiHub Flow. En la semanas 7 y 8 se definen un flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento. Esta verificación se hace de manera automatizada y ejecuta las pruebas definidas, reportando el resultado.
+      - Se configura el espacio de documentación del proyecto en GitHub, el tablero de actividades para el seguimiento del proyecto  y el repositorio en sistema de control de versiones GIT donde se gestionará el código del proyecto.
+      - Se realiza el detalle de las historias de usuario.
   
-  Cada semana se hace una entrega del avance del proyecto.
+En las semanas 4, 5, 6 y 7 se desarrollan las historias en dos iteraciones. En cada semana se van integrando nuevas prácticas.
 
-En las semana 8, se realiza el cierre del proyecto y se hace una retrospectiva del trabajo realizado. 
+**Iteración 1** 
+  
+    Semana 4
+      - Se realiza el diseño detallado de la aplicación (lógica e interfaz), se definen las firmas de los métodos. 
+      - Se define el flujo de trabajo inicial.
+  
+    Semana 5:
+      - Desarrollo de historias de usuario utilizando desarrollo dirigido por pruebas (Test Driven Development).
+
+**Iteración 2**
+
+    Semana 6:
+      - Desarrollo de historias de usuario utilizando TDD y pruebas unitarias.
+      - Generación automática de datos prueba.
+      - Definición de un flujo de trabajo GitFlow
+  
+    Semana 7:  
+      - Desarrollo de historias de usuario utilizando TDD y pruebas unitarias.
+      - Generación automática de datos prueba.
+      - Se define un flujo de trabajo en una herramienta de integración contínua que permite integrar el proyecto de forma tal que funcione en todo momento. Esta verificación se hace de manera automatizada y ejecuta las pruebas definidas, reportando el resultado.
 
 
-El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. 
+**Semana 8**
+      - Se realiza el cierre del proyecto
+      - Se realiza una demostración de la solución
+      - Se hace una retrospectiva del trabajo realizado. 
+
+
+El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las parejas se conforman durante la semana 2 y el trabajo en grupo inicia en la semana 3.
+
 
 ## Enunciado
 
