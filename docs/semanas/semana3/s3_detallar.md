@@ -1,8 +1,9 @@
 ## Semana 3 - Detallar Historias de Usuario
 
-### Objetivo
+### Objetivos
 
 ---
+* Escoger y/o consolidar el modelo conceptual y el listado las historias de usuario
 * Detallar las historias de usuario del proyecto.
 
 
@@ -11,8 +12,18 @@
 ---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
+**Parte 1**
+
+* A partir del modelo conceptual y el listado de historias de usuario entregado por cada integrante del equipo en la semana 2, consolidar un único modelo y un único listado de historias de usuario. 
+* Subir el modelo conceptual consolidado a la wiki del proyecto.
+* Subir el listado de historias de usuario consolidado a la wiki del proyecto.
+
+
+**Parte 2**
+
 * Distribuir entre los dos integrantes del grupo las historias para su detalle y actualizar el listado de historias con el responsable. 
 * Cada integrante crea en la columna **Por Hacer** del tablero de actividades del proyecto, una tarea por cada una de las HU que debe detallar. 
+
 El siguiente es el formato que deben usar en el tablero para la definición de una tarea:
 
 | Tarea: Detallar la HU \<\< aquí va el nombre de la historia >> |
@@ -38,10 +49,12 @@ El siguiente es el formato que deben usar en el tablero para la definición de u
 ---
 En la wiki del proyecto:
 
+* El modelo conceptual y el listado de las historias de usuario consolidados, están en la wiki del proyecto.
 * La página del listado de historias de usuario fue actualizada con la información del responsable y con el enlace al detalle para cada historia de usuario.
 * Una página para el detalle de cada historia.
 
 En el tablero de actividades del proyecto:
+
 * El estado del tablero de actividades del proyecto refleja el estado de las actividades durante el proceso.
   
 ### Criterios de evaluación
