@@ -2,4 +2,4 @@
 
 ### Ventana Principal - Lista de actividades
 
-<img src="./../../assets/images/proyecto/ListaActividades.PNG" width="50%"> 
+<img src="./../../assets/images/proyecto/ListaActividades.PNG" width="40%"> 
