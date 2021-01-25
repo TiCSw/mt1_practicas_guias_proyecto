@@ -2,4 +2,4 @@
 
 ### Ventana Principal - Lista de actividades
 
-![](./../../assets/images/proyecto/ListaActividades.PNG | width=100) 
+![](./../../assets/images/proyecto/ListaActividades.PNG) 
