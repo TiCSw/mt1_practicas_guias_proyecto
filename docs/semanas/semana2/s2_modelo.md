@@ -33,7 +33,7 @@
 ### Entregables
 
 ---
-* Digrama conceptual en UML individual y el modelo conceptual consolidado. Subir el entregable en el sitio indicado en Coursera.
+* Digrama conceptual en UML individual. Subir el entregable en el sitio indicado en Coursera.
 * Glosario de términos del modelo.  
 
 ### Criterios de evaluación
