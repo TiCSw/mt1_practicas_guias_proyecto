@@ -1,4 +1,4 @@
-## Semana 4 - Árbol de navegación del proyecto
+## Árbol de navegación y diseño de pantallas
 
 <img src="./../../assets/images/proyecto/ArbolNavegacion.png" width="75%"> 
 
