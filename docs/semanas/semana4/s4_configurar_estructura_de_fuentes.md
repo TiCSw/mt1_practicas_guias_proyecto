@@ -4,7 +4,7 @@
 
 ----
 
-* Crear la estructura del repositorio de fuentes del proyecto.
+* Revisar la estructura inicial del repositorio de fuentes del proyecto.
 * Configurar los espacios locales de trabajo de cada uno de los integrantes del equipo.
    
 ### Pasos previos
@@ -18,24 +18,15 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
+
+En el repositorio del proyecto en GitHub se encuentra la estructura incial del las fuentes del proyecto. Esta versión inicial ya contiene las clases que implementan la interfaz de la aplicación.  
+
 * Cada uno de los integrantes clona el repositorio del proyecto para crear su espacio local de trabajo.
-* Siguiendo los pasos del tutorial [Creación de proyectos en Python](https://misovirtual.virtual.uniandes.edu.co/codelabs/creacion-de-proyectos-PyScaffold/index.html?index=..%2F..practicas#3), crear una estructura incial para las fuentes del proyecto en el espacio local de uno de los integrantes.
-* Realizar commit de los cambios en el repositorio local y enviarlos al repositorio remoto.
-* Actualizar el repositorio local del otro integrante.
+* Desde el IDE escogido, verifica que el código no tiene errores y que las librerías necesarias se enlazan al proyecto.
 
 
 ### Recursos
 
 ---
-* Tutorial  [Creación de proyectos en Python](https://misovirtual.virtual.uniandes.edu.co/codelabs/creacion-de-proyectos-PyScaffold/index.html?index=..%2F..practicas#3)
-### Entregables
+* Fuentes iniciales con la interfaz de la aplicación implementada.
 
----
-
-La estructura inicial de las fuentes del proyecto está en el repositorio en GitHub del proyecto.
-
-### Criterios de evaluación
-
----
-
-Se puede acceder al repositorio del equipo y la estructura corresponde con la solicitada. 
