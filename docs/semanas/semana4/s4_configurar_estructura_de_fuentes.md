@@ -17,12 +17,12 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 ----
 
 
-#### ![](./../../assets/images/grupo.png) Actividad de equipo
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 En el repositorio del proyecto en GitHub se encuentra la estructura incial del las fuentes del proyecto. Esta versión inicial ya contiene las clases que implementan la interfaz de la aplicación.  
 
-* Cada uno de los integrantes clona el repositorio del proyecto para crear su espacio local de trabajo. En la sección de recursos encuentran videos que muestran cómo instalar el proyecto en los IDE PyCharm y Visual Studio Code.
-* Desde el IDE escogido, verifica que el código no tiene errores y que las librerías necesarias se enlazan al proyecto.
+* Cada uno de los integrantes clona el repositorio del proyecto para crear su espacio local de trabajo. 
+* Desde el IDE escogido, verifica que el código no tiene errores y que las librerías necesarias se enlazan al proyecto. En la sección de recursos encuentran videos que muestran cómo instalar el proyecto en los IDE PyCharm y Visual Studio Code.
 
 
 ### Recursos
