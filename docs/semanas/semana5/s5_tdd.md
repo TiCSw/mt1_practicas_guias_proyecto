@@ -12,10 +12,10 @@ El objetivo de esta semana es desarrollar el primer grupo de historias de usuari
 
 ### Descripción actividad
 ---
-En esta semana se inicia el desarrollo de las funcionalidades del producto. Se propone dividir la funcionalidad en cuatro grupos de historias y desarrollar cada grupo en una semana. Durante esta semana se utilizará el flujo de trabajo que estableció el equipo para la semana 4. 
+En esta semana se inicia el desarrollo de las funcionalidades del producto. Se propone dividir la funcionalidad en tres grupos de historias y desarrollar cada grupo en una semana. Durante esta semana se utilizará el flujo de trabajo que estableció el equipo en la semana 4. 
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
-* Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202020) el listado de funcionalidades a desarrollar en la semana.
+* Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202111) el listado de funcionalidades a desarrollar en la semana.
 * Realizar las correcciones sugeridas por el tutor para las historias de usuario que se deben entregar esa semana.
 * Planear los tiempos para desarrollar cada una de las historias: el equipo debe acordar los espacios en la semana para hacer el desarrollo puesto que se va a realizar haciendo pair programming, como se muestra en el video de la Kata TDD. 
 * Actualizar el tablero de actividades del proyecto con las tareas planeadas.
