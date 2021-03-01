@@ -2,12 +2,12 @@
 
 ### Objetivos
 ---
-* Agreagar a las pruebas unitarias la utilización de datos generados aleatoriamente.
+* Agregar a las pruebas unitarias la utilización de datos generados aleatoriamente.
 
 ### Pasos previos
 ---
 
-* Revisar la [sección 9 del tutorial de pruebas unitarias](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-unit-test/index.html?index=..%2F..practicas#8)
+* Revisar la [sección 9 del tutorial de pruebas unitarias](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-unit-test-canciones/index.html?index=..%2F..index#8)
 * Haber realizado la implementación de los dos primeros grupos de historias del proyecto. 
 * El código debe estar integrado, sin errores, en la rama master del repositorio. 
 
