@@ -1,4 +1,4 @@
-## Semana 7 - Implementación historias usando GitHub Flow e IC
+## Semana 7 - Implementación historias usando GitFlow e IC
 
 ### Objetivos
 
