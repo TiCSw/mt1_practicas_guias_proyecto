@@ -4,8 +4,8 @@
 ---
 Los objetivos de esta actividad son:
 
-*   Definir un flujo de trabajo usando GitHub Flow.
-*   Utilizar GitHub Actions para definir un pipeline con el fin de realizar integración continua de la aplicación. Este pipeline automatiza la verificación de las pruebas cuando se solicite un pull-request a la rama master y además exige la revisión del código por parte del otro miembro de equipo antes de integrar el pull-request a la rama master. 
+*   Continuar utilizando el flujo de trabajo usando GitFlow.
+*   Utilizar GitHub Actions para definir pipelines con el fin de realizar integración continua de la aplicación. 
 
 ### Pasos previos
 
@@ -19,22 +19,13 @@ Los objetivos de esta actividad son:
 ---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-*  Crear una nueva versión del acuerdo de flujo de trabajo para definir un flujo GitHub Flow para la implementación de las historias de usuario. Consignar el nuevo acuerdo en el formato [Flujo de trabajo](./../semana4/MT1PEA-FM-FlujoDeTrabajo.md) 
-*  Definir un pipeline usando GitHub actions que cuando se solicite un pull-request a la rama master:
-   - Verifique de forma automática que las pruebas unitarias se ejecutan correctamente, en el caso que fallen se debe rechazar el pull-request
-   - Asigne la revisión del pull-request al otro miembro del equipo 
+*  Definir un pipeline usando GitHub actions que automatiza la verificación de las pruebas cuando se mezcle la rama de una historia a la rama develop.
+*  Definir un pipeline usando GitHub actions que automatice la creación de la rama Release, verifique las pruebas y si son correctas mezclar con la rama master.
 
-
-### Recursos
-
----
-* [Formato Flujo de trabajo](./../semana4/MT1PEA-FM-FlujoDeTrabajo.md) 
 
 ### Entregables
 ---
-En la wiki del proyecto debe quedar:
 
-* El nuevo acuerdo sobre el flujo de trabajo.
 
 En el repositorio de código debe quedar el archivos yaml que define el pipeline para la integración continua.
 
@@ -43,6 +34,5 @@ En el repositorio de código debe quedar el archivos yaml que define el pipeline
 
 ---
 
-* El acuerdo de flujo de trabajo define los repositorios, ramas y procesos para realizar un flujo GitHub Flow.
-* El pipeline definido en actions funciona de acuerdo a las condiciones solicitadas. 
+* Los pipelines definidos en actions funcionan de acuerdo a las condiciones solicitadas. 
   
