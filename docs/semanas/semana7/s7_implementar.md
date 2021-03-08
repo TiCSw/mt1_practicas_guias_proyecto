@@ -3,7 +3,8 @@
 ### Objetivos
 
 *   Implementar el tercer grupo de funcionalidades del proyecto, utilizando TDD, generación de datos automática y el flujo de trabajo GitFlow definido en la semana 6.
-*   Utilizar el pipeline en GitHub Actions para ejecutar la integración continua cada vez que se integra una historia a la rama master/main.
+*   Utilizar el pipeline en GitHub Actions para ejecutar la integración continua cada vez que se integra una historia a la rama develop.
+*   Usar el pipeline en GitHub Actions para generar la rama release y mezclar con la rama master.
 
 ### Pasos previos
 ---
