@@ -9,7 +9,7 @@
 ### Pasos previos
 ---
 
-*   Definir el acuerdo del flujo de trabajo
+*   Haber definido el acuerdo del flujo de trabajo GitFlow
 *   Implementar los scripts en yaml para la integración continua.
 *   El código debe estar integrado, sin errores, en la rama master/main del repositorio del equipo en GitHub. 
 
