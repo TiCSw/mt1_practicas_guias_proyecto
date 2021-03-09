@@ -4,7 +4,7 @@
 ---
 Los objetivos de esta actividad son:
 
-*   Continuar utilizando el flujo de trabajo usando GitFlow.
+*   Continuar utilizando el flujo de trabajo GitFlow.
 *   Utilizar GitHub Actions para definir pipelines con el fin de realizar integración continua de la aplicación. 
 
 ### Pasos previos
