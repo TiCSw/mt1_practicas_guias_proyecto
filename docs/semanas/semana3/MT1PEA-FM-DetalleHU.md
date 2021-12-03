@@ -12,6 +12,7 @@
 
 
 ### Revisión
+
 | Criterio      | Comentario       | Realizado por |
 |---------------|------------------|---------------|
 | Completo      | << Comentario >> | @usuario      |
