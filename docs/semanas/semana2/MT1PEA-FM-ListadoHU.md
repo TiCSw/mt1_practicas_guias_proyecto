@@ -8,6 +8,7 @@
 
 
 ### Revisión
+
 | Criterio      | Comentario       | Realizado por |
 |---------------|------------------|---------------|
 | Forma         | << Comentario >> | @usuario      |

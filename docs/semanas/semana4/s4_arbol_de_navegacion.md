@@ -1,50 +1,33 @@
+<br>
+
 ## Árbol de navegación y diseño de pantallas
 
-<img src="./../../assets/images/proyecto/ArbolNavegacion.png" width="75%"> 
+<img src="./../../assets/images/proyecto/apuestas/ArbolNavegacion.png" width="75%"> 
 
 
-### Ventana Principal - Lista de actividades
+### Ventana Principal - Lista de carreras
 
-Esta es la lista de actividades. Desde acá se pueden ver todas las actividades de la aplicación.
+Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las carreras y se puede acceder a las demás funcionalidades de la aplicación (listado de apostadores y listado de apuestas).
 
-<img src="./../../assets/images/proyecto/ListaActividades.PNG" width="40%"> 
+<img src="./../../assets/images/proyecto/apuestas/ListaCarreras.png" width="40%"> 
 
-Esta ventana permite la creación y edición de actividades:
+Esta ventana permite la creación / edición de carreras y competidores:
 
-<img src="./../../assets/images/proyecto/NuevaActividad.PNG">
+<img src="./../../assets/images/proyecto/apuestas/NuevaCarreraYCompetidores.png">
 
-La asignación de viajeros existentes a las actividades listadas
+La eliminación y terminación de carreras está contemplada a través de los botones correspondientes. Al terminar una carrera el usuario administrador podrá generar el reporte de ganancias de la casa y por apostador.
 
-<img src="./../../assets/images/proyecto/AñadirViajeroAActividad.PNG">
+<img src="./../../assets/images/proyecto/apuestas/ReporteGanancias.png" width="40%"> 
 
-La eliminación y terminación de actividades está contemplada a través de los botones correspondientes.
+### Ventana Principal - Lista de apostadores
 
-También es posible acceder a la lista de viajeros y al detalle de la actividad.
+La lista de apostadores muestra todos los apostadores registrados en la aplicación. Esta ventana permite además la creación, edición y eliminación de apostadores.
 
-### Ventana Principal - Lista de viajeros
+<img src="./../../assets/images/proyecto/apuestas/Apostadores.png" width="30%">
 
-La lista de viajeros muestra todos los viajeros registrados en la aplicación.
+### Ventana Principal - Lista de Apuestas
 
-<img src="./../../assets/images/proyecto/Viajeros.PNG" width="30%">
+Esta ventana permite ver la lista de apuestas de una carrera. Desde aquí es posible registrar una apuesta, editarla o eliminarla.
 
-Esta ventana permite además la creación, edición y eliminación de viajeros.
+<img src="./../../assets/images/proyecto/apuestas/VerApuestas.png" width="40%"> 
 
-<img src="./../../assets/images/proyecto/AñadirViajero.PNG" width="30%">
-
-### Ventana Principal - Detalle de actividad
-
-Esta ventana permite ver los gastos de una actividad en particular (accediendo desde la lista de actividades)
-
-<img src="./../../assets/images/proyecto/VerActividad.PNG" width="40%"> 
-
-Desde aquí es posible registrar un gasto
-
-<img src="./../../assets/images/proyecto/NuevoGasto.PNG"> 
-
-Ver el reporte consolidado de gastos
-
-<img src="./../../assets/images/proyecto/GastosConsolidados.PNG" width="40%"> 
-
-Y ver el reporte de compensación de viajeros para la actividad
-
-<img src="./../../assets/images/proyecto/ReporteGastos.PNG" width="40%"> 
