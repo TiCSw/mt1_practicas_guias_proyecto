@@ -65,16 +65,16 @@ También en la pantalla principal, el usuario podrá acceder a una lista de apos
 
 Cuando el usuario abre una carrera verá una pantalla de información de las apuestas asociadas a esta, mostrando por cada apuesta el valor, el nombre del apostador que la realizó y el competidor al que le apostó.   Para una carrera, el usuario podrá incluir una o varias apuestas asociadas a un apostador de los existentes en el sistema. También debe tener opciones para editar o eliminar apuestas.
 
-### Método para calcular las ganancias
+**Método para calcular las ganancias**
 
 Los apostadores que no acertaron al ganador no obtienen ganancias alguna de su apuesta. Las ganancias de los apostadores que adivinaron el ganador se determinan a partir de la cuota. La cuota se calcula usando la siguiente fórmula:
 
-![](./../../assets/images/formula_cuota.PNG)
+![](assets/images/formula_cuota.PNG)
 
 Donde la probabilidad es un valor entre 0 y 1 que representa la probabilidad de ganar del competidor. 
 Para calcular la ganancia de un apostador se aplica la siguiente fórmula:
 
-![](./../../assets/images/formula_ganancia.PNG)
+![](assets/images/formula_ganancia.PNG)
 
 La ganancia de la casa corresponde a la suma de todas las apuestas menos el total pagado a los apostadores que acertaron el ganador por concepto de sus ganancias. Un valor negativo de ganancia de la casa indica que la casa debe colocar dinero adicional para cubrir el total a pagar en las apuestas ganadoras, es decir la casa pierde dinero. 
 
