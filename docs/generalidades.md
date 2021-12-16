@@ -69,12 +69,12 @@ Cuando el usuario abre una carrera verá una pantalla de información de las apu
 
 Los apostadores que no acertaron al ganador no obtienen ganancias alguna de su apuesta. Las ganancias de los apostadores que adivinaron el ganador se determinan a partir de la cuota. La cuota se calcula usando la siguiente fórmula:
 
-![](../assets/images/formula_cuota.PNG)
+![](assets/images/proyecto/apuestas/formula_cuota.PNG)
 
 Donde la probabilidad es un valor entre 0 y 1 que representa la probabilidad de ganar del competidor. 
 Para calcular la ganancia de un apostador se aplica la siguiente fórmula:
 
-![](../assets/images/formula_ganancia.PNG)
+![](assets/images/proyecto/apuestas/formula_ganancia.PNG)
 
 La ganancia de la casa corresponde a la suma de todas las apuestas menos el total pagado a los apostadores que acertaron el ganador por concepto de sus ganancias. Un valor negativo de ganancia de la casa indica que la casa debe colocar dinero adicional para cubrir el total a pagar en las apuestas ganadoras, es decir la casa pierde dinero. 
 
