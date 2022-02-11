@@ -6,6 +6,7 @@
 |-------------------------| 
 |Descripción E-Porra y listado de carreras |
 |Crear nueva carrera |
+|Crear competidor |
 
 ### Semana 6
 
