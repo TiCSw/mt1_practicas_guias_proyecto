@@ -15,7 +15,7 @@
 |Ver apuestas asociadas a una carrera |
 |Crear apuesta |
 |Terminar carrera |
-|Generar reporte de ganancias |
+|Generar reporte de ganancias (Desarrollar esta funcionalidad usando TDD y Pair programming)|
 
 ### Semana 7
 
