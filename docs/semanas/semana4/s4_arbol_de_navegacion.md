@@ -13,7 +13,7 @@ Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todos 
 
 Esta ventana permite la creación / edición de automóviles:
 
-<img src="./../../assets/images/proyecto/autoperfecto/crear_editar_competidor.png">
+<img src="./../../assets/images/proyecto/autoperfecto/crear_editar_competidor.png" width="40%">
 
 La eliminación y venta de automóviles está contemplada a través de los botones correspondientes. Al vender un automóvil o desde la ventana de acciones se podrá generar el reporte de gastos del automóvil por año y el valor del kilómetro.
 
@@ -29,5 +29,5 @@ La lista de mantenimientos muestra todos los mantenimientos registrados en la ap
 
 Esta ventana permite ver la lista de acciones de un automóvil. Desde aquí es posible registrar una acción, editarla o eliminarla.
 
-<img src="./../../assets/images/proyecto/apuestas/acciones.png" width="40%"> 
+<img src="./../../assets/images/proyecto/autoperfecto/acciones.png" width="40%"> 
 
