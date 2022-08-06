@@ -7,9 +7,9 @@ Construir el listado de historias de usuario de la aplicación.
 
 ### Pasos previos
 
----
-* Tener el modelo conceptual y el glosario de términos.
-* Haber resuelto las preguntas relacionadas con el enunciado.
+ ---
+* Construir el modelo conceptual y el glosario de términos.
+* Haber realizado las preguntas que surgieron a partir del enunciado y revisado las respuestas a todas las preguntas en el [foro de preguntas del enunciado ](https://www.coursera.org/learn/practicas-esenciales-software-agilismo/discussions/weeks/2).
 
 ### Descripción actividad
 
@@ -28,7 +28,7 @@ Construir el listado de historias de usuario de la aplicación.
 ### Entregables
 
 ---
-Listado de historias de usuario consolidado de la aplicación. 
+Construir el listado utilizando el formato Listado de historias de usuario. (Nota:  para esta entrega no se debe completar el apartado de Revisión del formato) 
 Subir el entregable en el sitio indicado en Coursera. 
 
 ### Criterios de evaluación

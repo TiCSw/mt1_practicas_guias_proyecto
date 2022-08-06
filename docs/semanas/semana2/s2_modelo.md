@@ -1,5 +1,5 @@
 
-## Semana 2 - Construcción del modelo conceptual
+## Semana 2 - Construcción del modelo conceptual y glosario
 
 ### Objetivos
 
@@ -33,8 +33,9 @@
 ### Entregables
 
 ---
-* Digrama conceptual en UML individual. Subir el entregable en el sitio indicado en Coursera.
-* Glosario de términos del modelo.  
+Documento en formato pdf o word que contenga:
+* Imagen en formato png o jpg del digrama conceptual en UML individual. Subir el entregable en el sitio indicado en Coursera.
+* Tabla con el glosario de términos del modelo.  
 
 ### Criterios de evaluación
 
