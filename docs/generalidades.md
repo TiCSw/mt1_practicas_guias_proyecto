@@ -55,28 +55,24 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 ## Enunciado
 
-La empresa SoftOne lo ha contratado para desarrollar una aplicación llamada “E-porra” que permita a un usuario  administrar apuestas alrededor de carreras de cualquier tipo (caballos, fórmula 1, atletismo, etc). En muchos bares y tiendas locales, las personas se reúnen a ver estas competencias  y en algunos casos apuestan sumas de dinero al ganador de una carrera. Estas apuestas son también llamadas pollas, porras o quinielas en diversos países hispanoparlantes.
+La empresa SoftOne lo ha contratado para desarrollar una aplicación llamada “auto-perfecto” que permitirá a un usuario gestionar todo lo relacionado con sus automóviles. Las personas que poseen un automóvil tienen que estar pendientes de muchos mantenimientos que deben realizarle, como impuestos, gasolina, reparaciones, entre otros, y a veces les queda difícil saber qué deben hacer con sus automóviles y llevar las cuentas de lo que deben realizar para tenerlos en perfectas condiciones. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
 
-A través de esta aplicación, el usuario podrá llevar el registro de las apuestas que hacen los apostadores en una carrera, con el propósito de poder pagar correctamente a quienes hayan acertado con el resultado de dicho evento. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
+Al iniciar la aplicación el usuario verá una pantalla principal, donde podrá ver el logo, la descripción de “auto-perfecto” y el listado de automóviles que tiene registrados. El usuario verá, por cada vehículo, la opción de editar su información, ver las acciones que tiene registradas, venderlo, o de borrar la información del vehículo, siempre que no tenga acciones. En esta pantalla también verá una opción para agregar un nuevo vehículo, donde podrá registrar la marca, placa, modelo, kilometraje que tenía cuando lo compró, el color, cilindraje y el tipo de combustible que usa. Cuando se vende el automóvil, se debe registrar el precio de venta y el kilometraje que tenía al momento de entregarlo.
 
-Para utilizar este software, el usuario  administrador debe abrir una pantalla principal, donde encontrará una descripción de “E-porra”, acompañada de un listado de las carreras que tiene registradas. El usuario tiene la opción de abrir, editar, terminar o borrar una carrera, esto último siempre que no tenga apuestas asociadas. Adicionalmente debe tener la opción de crear una nueva carrera con un nombre determinado. Crear una nueva carrera requiere indicar para cada competidor su nombre y la probabilidad que tiene de ganar la carrera (un valor entre 0 y 1) . La suma de las probabilidades de todos los competidores debe ser igual a 1 (esto es, el 100%). Cuando  se termina una carrera se registra el ganador y se debe poder generar un reporte que indique cuánto se debe pagar a cada usuario que apostó al competidor ganador y qué ganancias o pérdidas tuvo el usuario administrador , también denominado “la casa” . Para calcular las ganancias de los apostadores y de la casa se utiliza el método que se describe más adelante.
+El usuario también tendrá en la pantalla principal un acceso a una lista de mantenimientos que podrá realizar sobre cualquiera de los automóviles que tiene registrados en “auto-perfecto”, y desde esta lista podrá crear un mantenimiento con su nombre y descripción, editar los mantenimientos existentes, o borrarlos si los automóviles registrados no las usan.
 
-También en la pantalla principal, el usuario podrá acceder a una lista de apostadores existentes en el sistema, y desde esta lista, podrá adicionar un nuevo apostador, editar su información o borrarlo si no tiene relación con alguna apuesta o carrera.
+Cuando el usuario abre la información de un automóvil, verá una pantalla con las acciones que ha realizado sobre el automóvil, mostrando por cada una el nombre del mantenimiento al que corresponde, el kilometraje que tenía el automóvil cuando la realizó, la fecha y el costo de la acción. Adicionalmente, en esta pantalla tendrá las opciones para crear, editar y borrar las acciones sobre un automóvil, así como un botón que le mostrará un resumen de cuántos gastos le ha generado el automóvil, cuanto le ha costado por cada año que lo ha tenido y cuánto le cuesta mover el automóvil un kilómetro a partir de todos los gastos que ha tenido en el último año.
 
-Cuando el usuario abre una carrera verá una pantalla de información de las apuestas asociadas a esta, mostrando por cada apuesta el valor, el nombre del apostador que la realizó y el competidor al que le apostó.   Para una carrera, el usuario podrá incluir una o varias apuestas asociadas a un apostador de los existentes en el sistema. También debe tener opciones para editar o eliminar apuestas.
 
-**Método para calcular las ganancias**
+**Método para calcular el costo de utilizar el automóvil un kilómetro**
 
-Los apostadores que no acertaron al ganador no obtienen ganancias alguna de su apuesta. Las ganancias de los apostadores que adivinaron el ganador se determinan a partir de la cuota. La cuota se calcula usando la siguiente fórmula:
+Para calcular el valor de un kilómetro de un automóvil, se debe hacer lo siguiente:
 
-![](assets/images/proyecto/apuestas/formula_cuota.PNG)
+1.	Calcular el promedio de lo que cuesta un kilómetro para las acciones de un mismo mantenimiento así:
+![](assets/images/proyecto/autoperfecto/formula_mantenimientos.png)
 
-Donde la probabilidad es un valor entre 0 y 1 que representa la probabilidad de ganar del competidor. 
-Para calcular la ganancia de un apostador se aplica la siguiente fórmula:
-
-![](assets/images/proyecto/apuestas/formula_ganancia.PNG)
-
-La ganancia de la casa corresponde a la suma de todas las apuestas menos el total pagado a los apostadores que acertaron el ganador por concepto de sus ganancias. Un valor negativo de ganancia de la casa indica que la casa debe colocar dinero adicional para cubrir el total a pagar en las apuestas ganadoras, es decir la casa pierde dinero. 
+2.	Calcular el promedio del valor del kilómetro de las acciones de mantenimiento:
+![](assets/images/proyecto/apuestas/formula_kilometro.png)
 
 ## Tecnologías para el desarrollo 
 
