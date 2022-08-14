@@ -20,7 +20,7 @@
 
 * Leer el enunciado con atención. 
 * Hacer un modelo conceptual en la herramienta de modelado que incluya: las clases, atributos y relaciones. 
-* Plantear  preguntas en el [foro de preguntas del enunciado. ](https://www.coursera.org/learn/practicas-esenciales-software-agilismo/discussions/weeks/2)
+* Plantear  preguntas en el [formulario de preguntas del enunciado. ]([https://www.coursera.org/learn/practicas-esenciales-software-agilismo/discussions/weeks/2](https://forms.office.com/Pages/ResponsePage.aspx?id=fAS9-kj_KkmLu4-YufucyvZ7CtW1qa1Avs-Qs6q-HpNUMVJEOEVOTjJWR1JBSzg4RURQTTVVV0c2Ui4u))
 * Elaborar el glosario de términos del modelo consolidado. 
 
 
