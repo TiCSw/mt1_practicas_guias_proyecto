@@ -72,7 +72,7 @@ Para calcular el valor de un kilómetro de un automóvil, se debe hacer lo sigui
 ![](assets/images/proyecto/autoperfecto/formula_mantenimientos.png)
 
 2.	Calcular el promedio del valor del kilómetro de las acciones de mantenimiento:
-![](assets/images/proyecto/atuoperfect/formula_kilometro.png)
+![](assets/images/proyecto/atuoperfecto/formula_kilometro.png)
 
 ## Tecnologías para el desarrollo 
 
