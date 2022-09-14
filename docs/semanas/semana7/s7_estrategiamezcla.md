@@ -9,18 +9,18 @@ Detectar un *push* ea cualquier rama de funcionalidad y validar en el mensaje de
 Detectar un *push* a desarrollo y validar en el mensaje de *commit* una palabra clave para identificar si se va a crear la rama *release*. Si se detecta la palabra clave en el *commit* se crea la rama *release*, se mezcla en la rama *release* la rama de desarrollo y se corren las pruebas. Si las pruebas pasan se mezcla la rama *release* en la rama *master*, de lo contrario se cierra la acción.
 
 #### Algunas Instrucciones de GitHub Actionsque pueden ser útiles para implementar estas estrategias
-1. Si desea detectar un pusha cualquier rama que este nombrada con un prefijo (p. ej.el prefijo <code>**historia**</code>) puede incluir en la definición de ramas del flujo <code>**historia****</code>:
+1. Si desea detectar un pusha cualquier rama que este nombrada con un prefijo (p. ej.el prefijo <code>**historia**</code>) puede incluir en la definición de ramas del flujo <code><b>historia**</b></code>:
     <pre>
     on:
         push:
             branches:
                 - 'historia**'
     </pre>
-2. Si desea validar una palabra clave en el mensaje de commit, por ejemplo, "PALABRACLAVE", puede utilizar la función <code>**contanis**</code>:
+2. Si desea validar una palabra clave en el mensaje de commit, por ejemplo, "PALABRACLAVE", puede utilizar la función <code><b>contanis</b></code>:
     <pre>
     if: $&#123;&#123; contains(github.event.head_commit.message, 'PALABRACLAVE') &rcub;&rcub;
     </pre>
-3. Si desea identificar el nombre de la rama que hizo el push,puede utilizarla variable <code>**github.ref**</code>:
+3. Si desea identificar el nombre de la rama que hizo el push,puede utilizarla variable <code><b>github.ref</b></code>:
     <pre>
     $&#123;&#123; github.ref &rcub;&rcub;
     </pre>
