@@ -24,7 +24,7 @@ Detectar un *push* a desarrollo y validar en el mensaje de *commit* una palabra 
     <pre>
     ${{ github.ref }}
     </pre>
-4.Si desea mezclar 2 ramas, puede utilizarla instrucción del Marketplacedirect-merge-action. Ver documentación en: https://github.com/tukasz/direct-merge-action
+4. Si desea mezclar 2 ramas, puede utilizarla instrucción del Marketplacedirect-merge-action. Ver documentación en: https://github.com/tukasz/direct-merge-action
 <pre>
   - name: Mezcla rama1 -> rama2
     uses: tukasz/direct-merge-action@master
