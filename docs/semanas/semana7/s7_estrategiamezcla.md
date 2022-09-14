@@ -18,18 +18,18 @@ Detectar un *push* a desarrollo y validar en el mensaje de *commit* una palabra 
     </pre>
 2. Si desea validar una palabra clave en el mensaje de commit, por ejemplo, "PALABRACLAVE", puede utilizar la función <code>**contanis**</code>:
     <pre>
-    if: ${{ contains(github.event.head_commit.message, 'PALABRACLAVE') }}
+    if: $&#123;&#123; contains(github.event.head_commit.message, 'PALABRACLAVE') &rcub;&rcub;
     </pre>
 3. Si desea identificar el nombre de la rama que hizo el push,puede utilizarla variable <code>**github.ref**</code>:
     <pre>
-    ${{ github.ref }}
+    $&#123;&#123; github.ref &rcub;&rcub;
     </pre>
 4. Si desea mezclar 2 ramas, puede utilizarla instrucción del Marketplacedirect-merge-action. Ver documentación en: https://github.com/tukasz/direct-merge-action
 <pre>
   - name: Mezcla rama1 -> rama2
     uses: tukasz/direct-merge-action@master
     with:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: $&#123;&#123; secrets.GITHUB_TOKEN &rcub;&rcub;
       source-branch: rama1
       target-branch: rama2
 </pre>
