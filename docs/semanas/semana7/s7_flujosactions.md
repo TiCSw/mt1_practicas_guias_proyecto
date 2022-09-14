@@ -21,6 +21,7 @@ Los objetivos de esta actividad son:
 
 *  Definir un pipeline usando GitHub actions que automatiza la verificación de las pruebas cuando se mezcle la rama de una historia a la rama develop.
 *  Definir un pipeline usando GitHub actions que automatice la creación de la rama Release, verifique las pruebas y si son correctas mezclar con la rama master.
+*  Aplicar la [Estrategia para mezclar ramas de funcionalidad con la rama *develop*/desarrollo](./s7_estrategiamezcla.md) para implementar los pipelines.
 
 
 ### Entregables
