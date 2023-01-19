@@ -31,7 +31,7 @@ El siguiente es el formato que deben usar en el tablero para la definición de u
 | Responsable: \<\< _aquí va el nombre del responsable_ >>       |
 | Fecha entrega: \<\< _aquí va la fecha de entrega_ >>           |
 
-* Agregar a la sección de formatos de la wiki el [formato de detalle de historias de usuario](MT1PEA-FM-DetalleHU). 
+* Agregar a la sección de formatos de la wiki el [formato de detalle de historias de usuario](MT1PEA-FM-DetalleHU.md). 
   
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
