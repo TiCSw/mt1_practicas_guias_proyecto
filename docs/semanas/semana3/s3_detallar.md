@@ -42,7 +42,7 @@ El siguiente es el formato que deben usar en el tablero para la definición de u
 ### Recursos
 
 ---
-* [Formato de detalle de historias de usuario](MT1PEA-FM-DetalleHU). 
+* [Formato de detalle de historias de usuario](MT1PEA-FM-DetalleHU.md). 
 * [Árbol de navegación y diseño de pantallas](./../semana4/s4_arbol_de_navegacion)
 
 ### Entregables
