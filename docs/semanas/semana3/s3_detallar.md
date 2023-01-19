@@ -35,7 +35,7 @@ El siguiente es el formato que deben usar en el tablero para la definición de u
   
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Detallar cada historia con la descripción, el mockup y los criterios de aceptación. Para el diseño de los mockups el cliente ha entregado un diseño de pantallas que realizó y que se encuentra en el archivo [Árbol de navegación y diseño de pantallas](./../semana4/s4_arbol_de_navegacion).
+* Detallar cada historia con la descripción, el mockup y los criterios de aceptación. Para el diseño de los mockups el cliente ha entregado un diseño de pantallas que realizó y que se encuentra en el archivo [Árbol de navegación y diseño de pantallas](./../semana4/s4_arbol_de_navegacion.md).
 * Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
   estado de la tarea en el tablero de actividades del proyecto, moviéndola a la columna **En progreso** o **Terminada** respectivamente.
 
@@ -43,7 +43,7 @@ El siguiente es el formato que deben usar en el tablero para la definición de u
 
 ---
 * [Formato de detalle de historias de usuario](MT1PEA-FM-DetalleHU.md). 
-* [Árbol de navegación y diseño de pantallas](./../semana4/s4_arbol_de_navegacion)
+* [Árbol de navegación y diseño de pantallas](./../semana4/s4_arbol_de_navegacion.md)
 
 ### Entregables
  
