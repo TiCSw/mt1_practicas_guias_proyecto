@@ -55,24 +55,38 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 ## Enunciado
 
-La empresa SoftOne lo ha contratado para desarrollar una aplicación llamada “auto-perfecto” que permitirá a un usuario gestionar todo lo relacionado con sus automóviles. Las personas que poseen un automóvil tienen que estar pendientes de muchos mantenimientos que deben realizarle, como impuestos, gasolina, reparaciones, entre otros, y a veces les queda difícil saber qué deben hacer con sus automóviles y llevar las cuentas de lo que deben realizar para tenerlos en perfectas condiciones. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
+La empresa SoftOne lo ha contratado para desarrollar una aplicación para gestionar información confidencial de una persona. Las personas requieren manejar información de ingreso (login)  en sitios web o en aplicaciones, de sus tarjetas bancarias, de sus documentos de identificación e incluso de secretos personales.  Esta aplicación va a llevar el nombre de Caja de Seguridad. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación. 
 
-Al iniciar la aplicación el usuario verá una pantalla principal, donde podrá ver el logo, la descripción de “auto-perfecto” y el listado de automóviles que tiene registrados. El usuario verá, por cada vehículo, la opción de editar su información, ver las acciones que tiene registradas, venderlo, o de borrar la información del vehículo, siempre que no tenga acciones. En esta pantalla también verá una opción para agregar un nuevo vehículo, donde podrá registrar la marca, placa, modelo, kilometraje que tenía cuando lo compró, el color, cilindraje y el tipo de combustible que usa. Cuando se vende el automóvil, se debe registrar el precio de venta y el kilometraje que tenía al momento de entregarlo.
+Al iniciar la aplicación el usuario verá una pantalla en la que se le solicita una clave maestra para ingresar, si la clave maestra es correcta se le permite acceder a la pantalla principal. En la pantalla principal podrá ver el logo, la descripción de la aplicación Caja de Seguridad y el listado elementos que tienen guardados en la caja. El usuario verá, por cada elemento, el nombre del elemento, su tipo (login, tarjeta, identificación o secreto), las opciones de editar la información del elemento, borrar el elemento y ver clave asociada al elemento. En la pantalla principal, además del listado, el usuario podrá tener acceso a crear un elemento nuevo, a un listado de sus claves favoritas y a un reporte de seguridad del contenido de la caja. 
 
-El usuario también tendrá en la pantalla principal un acceso a una lista de mantenimientos que podrá realizar sobre cualquiera de los automóviles que tiene registrados en “auto-perfecto”, y desde esta lista podrá crear un mantenimiento con su nombre y descripción, editar los mantenimientos existentes, o borrarlos si los automóviles registrados no las usan.
+Para crear un elemento nuevo el usuario podrá escoger primero el tipo de elemento que quiere crear y, de acuerdo al que escoja, podrá registrar la información requerida para el elemento. La información que se quiere guardar por tipo de elemento es la siguiente:
+* Login: nombre del elemento, email asociado, el usuario, el password o clave, la url y una nota de texto 
+* Secreto: el nombre del elemento, el secreto, la clave y una nota de texto 
+* Identificación: el nombre del elemento, el número, el nombre completo, la fecha de nacimiento, la fecha de expedición, la fecha de vencimiento y una nota de texto 
+* Tarjeta: nombre del elemento, el número, el titular, la fecha de vencimiento, el código de seguridad (CVV), la clave, la dirección, el teléfono y una nota de texto.
 
-Cuando el usuario abre la información de un automóvil, verá una pantalla con las acciones que ha realizado sobre el automóvil, mostrando por cada una el nombre del mantenimiento al que corresponde, el kilometraje que tenía el automóvil cuando la realizó, la fecha y el costo de la acción. Adicionalmente, en esta pantalla tendrá las opciones para crear, editar y borrar las acciones sobre un automóvil, así como un botón que le mostrará un resumen de cuántos gastos le ha generado el automóvil, cuanto le ha costado por cada año que lo ha tenido y cuánto le cuesta mover el automóvil un kilómetro a partir de todos los gastos que ha tenido en el último año.
+Las claves que se usan en la aplicación se gestionan en la lista de claves favoritas. El usuario puede acceder a esta lista desde la pantalla principal. Para cada una de las claves, se muestra el nombre y se da la posibilidad de editar o de borrar la clave. Igualmente, el usuario puede crear una nueva clave desde esta pantalla y registrar el nombre de la clave, la clave y su confirmación y una pista. Si el usuario desea, puede solicitar que la aplicación genere automáticamente una clave segura.  
 
+Una clave se considera segura cuando cumple las siguientes características: 
+* Incluye números. 
+* Utiliza combinación de letras mayúsculas y minúsculas. 
+* Incluye uno de los siguientes caracteres especiales:  
+   ? - * ! @ # $ / () {} = . , ; : 
+* Tiene longitud mayor o igual a 8 caracteres. 
+* No tiene espacios en blanco. 
 
-**Método para calcular el costo de utilizar el automóvil un kilómetro**
+El reporte de seguridad del contenido de la caja muestra para cada tipo de elemento cuántos elementos hay en la caja y los siguientes indicadores de seguridad
+* La cantidad de claves inseguras: cantidad de claves de la lista de claves favoritas que NO cumplen las características de una clave segura. 
+* La cantidad de elementos próximos a vencer: elementos que tienen fecha de vencimiento a menos de 3 meses. 
+* La cantidad de claves usadas más de una vez. 
+* Nivel de seguridad: se calcula a través de la siguiente fórmula: 
 
-Para calcular el valor de un kilómetro de un automóvil, se debe hacer lo siguiente:
+    Nivel de seguridad = SC * 0,5 + V * 0,2 + R * 0,3 <br/>
+    donde <br/>
+    SC: es el porcentaje de claves que son seguras en la lista de claves favoritas. <br/>
+    V: porcentaje de elementos que NO están por vencer (con respecto al total de elementos que tienen fecha de vencimiento). <br/>
+    R: 0% si alguna clave se usa más de 3 veces, 50% si alguna clave se usa más de una vez, 100% si no hay claves que se usen más de una vez. <br/>
 
-1.	Calcular el promedio de lo que cuesta un kilómetro para las acciones de un mismo mantenimiento así:
-![](assets/images/proyecto/autoperfecto/formula_mantenimientos.png)
-
-2.	Calcular el promedio del valor del kilómetro de las acciones de mantenimiento:
-![](assets/images/proyecto/autoperfecto/formula_kilometro.png)
 
 ## Tecnologías para el desarrollo 
 
