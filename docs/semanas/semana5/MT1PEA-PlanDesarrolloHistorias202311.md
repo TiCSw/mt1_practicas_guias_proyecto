@@ -1,5 +1,5 @@
 ## Distribución de funcionalidades por semana
-
+<!--
 ### Semana 5
 
 | Funcionalidad           | 
@@ -29,3 +29,4 @@
 | Funcionalidad           | 
 |-------------------------| 
 |Por definir |
+-->
