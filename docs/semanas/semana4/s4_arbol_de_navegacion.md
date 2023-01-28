@@ -2,32 +2,29 @@
 
 ## Árbol de navegación y diseño de pantallas
 
-<img src="./../../assets/images/proyecto/autoperfecto/arbol_navegacion.png" width="75%"> 
+<img src="./../../assets/images/proyecto/cajaseguridad/arbol_navegacion.png" width="100%"> 
 
 
-### Ventana Principal - Lista de automóviles
+### Ventana Principal - Lista de elementos
 
-Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todos los automóviles y se puede acceder a las demás funcionalidades de la aplicación (listado de mantenimientos y listado de acciones).
+Esta es la pantalla principal de la aplicación. Se accede luego de introducir de manera correcta la clave maestra, desde acá se pueden ver todos los elementos y se puede acceder a las demás funcionalidades de la aplicación (Claves favoritas, elementos y reporte).
 
-<img src="./../../assets/images/proyecto/autoperfecto/lista_automoviles.png" width="40%"> 
+<img src="./../../assets/images/proyecto/cajaseguridad/lista_elementos.png" width="40%"> 
 
-Esta ventana permite la creación / edición de automóviles:
+La creación de elementos implica preguntar cuál elemento crear, y la edición lleva directamente a la pantalla del elemento a editar:
 
-<img src="./../../assets/images/proyecto/autoperfecto/crear_editar_competidor.png" width="40%">
+<img src="./../../assets/images/proyecto/cajaseguridad/crear_editar_elemento.png" width="100%">
 
-La eliminación y venta de automóviles está contemplada a través de los botones correspondientes. Al vender un automóvil o desde la ventana de acciones se podrá generar el reporte de gastos del automóvil por año y el valor del kilómetro.
+La eliminación de elementos está contemplada a través de los botones correspondientes.
 
-<img src="./../../assets/images/proyecto/autoperfecto/reporte_gastos.png" width="40%"> 
+<img src="./../../assets/images/proyecto/cajaseguridad/eliminar_elemento.png" width="100%"> 
 
-### Ventana Principal - Lista de mantenimientos
+El reporte de seguridad se abre desde la lista de elementos.
 
-La lista de mantenimientos muestra todos los mantenimientos registrados en la aplicación. Esta ventana permite además la creación, edición y eliminación de mantenimientos.
+<img src="./../../assets/images/proyecto/cajaseguridad/reporte_seguridad.png" width="100%"> 
 
-<img src="./../../assets/images/proyecto/autoperfecto/mantenimientos.png" width="30%">
+### Ventana Principal - Claves favoritas
 
-### Ventana Principal - Lista de Aacciones
+Al elegir el botón Claves Favoritas en la lista de elementos, se pueden ver todas las claves favoritas registradas en la aplicación. Esta ventana permite además la creación, edición y eliminación de tales claves favoritas.
 
-Esta ventana permite ver la lista de acciones de un automóvil. Desde aquí es posible registrar una acción, editarla o eliminarla.
-
-<img src="./../../assets/images/proyecto/autoperfecto/acciones.png" width="40%"> 
-
+<img src="./../../assets/images/proyecto/cajaseguridad/claves_favoritas.png" width="100%">
