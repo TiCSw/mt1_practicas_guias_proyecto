@@ -1,10 +1,10 @@
 ## Listado de historias de usuario 
 
-| Código                     | Nombre       | Descripción     | Responsable | 
-|----------------------------|--------------|-----------------|-------------|
-| [<< HUAAA >>](<< HUAAA >>) | << Nombre >> | <<Descripción>> | @Usuario    | 
-| [<< HUAAA >>](<< HUAAA >>) | << Nombre >> | <<Descripción>> | @Usuario    | 
-| [<< HUAAA >>](<< HUAAA >>) | << Nombre >> | <<Descripción>> | @Usuario    |
+| Código                     | Nombre       | Descripción     | Responsable de detallar la historia | 
+|----------------------------|--------------|-----------------|-------------------------------------|
+| [<< HUAAA >>](<< HUAAA >>) | << Nombre >> | <<Descripción>> | @Usuario                            | 
+| [<< HUAAA >>](<< HUAAA >>) | << Nombre >> | <<Descripción>> | @Usuario                            | 
+| [<< HUAAA >>](<< HUAAA >>) | << Nombre >> | <<Descripción>> | @Usuario                            |
 
 
 ### Revisión
