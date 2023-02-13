@@ -1,32 +1,37 @@
 ## Distribución de funcionalidades por semana
-<!--
+
 ### Semana 5
 
 | Funcionalidad           | 
 |-------------------------| 
-|Ver lista de elementos |
-|Crear elemento |
-|Borrar elemento |
+|Ingresar clave maestra |
+|Ver lista de elementos |
+|Ver lista de claves favoritas |
+|Crear clave favorita |
 
 ### Semana 6
 
 | Funcionalidad           | 
 |-------------------------| 
-|Crear clave <br> _(Desarrollar esta funcionalidad usando TDD y Pair programming)_ |
-|Ver lista de claves   |
-|Editar clave |
+|Crear elemento login   |
+|Ver reporte de seguridad <br> _(Desarrollar esta funcionalidad usando TDD y Pair programming)_ |
+|Editar clave favorita |
 
 ### Semana 7
 
 | Funcionalidad           | 
 |-------------------------| 
-|Ver reporte de seguridad <br> _(Desarrollar esta funcionalidad usando TDD y Pair programming)_ |
-|Editar elementos |
-|Borrar claves |
+|Crear elemento identificación <br> _(Desarrollar esta funcionalidad usando TDD y Pair programming)_ |
+|Editar elemento login |
+|Eliminar clave favorita |
+|Eliminar elemento |
+|Editar elemento identificación |
 
 ### Opcionales
 
 | Funcionalidad           | 
 |-------------------------| 
-|Por definir |
--->
+|Crear elemento secreto |
+|Editar elemento secreto |
+|Crear elemento secreto |
+|Editar elemento secreto |
