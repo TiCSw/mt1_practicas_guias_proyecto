@@ -5,9 +5,9 @@
 | Funcionalidad           | 
 |-------------------------| 
 |Ingresar clave maestra |
-|Ver lista de elementos |
 |Ver lista de claves favoritas |
 |Crear clave favorita |
+|Ver lista de elementos |
 
 ### Semana 6
 
