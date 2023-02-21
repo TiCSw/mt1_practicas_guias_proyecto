@@ -7,7 +7,7 @@
 |-------------------------| 
 |Ingresar clave maestra |
 |Ver lista de claves favoritas |
-|Crear clave favorita |
+|Crear clave favorita (Incluye generar clave segura) |
 |Ver lista de elementos |
 
 ### Semana 6
