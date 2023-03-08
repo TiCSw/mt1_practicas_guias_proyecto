@@ -1,15 +1,15 @@
 ## Estrategia para mezclar ramas de funcionalidad con la rama *develop*/desarrollo
 
-Detectar un *push* ea cualquier rama de funcionalidad y validar en el mensaje de *commit* una palabra clave para identificar que la funcionalidad ha sido terminada y puede integrarse a desarrollo. Esta estrategia implica tres pasos:
+Detectar un *push* en cualquier rama de funcionalidad y validar en el mensaje de *commit* una palabra clave para identificar que la funcionalidad ha sido terminada y puede integrarse a desarrollo. Esta estrategia implica tres pasos:
 1. Detectar la palabra clave que se defina en el commit
-2. Actualizar la ramade funcionalidadcon respecto a la rama de desarrollo, es decir mezclar en la rama funcionalidad, la rama de desarrollo.
-3. Correr las pruebas en la rama de funcionalidad. Si las pruebas pasan se mezclala rama de funcionalidad en la rama desarrollo, de lo contrariose cierra la acción.
+2. Actualizar la rama de funcionalidad con respecto a la rama de desarrollo, es decir mezclar la rama de desarrollo en la rama funcionalidad.
+3. Correr las pruebas en la rama de funcionalidad. Si las pruebas pasan se mezcla la rama de funcionalidad en la rama desarrollo, de lo contrario se cierra la acción.
 
-### Estrategia para mezclarla rama releasecon la rama master
-Detectar un *push* a desarrollo y validar en el mensaje de *commit* una palabra clave para identificar si se va a crear la rama *release*. Si se detecta la palabra clave en el *commit* se crea la rama *release*, se mezcla en la rama *release* la rama de desarrollo y se corren las pruebas. Si las pruebas pasan se mezcla la rama *release* en la rama *master*, de lo contrario se cierra la acción.
+### Estrategia para mezclar la rama release con la rama master
+Detectar un *push* a desarrollo y validar en el mensaje de *commit* una palabra clave para identificar si se va a crear la rama *release*. Si se detecta la palabra clave en el *commit* se crea la rama *release*, se mezcla la rama de desarrollo en la rama *release* y se corren las pruebas. Si las pruebas pasan se mezcla la rama *release* en la rama *master*, de lo contrario se cierra la acción.
 
-#### Algunas Instrucciones de GitHub Actionsque pueden ser útiles para implementar estas estrategias
-1. Si desea detectar un pusha cualquier rama que este nombrada con un prefijo (p. ej.el prefijo <code>**historia**</code>) puede incluir en la definición de ramas del flujo <code><b>historia**</b></code>:
+#### Algunas instrucciones de GitHub Actions que pueden ser útiles para implementar estas estrategias
+1. Si desea detectar un push a cualquier rama que este nombrada con un prefijo (p. ej.el prefijo <code>**historia**</code>) puede incluir en la definición de ramas del flujo <code><b>historia**</b></code>:
     <pre>
     on:
         push:
@@ -20,11 +20,11 @@ Detectar un *push* a desarrollo y validar en el mensaje de *commit* una palabra 
     <pre>
     if: $&#123;&#123; contains(github.event.head_commit.message, 'PALABRACLAVE') &rcub;&rcub;
     </pre>
-3. Si desea identificar el nombre de la rama que hizo el push,puede utilizarla variable <code><b>github.ref</b></code>:
+3. Si desea identificar el nombre de la rama que hizo el push, puede utilizar la variable <code><b>github.ref</b></code>:
     <pre>
     $&#123;&#123; github.ref &rcub;&rcub;
     </pre>
-4. Si desea mezclar 2 ramas, puede utilizarla instrucción del Marketplacedirect-merge-action. Ver documentación en: https://github.com/tukasz/direct-merge-action
+4. Si desea mezclar 2 ramas, puede utilizar la instrucción del Marketplace direct-merge-action. Ver documentación en: https://github.com/tukasz/direct-merge-action
 <pre>
   - name: Mezcla rama1 -> rama2
     uses: tukasz/direct-merge-action@master
