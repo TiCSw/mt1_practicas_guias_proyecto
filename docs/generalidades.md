@@ -55,38 +55,28 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 ## Enunciado
 
-La empresa SoftOne lo ha contratado para desarrollar una aplicación para gestionar información confidencial de una persona. Las personas requieren manejar información de ingreso (login)  en sitios web o en aplicaciones, de sus tarjetas bancarias, de sus documentos de identificación e incluso de secretos personales.  Esta aplicación va a llevar el nombre de Caja de Seguridad. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación. 
+La empresa SoftOne lo ha contratado para desarrollar una aplicación llamada “En Forma” que permitirá a un entrenador gestionar todo lo relacionado con los ejercicios que realizan las personas que entrena. Los entrenadores tienen que estar pendientes de muchas personas en su trabajo, y les es difícil recordar qué ejercicios y el progreso de sus clientes. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación. 
 
-Al iniciar la aplicación el usuario verá una pantalla en la que se le solicita una clave maestra para ingresar, si la clave maestra es correcta se le permite acceder a la pantalla principal. En la pantalla principal podrá ver el logo, la descripción de la aplicación Caja de Seguridad y el listado elementos que tienen guardados en la caja. El usuario verá, por cada elemento, el nombre del elemento, su tipo (login, tarjeta, identificación o secreto), las opciones de editar la información del elemento, borrar el elemento y ver clave asociada al elemento. En la pantalla principal, además del listado, el usuario podrá tener acceso a crear un elemento nuevo, a un listado de sus claves favoritas y a un reporte de seguridad del contenido de la caja. 
+Al iniciar la aplicación el entrenador verá una pantalla principal, donde podrá ver el logo, la descripción de “En Forma” y el listado de personas que está entrenando. El entrenador verá, por cada persona, la opción de editar su información, ver los entrenamientos que ha realizado, dejar de entrenar a la persona, o de borrar la información de la persona, siempre que no tenga entrenamientos registrados. En esta pantalla también verá una opción para agregar una nueva persona, donde podrá registrar el nombre y apellidos, fecha de inicio del entrenamiento, talla, peso, edad, y medidas en centímetros de brazos, pecho, abdomen, cintura y piernas. Cuando se deja de entrenar a la persona, se debe registrar la fecha y la razón por la cual no continuará con dicho entrenamiento. 
 
-Para crear un elemento nuevo el usuario podrá escoger primero el tipo de elemento que quiere crear y, de acuerdo al que escoja, podrá registrar la información requerida para el elemento. La información que se quiere guardar por tipo de elemento es la siguiente:
-* Login: nombre del elemento, email asociado, el usuario, el password o clave, la url y una nota de texto 
-* Secreto: el nombre del elemento, el secreto, la clave y una nota de texto 
-* Identificación: el nombre del elemento, el número, el nombre completo, la fecha de nacimiento, la fecha de expedición, la fecha de vencimiento y una nota de texto 
-* Tarjeta: nombre del elemento, el número, el titular, la fecha de vencimiento, el código de seguridad (CVV), la clave, la dirección, el teléfono y una nota de texto.
+El usuario también tendrá en la pantalla principal un acceso a una lista de ejercicios disponibles en “En Forma”, los que utilizará para entrenar a cada persona, y desde esta lista podrá crear un ejercicio con su nombre, descripción, aproximado de calorías quemadas por repetición y enlace a un video en YouTube, editar los ejercicios existentes, o borrarlos si el ejercicio nunca se usado en el entrenamiento de alguna persona. 
 
-Las claves que se usan en la aplicación se gestionan en la lista de claves favoritas. El usuario puede acceder a esta lista desde la pantalla principal. Para cada una de las claves, se muestra el nombre y se da la posibilidad de editar o de borrar la clave. Igualmente, el usuario puede crear una nueva clave desde esta pantalla y registrar el nombre de la clave, la clave y su confirmación y una pista. Si el usuario desea, puede solicitar que la aplicación genere automáticamente una clave segura.  
+Cuando el usuario abre la información de una persona, verá una pantalla con el entrenamiento que una persona ha realizado, mostrando una lista con nombre correspondiente de cada ejercicio, la fecha, la cantidad de repeticiones que realizó y el tiempo que le tardó en hacerlo definido en horas, minutos y segundos. Adicionalmente, en esta pantalla tendrá las opciones para crear, editar y borrar los ejercicios entrenados, así como un botón que le mostrará un reporte con su talla, peso, el cálculo de su IMC (Índice de masa corporal) y en cuál categoría del IMC se encuentra, y un aproximado del consumo calórico por cada fecha en la que se ha entrenado. 
 
-Una clave se considera segura cuando cumple las siguientes características: 
-* Incluye números. 
-* Utiliza combinación de letras mayúsculas y minúsculas. 
-* Incluye uno de los siguientes caracteres especiales:  
-   ? - * ! @ # $ / () {} = . , ; : 
-* Tiene longitud mayor o igual a 8 caracteres. 
-* No tiene espacios en blanco. 
+**Tabla de categorías del IMC**
 
-El reporte de seguridad del contenido de la caja muestra para cada tipo de elemento cuántos elementos hay en la caja y los siguientes indicadores de seguridad
-* La cantidad de claves inseguras: cantidad de claves de la lista de claves favoritas que NO cumplen las características de una clave segura. 
-* La cantidad de elementos próximos a vencer: elementos que tienen fecha de vencimiento a menos de 3 meses. 
-* La cantidad de claves usadas más de una vez. 
-* Nivel de seguridad: se calcula a través de la siguiente fórmula: 
+IMC = Peso en KG / (Talla en m)2 
 
-    Nivel de seguridad = SC * 0,5 + V * 0,2 + R * 0,3 <br/>
-    donde <br/>
-    SC: es el porcentaje de claves que son seguras en la lista de claves favoritas. <br/>
-    V: porcentaje de elementos que NO están por vencer (con respecto al total de elementos que tienen fecha de vencimiento). <br/>
-    R: 0% si alguna clave se usa más de 3 veces, 50% si alguna clave se usa más de una vez, 100% si no hay claves que se usen más de una vez. <br/>
+|IMC               | Nivel de peso |
+| ---------------- | ------------- |
+|Por debajo de 18. |Bajo peso      |
+|18.5 - 24.9       |Peso saludable |
+|25.0 - 29.9       |Sobrepeso      |
+|30.0 o m´s        |Obesidad       |
 
+**Método para calcular el consumo calórico de una fecha**
+
+Para calcular el consumo calórico de un día se suman los consumos calóricos por cada ejercicio realizado en el día. El cálculo de consumo de un ejercicio corresponde al número de calorías por repetición, multiplicado por el número de repeticiones realizadas. 
 
 ## Tecnologías para el desarrollo 
 
@@ -97,7 +87,7 @@ Las tecnologías que se utilizarán para desarrollar el proyecto son: Python com
 
 | Elemento                  | Herramienta |
 | ------------------------- | ----------- |
-| Base de datos             | SQLite     |
+| Base de datos             | SQLite      |
 | Framework ORM para Python | SQLAlchemy  |
 | Lenguaje de programación  | Python      |
 | Manejador de versiones    | Git         |
