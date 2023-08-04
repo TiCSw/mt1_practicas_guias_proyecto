@@ -2,29 +2,46 @@
 
 ## Árbol de navegación y diseño de pantallas
 
-<img src="./../../assets/images/proyecto/cajaseguridad/arbol_navegacion.png" width="100%"> 
+<img src="./../../assets/images/proyecto/enforma/arbol_navegacion.png" width="100%"> 
 
 
-### Ventana Principal - Lista de elementos
+### Ventana Principal - Lista de personas
 
-Esta es la pantalla principal de la aplicación. Se accede luego de introducir de manera correcta la clave maestra, desde acá se pueden ver todos los elementos y se puede acceder a las demás funcionalidades de la aplicación (Claves favoritas, elementos y reporte).
+Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las personas que se entrenan y se puede acceder a las demás funcionalidades de la aplicación (Personas, ejercicios y entrenamientos).
 
-<img src="./../../assets/images/proyecto/cajaseguridad/lista_elementos.png" width="40%"> 
+<img src="./../../assets/images/proyecto/enforma/lista_personas.png" width="40%"> 
 
-La creación de elementos implica preguntar cuál elemento crear, y la edición lleva directamente a la pantalla del elemento a editar:
+#### Ejercicios
+El botón de Ejercicios permite ver la lista de ejercicios disponibles:
 
-<img src="./../../assets/images/proyecto/cajaseguridad/crear_editar_elemento.png" width="100%">
+<img src="./../../assets/images/proyecto/enforma/listar_ejercicios.png" width="100%">
 
-La eliminación de elementos está contemplada a través de los botones correspondientes.
+ A partir de este listado se puede crear/editar un ejercicio o eliminarlo: 
+ 
+<img src="./../../assets/images/proyecto/enforma/crear_editar_ejercicios.png" width="100%">
 
-<img src="./../../assets/images/proyecto/cajaseguridad/eliminar_elemento.png" width="100%"> 
+La eliminación de ejercicios se hace a través de los botones correspondientes.
 
-El reporte de seguridad se abre desde la lista de elementos.
+#### Personas
+El boton Crear persona de la Ventana principal abre la ventana para crear una persona:
 
-<img src="./../../assets/images/proyecto/cajaseguridad/reporte_seguridad.png" width="100%"> 
+<img src="./../../assets/images/proyecto/enforma/crear_persona.png" width="100%">
 
-### Ventana Principal - Claves favoritas
+Esta ventanta sirve también para editar los datos de una persona.
 
-Al elegir el botón Claves Favoritas en la lista de elementos, se pueden ver todas las claves favoritas registradas en la aplicación. Esta ventana permite además la creación, edición y eliminación de tales claves favoritas.
+#### Entrenamientos
 
-<img src="./../../assets/images/proyecto/cajaseguridad/claves_favoritas.png" width="100%">
+Con el botón entrenamientos se abre la ventana que listas todos los ejercicios que ha realizado la persona.
+
+<img src="./../../assets/images/proyecto/enforma/entrenamientos.png" width="100%">
+
+Desde esta ventana, con el botón Registrar ejercicio se puede registrar un nuevo ejercicio realizado por la persona.
+
+<img src="./../../assets/images/proyecto/enforma/crear_editar_entrenamientos.png" width="100%">
+
+#### Reporte
+
+El botón Reporte de la ventana de Entrenamientos muestra el reporte de los entrenamientos de la persona.
+
+<img src="./../../assets/images/proyecto/enforma/reporte_entrenamientos.png" width="100%"> 
+
