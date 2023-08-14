@@ -6,7 +6,7 @@
 ---
 * Construir el modelo conceptual del enunciado del proyecto. 
 * Identificar dudas respecto a las funcionalidades que se deben desarrollar. 
-* Plantear preguntas al cliente que permitan clarificar las dudas y supuestos identificados, a través de un foro de preguntas del enunciado del proyecto. 
+* Plantear preguntas al cliente que permitan clarificar las dudas y supuestos identificados, a través de un formulario de preguntas del enunciado del proyecto. 
 
 ### Pasos previos
 
