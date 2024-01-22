@@ -67,7 +67,7 @@ El listado de recetas de la página principal muestra para cada receta el nombre
 
 - Para calcular el tiempo de preparación se hace un estimado basado en la cantidad de personas de la receta base (PB), la cantidad de personas para las que se va a realizar la preparación (PP) y el tiempo de la preparación de la receta(TR), de acuerdo con la siguiente tabla:
 
-  ![image](https://github.com/TiCSw/mt1_practicas_guias_proyecto/assets/images/proyecto/recetario/tabla.png)
+  ![](./../../assets/images/proyecto/recetario/tabla.png)
   
 - Para calcular la cantidad y el costo de los ingredientes, para cada ingrediente se calcula proporcionalmente la cantidad de acuerdo a las cantidades de la receta base y se aproximan al entero mayor más cercano. El costo se calcula con este valor por el precio por unidad del ingrediente.
  
