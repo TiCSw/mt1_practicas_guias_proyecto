@@ -20,7 +20,7 @@
 
 * Leer el enunciado con atención. 
 * Hacer un modelo conceptual en la herramienta de modelado que incluya: las clases, atributos y relaciones. 
-* Plantear preguntas en el [formulario de preguntas del enunciado ](https://forms.office.com/Pages/ResponsePage.aspx?id=fAS9-kj_KkmLu4-YufucyvZ7CtW1qa1Avs-Qs6q-HpNUMlpBQ0gxSloxVVZFNFJZUEU4TThMVE5XWi4u) (Recuerde que debe abrirlo en una nueva pestaña o ventana). En [este enlace](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/EeA3328Qvh1GjGMojGWRbssBTMZuHjbDQKUr48GhsfKGig?e=fP6CT5) podrá ver las preguntas ya planteadas y respondidas (También se debe abrir en una nueva pestaña o ventana).
+* Plantear preguntas en el [formulario de preguntas del enunciado ](https://forms.office.com/r/QerW3bNXYc) (Recuerde que debe abrirlo en una nueva pestaña o ventana). En [este enlace](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/ES6I338mWRBDv7KMUm1LZvMBhAEKyvuufVH6V92xmQqN-g?e=Whg6Ny) podrá ver las preguntas ya planteadas y respondidas (También se debe abrir en una nueva pestaña o ventana).
 * Elaborar el glosario de términos del modelo consolidado. 
 
 
