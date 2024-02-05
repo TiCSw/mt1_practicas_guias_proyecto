@@ -5,7 +5,7 @@
 <img src="./../../assets/images/proyecto/recetario/arbol_navegacion.png" width="100%"> 
 
 
-### Ventana Principal - Lista de personas
+### Ventana Principal - Lista de recetas
 
 Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las personas que se entrenan y se puede acceder a las demás funcionalidades de la aplicación (Personas, ejercicios y entrenamientos).
 
@@ -33,7 +33,7 @@ Esta ventanta sirve también para editar los datos de una receta.
 
 Con el botón ingredientes e la pantalla crear receta se abre la ventana que listas todos los ingredientes que tiene una receta.
 
-<img src="./../../assets/images/proyecto/recetario/ingrendietes_receta.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/ingredientes_receta.png" width="60%">
 
 Desde esta ventana, con el botón agregar ingrediente se puede adicionar un nuevo ingrediente para la receta.
 
