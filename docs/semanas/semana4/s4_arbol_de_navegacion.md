@@ -14,7 +14,7 @@ Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas 
 #### Ingredientes
 El botón de "Crear receta" permite ver la lista de ingredientes disponibles:
 
-<img src="./../../assets/images/proyecto/recetario/listar_ringredientes.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/listar_ingredientes.png" width="60%">
 
  A partir de este listado se puede crear/editar una receta o eliminarla: 
  
@@ -33,7 +33,7 @@ Esta ventanta sirve también para editar los datos de una receta.
 
 Con el botón ingredientes e la pantalla crear receta se abre la ventana que listas todos los ingredientes que tiene una receta.
 
-<img src="./../../assets/images/proyecto/recetario/ingredientes_receta.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/ingrendietes_receta.png" width="60%">
 
 Desde esta ventana, con el botón agregar ingrediente se puede adicionar un nuevo ingrediente para la receta.
 
