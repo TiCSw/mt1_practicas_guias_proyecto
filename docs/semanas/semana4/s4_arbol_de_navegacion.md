@@ -7,7 +7,7 @@
 
 ### Ventana Principal - Lista de recetas
 
-Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las personas que se entrenan y se puede acceder a las demás funcionalidades de la aplicación (Personas, ejercicios y entrenamientos).
+Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las recetas que se tienen en Recetario y se puede acceder a las demás funcionalidades de la aplicación (íngredientes, preparación).
 
 <img src="./../../assets/images/proyecto/recetario/lista_recetas.png" width="60%"> 
 
