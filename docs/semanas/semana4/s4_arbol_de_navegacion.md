@@ -2,7 +2,7 @@
 
 ## Árbol de navegación y diseño de pantallas
 
-<img src="./../../assets/images/proyecto/recetario/arbol_navegacion.png" width="100%"> 
+<img src="./../../assets/images/proyecto/recetario/Recetario-ArbolNavegacionV2.png" width="100%"> 
 
 
 ### Ventana Principal - Lista de recetas
@@ -37,7 +37,7 @@ Con el botón ingredientes e la pantalla crear receta se abre la ventana que lis
 
 Desde esta ventana, con el botón agregar ingrediente se puede adicionar un nuevo ingrediente para la receta.
 
-<img src="./../../assets/images/proyecto/recetario/crear_editar_ingrediente_receta.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/crear_editar_ingrediente_recetaV2.png" width="60%">
 
 #### Preparación receta
 
