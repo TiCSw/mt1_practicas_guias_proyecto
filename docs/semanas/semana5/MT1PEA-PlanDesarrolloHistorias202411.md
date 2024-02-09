@@ -6,34 +6,31 @@
 
 | Funcionalidad           | 
 |-------------------------| 
-|        |
-|        |
-|        |
+| Listar recetas          |
+| Listar ingredientes     |
+| Crear ingrediente       |
 
 ### Semana 6
 
-| Funcionalidad           | 
-|-------------------------| 
-| |
-| |
-| |
+| Funcionalidad                                         | 
+|-------------------------------------------------------| 
+| Crear receta                                          |
+| Listar ingredientes de receta                         |
+| Agregar ingrediente de receta (TDD + Pair progamming) |
 
 ### Semana 7
 
 | Funcionalidad           | 
 |-------------------------| 
-| |
-| |
-| |
-| |
-| |
+| Preparar receta (TDD + Pair programming) |
+| Editar ingrediente de receta             |
+| Editar receta                            |
+| Editar ingrediente                       |
+| Eliminar ingrediente                     |
 
 ### Opcionales
 
-| Funcionalidad           | 
-|-------------------------| 
-| |
-| |
-| |
-| |
-
+| Funcionalidad                  | 
+|--------------------------------| 
+| Eliminar receta                |
+| Eliminar ingrediente de receta |
