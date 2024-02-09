@@ -3,7 +3,7 @@
 ### Objetivos
 ---
 Los objetivos de esta actividad son:
-* Explicar el flujo de trabajo que va a utilizar sobre el manejador de versiones el equipo para iniciar la implementación del proyecto.
+* Entender el flujo de trabajo que va a utilizar sobre el manejador de versiones el equipo para iniciar la implementación del proyecto.
 
 ### Pasos previos
 
@@ -16,13 +16,13 @@ Los objetivos de esta actividad son:
 ---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-* Revisar y entender el flujo de trabajo que se seguirá para la implementación y que está [disponible en este enlace](./../../assets/files/MISW4101-FlujoDeTrabajoSemana5.docx). Inicialmente se debe utilizar un flujo centralizado, solo se utiliza la rama master para integrar los desarrollos de los dos integrantes. Consignar el acuerdo en el formato [Flujo de trabajo](./MT1PEA-FM-FlujoDeTrabajo.md) 
+* Revisar y entender el flujo de trabajo que se seguirá para la implementación y que está disponible en el enlace [Formato de Flujo de trabajo](./../../assets/files/MISW4101-FlujoDeTrabajoSemana5.docx). Para la primera semana de desarrollo se debe utilizar un flujo centralizado, donde solo se utiliza la rama main / master para integrar los desarrollos de los dos integrantes. Debe cargar el documento con el flujo de trabajo en su wiki. 
 
 
 ### Recursos
 
 ---
-* [Formato Flujo de trabajo](./MT1PEA-FM-FlujoDeTrabajo.md) 
+* [Formato de Flujo de trabajo](./../../assets/files/MISW4101-FlujoDeTrabajoSemana5.docx) 
 
 ### Entregables
 ---
