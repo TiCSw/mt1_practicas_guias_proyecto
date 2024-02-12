@@ -4,33 +4,33 @@
 
 #### Todas las funcionalidades de la semana 5 se deben desarrollar usando TDD y Pair programming
 
-| Funcionalidad           | 
-|-------------------------| 
-| Listar recetas          |
-| Listar ingredientes     |
-| Crear ingrediente       |
+| Funcionalidad                                | 
+|----------------------------------------------| 
+| Listar recetas (TDD + Pair programming)      |
+| Listar ingredientes (TDD + Pair programming) |
+| Crear ingrediente (TDD + Pair programming)   |
 
 ### Semana 6
 
 | Funcionalidad                                         | 
 |-------------------------------------------------------| 
-| Crear receta                                          |
-| Listar ingredientes de receta                         |
+| Crear receta (TDD)                                    |
+| Listar ingredientes de receta (TDD)                   |
 | Agregar ingrediente de receta (TDD + Pair progamming) |
 
 ### Semana 7
 
-| Funcionalidad           | 
-|-------------------------| 
+| Funcionalidad                            | 
+|------------------------------------------| 
 | Preparar receta (TDD + Pair programming) |
-| Editar ingrediente de receta             |
-| Editar receta                            |
-| Editar ingrediente                       |
-| Eliminar ingrediente                     |
+| Editar ingrediente de receta (TDD)       |
+| Editar receta (TDD)                      |
+| Editar ingrediente (TDD)                 |
+| Eliminar ingrediente (TDD)               |
 
 ### Opcionales
 
-| Funcionalidad                  | 
-|--------------------------------| 
-| Eliminar receta                |
-| Eliminar ingrediente de receta |
+| Funcionalidad                        | 
+|--------------------------------------| 
+| Eliminar receta (TDD)                |
+| Eliminar ingrediente de receta (TDD) |
