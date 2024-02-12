@@ -29,6 +29,6 @@ En el repositorio del proyecto en GitHub se encuentra la estructura incial del l
 
 ---
 * Fuentes iniciales con la interfaz de la aplicación implementada.
-* [Video instalación proyecto en Visual Studio Code](https://web.microsoftstream.com/video/44b33502-8a7d-4bf3-956e-c431881f3c17)
-* [Video instalación proyecto en PyCharm](https://web.microsoftstream.com/video/36e0d0b9-2639-4efb-8d78-eabb48093822)
+* [Video instalación proyecto en Visual Studio Code](https://uniandes.sharepoint.com/:v:/s/misw4101-202111-sesiones/EfYfRQUCN5BevxTiYxStj_gBsGkROrGvkQTRrwNdzPFqpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gYsQfL)
+* [Video instalación proyecto en PyCharm](https://uniandes.sharepoint.com/:v:/s/misw4101-202111-sesiones/ETBIH-8YfKZVItds4QRXjz8Bp744bjx2ozC3Zz5k9bnEMg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s1PjRp)
 
