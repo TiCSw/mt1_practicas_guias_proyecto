@@ -21,7 +21,7 @@ En aquellas historias que se indique en la [distribución de funcionalidades por
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 * Revisar en la [distribución de funcionalidades por semana](./../semana5/MT1PEA-PlanDesarrolloHistorias202411.md) las historias a desarrollar en la semana.
 * Actualizar el diseño, en genmymodel, para que incluya el segundo grupo de funcionalidades. 
-* Definir en cuáles historias van a hacer pair programming. Distribuir las demás historias entre los dos miembros del equipo.
+* Revisar las historias a desarrollar con pair programming. Distribuir las demás historias entre los dos miembros del equipo.
 * Planear los tiempos para desarrollar cada una de las historias: el equipo debe acordar los espacios en la semana para hacer el desarrollo de las historias con pair programming y el tiempo individual para las otras historias. 
 * Actualizar el tablero de actividades del proyecto con las tareas planeadas.
 * Crear una nueva versión del acuerdo de flujo de trabajo para definir un flujo GitFlow.
