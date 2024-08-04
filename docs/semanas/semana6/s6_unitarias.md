@@ -16,7 +16,7 @@
 
 En esta semana se van desarrollar el segundo grupo de historias de usuario del proyecto utilizando TDD en todas las historias y usando GitFlow como flujo de trabajo. 
 
-En aquellas historias que se indique en la [distribución de funcionalidades por semana](./../semana5/MT1PEA-PlanDesarrolloHistorias202411.md), el equipo debe usar pair programming para su desarrollo.
+En aquellas historias que se indique en la [distribución de funcionalidades por semana](./../semana5/MT1PEA-PlanDesarrolloHistorias202414.md), el equipo debe usar pair programming para su desarrollo.
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 * Revisar en la [distribución de funcionalidades por semana](./../semana5/MT1PEA-PlanDesarrolloHistorias202411.md) las historias a desarrollar en la semana.
