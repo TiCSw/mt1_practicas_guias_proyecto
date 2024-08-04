@@ -55,22 +55,28 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 ## Enunciado
 
-La empresa SoftOne4101 lo ha contratado para desarrollar una aplicación llamada “Recetario” que permitirá a un administrador de un restaurante gestionar todo lo relacionado con las recetas y platos que preparan en el restaurante. El administrador debe estar pendiente de las compras necesarias para la preparación de los platos que el chef decide ofrecer cada semana. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
+La empresa SoftOne4101 lo ha contratado para desarrollar una aplicación llamada “E-porra” que permita a un usuario  administrar apuestas alrededor de carreras de cualquier tipo (caballos, fórmula 1, atletismo, etc). En muchos bares y tiendas locales, las personas se reúnen a ver estas competencias  y en algunos casos apuestan sumas de dinero al ganador de una carrera. Estas apuestas son también llamadas pollas, porras o quinielas en diversos países hispanoparlantes.
 
-Al iniciar la aplicación el administrador verá una pantalla principal, donde podrá ver el logo del restaurante, la descripción de la aplicación “Recetario”, una opción para agregar una receta, otra para ir al listado de ingredientes que se utilizan en el restaurante y el listado de recetas que se preparan.  En el listado de ingredientes se muestra el nombre del ingrediente, la unidad de medida, el valor por unidad, el nombre del sitio donde lo compran y botones para editar o borrar un ingrediente, siempre y cuando no se esté usando en alguna receta. En la pantalla de ingredientes, el administrador encuentra también una opción para agregar un ingrediente nuevo y otra para volver a la pantalla principal.
+A través de esta aplicación, el usuario podrá llevar el registro de las apuestas que hacen los apostadores en una carrera, con el propósito de poder pagar correctamente a quienes hayan acertado con el resultado de dicho evento. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
 
-En la opción para agregar una nueva receta, el administrador podrá registrar el nombre de la receta, el tiempo de preparación, el número de personas para las que se prepara, las calorías por porción y la descripción de las instrucciones de preparación. Desde la pantalla para agregar la receta el administrador puede ingresar a una opción para registrar los ingredientes que se requieren para preparar la receta, por cada ingrediente detallan la cantidad que se requiere y la unidad de medida que se utiliza. A partir de esta lista podrá agregar un nuevo ingrediente si lo necesita, editar o borrar alguno, Los ingredientes que se pueden escoger para agregar a la receta son los del listado de ingredientes del restaurante. 
+Para utilizar este software, el usuario  administrador debe abrir una pantalla principal, donde encontrará una descripción de “E-porra”, acompañada de un listado de las carreras que tiene registradas. El usuario tiene la opción de abrir, editar, terminar o borrar una carrera, esto último siempre que no tenga apuestas asociadas. Adicionalmente debe tener la opción de crear una nueva carrera con un nombre determinado. Crear una nueva carrera requiere indicar para cada competidor su nombre y la probabilidad que tiene de ganar la carrera (un valor entre 0 y 1) . La suma de las probabilidades de todos los competidores debe ser igual a 1 (esto es, el 100%). Cuando  se termina una carrera se registra el ganador y se debe poder generar un reporte que indique cuánto se debe pagar a cada usuario que apostó al competidor ganador y qué ganancias o pérdidas tuvo el usuario administrador , también denominado “la casa” . Para calcular las ganancias de los apostadores y de la casa se utiliza el método que se describe más adelante.
 
-El listado de recetas de la página principal muestra para cada receta el nombre, una opción que permite editar toda la información de la receta, otra que permite eliminar la receta y una opción preparar. La opción de preparar permite planear una preparación para un número específico de personas. Al utilizar esta opción se solicita la cantidad de personas para las que se va a preparar la receta y luego calcula, a partir de la información que se tiene de la receta, el tiempo de preparación estimado, las calorías por porción, el costo de los ingredientes y para cada ingrediente la cantidad que se debe utilizar proporcional a la cantidad de personas. 
+También en la pantalla principal, el usuario podrá acceder a una lista de apostadores existentes en el sistema, y desde esta lista, podrá adicionar un nuevo apostador, editar su información o borrarlo si no tiene relación con alguna apuesta o carrera.
 
-**Método para calcular el tiempo, la cantidad de ingredientes y el costo de una preparación**
+Cuando el usuario abre una carrera verá una pantalla de información de las apuestas asociadas a esta, mostrando por cada apuesta el valor, el nombre del apostador que la realizó y el competidor al que le apostó.   Para una carrera, el usuario podrá incluir una o varias apuestas asociadas a un apostador de los existentes en el sistema. También debe tener opciones para editar o eliminar apuestas.
 
-- Para calcular el tiempo de preparación se hace un estimado basado en la cantidad de personas de la receta base (PB), la cantidad de personas para las que se va a realizar la preparación (PP) y el tiempo de la preparación de la receta(TR), de acuerdo con la siguiente tabla:
+**Método para calcular las ganancias**
 
-  ![](./assets/images/proyecto/recetario/tabla1.png)
-  
-- Para calcular la cantidad y el costo de los ingredientes, para cada ingrediente se calcula proporcionalmente la cantidad de acuerdo a las cantidades de la receta base y se aproximan al entero mayor más cercano. El costo se calcula con este valor por el precio por unidad del ingrediente.
- 
+Los apostadores que no acertaron al ganador no obtienen ganancias alguna de su apuesta. Las ganancias de los apostadores que adivinaron el ganador se determinan a partir de la cuota. La cuota se calcula usando la siguiente fórmula:
+
+![](assets/images/proyecto/apuestas/formula_cuota.PNG)
+
+Donde la probabilidad es un valor entre 0 y 1 que representa la probabilidad de ganar del competidor. 
+Para calcular la ganancia de un apostador se aplica la siguiente fórmula:
+
+![](assets/images/proyecto/apuestas/formula_ganancia.PNG)
+
+La ganancia de la casa corresponde a la suma de todas las apuestas menos el total pagado a los apostadores que acertaron el ganador por concepto de sus ganancias. Un valor negativo de ganancia de la casa indica que la casa debe colocar dinero adicional para cubrir el total a pagar en las apuestas ganadoras, es decir la casa pierde dinero. 
 
 ## Tecnologías para el desarrollo 
 
