@@ -9,7 +9,9 @@ Construir el listado de historias de usuario de la aplicación.
 
  ---
 * Construir el modelo conceptual y el glosario de términos.
-* Haber realizado las preguntas que surgieron a partir del enunciado en el [formulario de preguntas del enunciado ](https://forms.office.com/r/QerW3bNXYc) (Recuerde que debe abrirlo en una nueva pestaña o ventana), y haber revisado todas las respuestas en [este enlace. ](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/ES6I338mWRBDv7KMUm1LZvMBhAEKyvuufVH6V92xmQqN-g?e=Whg6Ny)
+* Haber realizado las preguntas que surgieron a partir del enunciado en el [formulario de preguntas del enunciado ](https://forms.office.com/r/c4G4ERecyC)
+(Recuerde que debe abrirlo en una nueva pestaña o ventana), y haber revisado todas las respuestas en [este enlace. ](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/EUBkPFo4H_JAldI-f48-3gQBf1sZc754AQdlJHsCM3ZkDA?e=n6LGDl)
+
 
 ### Descripción actividad
 
