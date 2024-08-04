@@ -2,46 +2,31 @@
 
 ## Árbol de navegación y diseño de pantallas
 
-<img src="./../../assets/images/proyecto/recetario/Recetario-ArbolNavegacionV2.png" width="100%"> 
+<img src="./../../assets/images/proyecto/apuestas/ArbolNavegacion.png" width="75%"> 
 
 
-### Ventana Principal - Lista de recetas
+### Ventana Principal - Lista de carreras
 
-Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las recetas que se tienen en Recetario y se puede acceder a las demás funcionalidades de la aplicación (íngredientes, preparación).
+Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las carreras y se puede acceder a las demás funcionalidades de la aplicación (listado de apostadores y listado de apuestas).
 
-<img src="./../../assets/images/proyecto/recetario/lista_recetas.png" width="60%"> 
+<img src="./../../assets/images/proyecto/apuestas/ListaCarreras.png" width="40%"> 
 
-#### Ingredientes
-El botón de "Crear receta" permite ver la lista de ingredientes disponibles:
+Esta ventana permite la creación / edición de carreras y competidores:
 
-<img src="./../../assets/images/proyecto/recetario/listar_ingredientes.png" width="60%">
+<img src="./../../assets/images/proyecto/apuestas/NuevaCarreraYCompetidores.png">
 
- A partir de este listado se puede crear/editar una receta o eliminarla: 
- 
-<img src="./../../assets/images/proyecto/recetario/crear_editar_ingredientes.png" width="60%">
+La eliminación y terminación de carreras está contemplada a través de los botones correspondientes. Al terminar una carrera el usuario administrador podrá generar el reporte de ganancias de la casa y por apostador.
 
-La eliminación de ejercicios se hace a través de los botones correspondientes.
+<img src="./../../assets/images/proyecto/apuestas/ReporteGanancias.png" width="40%"> 
 
-#### Recetas
-El boton Crear resceta de la Ventana principal abre la ventana para crear una receta:
+### Ventana Principal - Lista de apostadores
 
-<img src="./../../assets/images/proyecto/recetario/crear_receta.png" width="60%">
+La lista de apostadores muestra todos los apostadores registrados en la aplicación. Esta ventana permite además la creación, edición y eliminación de apostadores.
 
-Esta ventanta sirve también para editar los datos de una receta.
+<img src="./../../assets/images/proyecto/apuestas/Apostadores.png" width="30%">
 
-#### Ingredientes receta
+### Ventana Principal - Lista de Apuestas
 
-Con el botón ingredientes e la pantalla crear receta se abre la ventana que listas todos los ingredientes que tiene una receta.
+Esta ventana permite ver la lista de apuestas de una carrera. Desde aquí es posible registrar una apuesta, editarla o eliminarla.
 
-<img src="./../../assets/images/proyecto/recetario/ingredientes_receta.png" width="60%">
-
-Desde esta ventana, con el botón agregar ingrediente se puede adicionar un nuevo ingrediente para la receta.
-
-<img src="./../../assets/images/proyecto/recetario/crear_editar_ingrediente_recetaV2.png" width="60%">
-
-#### Preparación receta
-
-El botón Preparar de la ventana de Principal muestra la información para la preparación de una receta.
-
-<img src="./../../assets/images/proyecto/recetario/preparacion_receta.png" width="60%"> 
-
+<img src="./../../assets/images/proyecto/apuestas/VerApuestas.png" width="40%"> 
