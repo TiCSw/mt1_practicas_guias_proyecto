@@ -2,9 +2,10 @@
 
 ### Semana 5
 **_Desarrollar todas las funcionalidades usando TDD y Pair programming_**
+
 | Funcionalidad           | 
 |-------------------------| 
-|Descripción E-Porra y listado de carreras |
+|Listar carreras |
 |Crear nueva carrera |
 |Crear competidor |
 
@@ -22,7 +23,7 @@
 | Funcionalidad           | 
 |-------------------------| 
 |Crear apostador |
-|Lista de apostadores |
+|Listar apostadores |
 |Editar apuesta |
 |Eliminar carrera |
 
@@ -30,7 +31,6 @@
 
 | Funcionalidad           | 
 |-------------------------| 
-|Ver carrera |
 |Editar carrera |
 |Editar apostador |
 |Eliminar apostador |
