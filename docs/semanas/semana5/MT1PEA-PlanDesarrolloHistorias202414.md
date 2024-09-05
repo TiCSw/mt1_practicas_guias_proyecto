@@ -10,7 +10,7 @@
 |Crear competidor |
 
 ### Semana 6
-**_Desarrollar todas las funcionalidades usando TDD _**
+**_Desarrollar todas las funcionalidades usando TDD_**
 | Funcionalidad           | 
 |-------------------------| 
 |Ver apuestas asociadas a una carrera |
