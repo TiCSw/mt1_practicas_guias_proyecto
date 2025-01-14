@@ -2,31 +2,47 @@
 
 ## Árbol de navegación y diseño de pantallas
 
-<img src="./../../assets/images/proyecto/apuestas/ArbolNavegacion.png" width="75%"> 
+<img src="./../../assets/images/proyecto/enforma/arbol_navegacion.png" width="100%"> 
 
 
-### Ventana Principal - Lista de carreras
+### Ventana Principal - Lista de personas
 
-Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las carreras y se puede acceder a las demás funcionalidades de la aplicación (listado de apostadores y listado de apuestas).
+Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las personas que se entrenan y se puede acceder a las demás funcionalidades de la aplicación (Personas, ejercicios y entrenamientos).
 
-<img src="./../../assets/images/proyecto/apuestas/ListaCarreras.png" width="40%"> 
+<img src="./../../assets/images/proyecto/enforma/lista_personas.png" width="60%"> 
 
-Esta ventana permite la creación / edición de carreras y competidores:
+#### Ejercicios
+El botón de Ejercicios permite ver la lista de ejercicios disponibles:
 
-<img src="./../../assets/images/proyecto/apuestas/NuevaCarreraYCompetidores.png">
+<img src="./../../assets/images/proyecto/enforma/listar_ejercicios.png" width="60%">
 
-La eliminación y terminación de carreras está contemplada a través de los botones correspondientes. Al terminar una carrera el usuario administrador podrá generar el reporte de ganancias de la casa y por apostador.
+ A partir de este listado se puede crear/editar un ejercicio o eliminarlo: 
+ 
+<img src="./../../assets/images/proyecto/enforma/crear_editar_ejercicios.png" width="60%">
 
-<img src="./../../assets/images/proyecto/apuestas/ReporteGanancias.png" width="40%"> 
+La eliminación de ejercicios se hace a través de los botones correspondientes.
 
-### Ventana Principal - Lista de apostadores
+#### Personas
+El boton Crear persona de la Ventana principal abre la ventana para crear una persona:
 
-La lista de apostadores muestra todos los apostadores registrados en la aplicación. Esta ventana permite además la creación, edición y eliminación de apostadores.
+<img src="./../../assets/images/proyecto/enforma/crear_persona.png" width="60%">
 
-<img src="./../../assets/images/proyecto/apuestas/Apostadores.png" width="30%">
+Esta ventanta sirve también para editar los datos de una persona.
 
-### Ventana Principal - Lista de Apuestas
+#### Entrenamientos
 
-Esta ventana permite ver la lista de apuestas de una carrera. Desde aquí es posible registrar una apuesta, editarla o eliminarla.
+Con el botón entrenamientos se abre la ventana que listas todos los ejercicios que ha realizado la persona.
 
-<img src="./../../assets/images/proyecto/apuestas/VerApuestas.png" width="40%"> 
+<img src="./../../assets/images/proyecto/enforma/entrenamientos.png" width="60%">
+
+Desde esta ventana, con el botón Registrar ejercicio se puede registrar un nuevo ejercicio realizado por la persona.
+
+<img src="./../../assets/images/proyecto/enforma/crear_editar_entrenamientos.png" width="60%">
+
+#### Reporte
+
+El botón Reporte de la ventana de Entrenamientos muestra el reporte de los entrenamientos de la persona.
+
+<img src="./../../assets/images/proyecto/enforma/reporte_entrenamientos.png" width="60%"> 
+
+
