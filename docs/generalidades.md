@@ -54,29 +54,29 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 
 ## Enunciado
+La empresa SoftOne lo ha contratado para desarrollar una aplicación llamada “En Forma” que permitirá a un entrenador gestionar todo lo relacionado con los ejercicios que realizan las personas que entrena. Los entrenadores tienen que estar pendientes de muchas personas en su trabajo, y les es difícil recordar qué ejercicios y el progreso de sus clientes. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación. 
 
-La empresa SoftOne4101 lo ha contratado para desarrollar una aplicación llamada “E-porra” que permita a un usuario  administrar apuestas alrededor de carreras de cualquier tipo (caballos, fórmula 1, atletismo, etc). En muchos bares y tiendas locales, las personas se reúnen a ver estas competencias  y en algunos casos apuestan sumas de dinero al ganador de una carrera. Estas apuestas son también llamadas pollas, porras o quinielas en diversos países hispanoparlantes.
+Al iniciar la aplicación el entrenador verá una pantalla principal, donde podrá ver el logo, la descripción de “En Forma” y el listado de personas que está entrenando. El entrenador verá, por cada persona, la opción de editar su información, ver los entrenamientos que ha realizado, dejar de entrenar a la persona, o de borrar la información de la persona, siempre que no tenga entrenamientos registrados. En esta pantalla también verá una opción para agregar una nueva persona, donde podrá registrar el nombre y apellidos, fecha de inicio del entrenamiento, talla, peso, edad, y medidas en centímetros de brazos, pecho, abdomen, cintura y piernas. Cuando se deja de entrenar a la persona, se debe registrar la fecha y la razón por la cual no continuará con dicho entrenamiento. 
 
-A través de esta aplicación, el usuario podrá llevar el registro de las apuestas que hacen los apostadores en una carrera, con el propósito de poder pagar correctamente a quienes hayan acertado con el resultado de dicho evento. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
+El usuario también tendrá en la pantalla principal un acceso a una lista de ejercicios disponibles en “En Forma”, los que utilizará para entrenar a cada persona, y desde esta lista podrá crear un ejercicio con su nombre, descripción, aproximado de calorías quemadas por repetición y enlace a un video en YouTube, editar los ejercicios existentes, o borrarlos si el ejercicio nunca se usado en el entrenamiento de alguna persona. 
 
-Para utilizar este software, el usuario  administrador debe abrir una pantalla principal, donde encontrará una descripción de “E-porra”, acompañada de un listado de las carreras que tiene registradas. El usuario tiene la opción de abrir, editar, terminar o borrar una carrera, esto último siempre que no tenga apuestas asociadas. Adicionalmente debe tener la opción de crear una nueva carrera con un nombre determinado. Crear una nueva carrera requiere indicar para cada competidor su nombre y la probabilidad que tiene de ganar la carrera (un valor entre 0 y 1) . La suma de las probabilidades de todos los competidores debe ser igual a 1 (esto es, el 100%). Cuando  se termina una carrera se registra el ganador y se debe poder generar un reporte que indique cuánto se debe pagar a cada usuario que apostó al competidor ganador y qué ganancias o pérdidas tuvo el usuario administrador , también denominado “la casa” . Para calcular las ganancias de los apostadores y de la casa se utiliza el método que se describe más adelante.
+Cuando el usuario abre la información de una persona, verá una pantalla con el entrenamiento que una persona ha realizado, mostrando una lista con nombre correspondiente de cada ejercicio, la fecha, la cantidad de repeticiones que realizó y el tiempo que le tardó en hacerlo definido en horas, minutos y segundos. Adicionalmente, en esta pantalla tendrá las opciones para crear, editar y borrar los ejercicios entrenados, así como un botón que le mostrará un reporte con su talla, peso, el cálculo de su IMC (Índice de masa corporal) y en cuál categoría del IMC se encuentra, y un aproximado del consumo calórico por cada fecha en la que se ha entrenado. 
 
-También en la pantalla principal, el usuario podrá acceder a una lista de apostadores existentes en el sistema, y desde esta lista, podrá adicionar un nuevo apostador, editar su información o borrarlo si no tiene relación con alguna apuesta o carrera.
+**Tabla de categorías del IMC**
 
-Cuando el usuario abre una carrera verá una pantalla de información de las apuestas asociadas a esta, mostrando por cada apuesta el valor, el nombre del apostador que la realizó y el competidor al que le apostó.   Para una carrera, el usuario podrá incluir una o varias apuestas asociadas a un apostador de los existentes en el sistema. También debe tener opciones para editar o eliminar apuestas.
+IMC = Peso en KG / (Talla en m)2 
 
-**Método para calcular las ganancias**
+|IMC               | Nivel de peso |
+| ---------------- | ------------- |
+|Por debajo de 18. |Bajo peso      |
+|18.5 - 24.9       |Peso saludable |
+|25.0 - 29.9       |Sobrepeso      |
+|30.0 o m´s        |Obesidad       |
 
-Los apostadores que no acertaron al ganador no obtienen ganancias alguna de su apuesta. Las ganancias de los apostadores que adivinaron el ganador se determinan a partir de la cuota. La cuota se calcula usando la siguiente fórmula:
+**Método para calcular el consumo calórico de una fecha**
 
-![](assets/images/proyecto/apuestas/formula_cuota.PNG)
+Para calcular el consumo calórico de un día se suman los consumos calóricos por cada ejercicio realizado en el día. El cálculo de consumo de un ejercicio corresponde al número de calorías por repetición, multiplicado por el número de repeticiones realizadas.
 
-Donde la probabilidad es un valor entre 0 y 1 que representa la probabilidad de ganar del competidor. 
-Para calcular la ganancia de un apostador se aplica la siguiente fórmula:
-
-![](assets/images/proyecto/apuestas/formula_ganancia.PNG)
-
-La ganancia de la casa corresponde a la suma de todas las apuestas menos el total pagado a los apostadores que acertaron el ganador por concepto de sus ganancias. Un valor negativo de ganancia de la casa indica que la casa debe colocar dinero adicional para cubrir el total a pagar en las apuestas ganadoras, es decir la casa pierde dinero. 
 
 ## Tecnologías para el desarrollo 
 
