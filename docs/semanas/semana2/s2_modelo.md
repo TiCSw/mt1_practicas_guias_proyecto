@@ -20,8 +20,8 @@
 
 * Leer el enunciado con atención. 
 * Hacer un modelo conceptual en la herramienta de modelado que incluya: las clases, atributos y relaciones. 
-* Plantear preguntas en el [formulario de preguntas del enunciado ](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana2/s2_modelo)
-(Recuerde que debe abrirlo en una nueva pestaña o ventana). En [este enlace](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana2/s2_modelo)
+* Plantear preguntas en el [formulario de preguntas del enunciado ](https://forms.office.com/r/8wqx4iLKjS)
+(Recuerde que debe abrirlo en una nueva pestaña o ventana). En [este enlace](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/EdNDAMx-u9RNuWesrGWL_9wBphj8jHOjE7FUcAUYdEveFA?e=ZLSntk)
  podrá ver las preguntas ya planteadas y respondidas (También se debe abrir en una nueva pestaña o ventana).
 * Elaborar el glosario de términos del modelo consolidado. 
 
