@@ -54,29 +54,24 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 
 ## Enunciado
-La empresa SoftOne lo ha contratado para desarrollar una aplicación llamada “En Forma” que permitirá a un entrenador gestionar todo lo relacionado con los ejercicios que realizan las personas que entrena. Los entrenadores tienen que estar pendientes de muchas personas en su trabajo, y les es difícil recordar qué ejercicios y el progreso de sus clientes. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación. 
+## Enunciado
 
-Al iniciar la aplicación el entrenador verá una pantalla principal, donde podrá ver el logo, la descripción de “En Forma” y el listado de personas que está entrenando. El entrenador verá, por cada persona, la opción de editar su información, ver los entrenamientos que ha realizado, dejar de entrenar a la persona, o de borrar la información de la persona, siempre que no tenga entrenamientos registrados. En esta pantalla también verá una opción para agregar una nueva persona, donde podrá registrar el nombre y apellidos, fecha de inicio del entrenamiento, talla, peso, edad, y medidas en centímetros de brazos, pecho, abdomen, cintura y piernas. Cuando se deja de entrenar a la persona, se debe registrar la fecha y la razón por la cual no continuará con dicho entrenamiento. 
+La empresa SoftOne4101 lo ha contratado para desarrollar una aplicación llamada “Recetario” que permitirá a un administrador de un restaurante gestionar todo lo relacionado con las recetas y platos que preparan en el restaurante. El administrador debe estar pendiente de las compras necesarias para la preparación de los platos que el chef decide ofrecer cada semana. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
 
-El usuario también tendrá en la pantalla principal un acceso a una lista de ejercicios disponibles en “En Forma”, los que utilizará para entrenar a cada persona, y desde esta lista podrá crear un ejercicio con su nombre, descripción, aproximado de calorías quemadas por repetición y enlace a un video en YouTube, editar los ejercicios existentes, o borrarlos si el ejercicio nunca se usado en el entrenamiento de alguna persona. 
+Al iniciar la aplicación el administrador verá una pantalla principal, donde podrá ver el logo del restaurante, la descripción de la aplicación “Recetario”, una opción para agregar una receta, otra para ir al listado de ingredientes que se utilizan en el restaurante y el listado de recetas que se preparan.  En el listado de ingredientes se muestra el nombre del ingrediente, la unidad de medida, el valor por unidad, el nombre del sitio donde lo compran y botones para editar o borrar un ingrediente, siempre y cuando no se esté usando en alguna receta. En la pantalla de ingredientes, el administrador encuentra también una opción para agregar un ingrediente nuevo y otra para volver a la pantalla principal.
 
-Cuando el usuario abre la información de una persona, verá una pantalla con el entrenamiento que una persona ha realizado, mostrando una lista con nombre correspondiente de cada ejercicio, la fecha, la cantidad de repeticiones que realizó y el tiempo que le tardó en hacerlo definido en horas, minutos y segundos. Adicionalmente, en esta pantalla tendrá las opciones para crear, editar y borrar los ejercicios entrenados, así como un botón que le mostrará un reporte con su talla, peso, el cálculo de su IMC (Índice de masa corporal) y en cuál categoría del IMC se encuentra, y un aproximado del consumo calórico por cada fecha en la que se ha entrenado. 
+En la opción para agregar una nueva receta, el administrador podrá registrar el nombre de la receta, el tiempo de preparación, el número de personas para las que se prepara, las calorías por porción y la descripción de las instrucciones de preparación. Desde la pantalla para agregar la receta el administrador puede ingresar a una opción para registrar los ingredientes que se requieren para preparar la receta, por cada ingrediente detallan la cantidad que se requiere y la unidad de medida que se utiliza. A partir de esta lista podrá agregar un nuevo ingrediente si lo necesita, editar o borrar alguno, Los ingredientes que se pueden escoger para agregar a la receta son los del listado de ingredientes del restaurante. 
 
-**Tabla de categorías del IMC**
+El listado de recetas de la página principal muestra para cada receta el nombre, una opción que permite editar toda la información de la receta, otra que permite eliminar la receta y una opción preparar. La opción de preparar permite planear una preparación para un número específico de personas. Al utilizar esta opción se solicita la cantidad de personas para las que se va a preparar la receta y luego calcula, a partir de la información que se tiene de la receta, el tiempo de preparación estimado, las calorías por porción, el costo de los ingredientes y para cada ingrediente la cantidad que se debe utilizar proporcional a la cantidad de personas. 
 
-IMC = Peso en KG / (Talla en m)2 
+**Método para calcular el tiempo, la cantidad de ingredientes y el costo de una preparación**
 
-|IMC               | Nivel de peso |
-| ---------------- | ------------- |
-|Por debajo de 18. |Bajo peso      |
-|18.5 - 24.9       |Peso saludable |
-|25.0 - 29.9       |Sobrepeso      |
-|30.0 o m´s        |Obesidad       |
+- Para calcular el tiempo de preparación se hace un estimado basado en la cantidad de personas de la receta base (PB), la cantidad de personas para las que se va a realizar la preparación (PP) y el tiempo de la preparación de la receta(TR), de acuerdo con la siguiente tabla:
 
-**Método para calcular el consumo calórico de una fecha**
-
-Para calcular el consumo calórico de un día se suman los consumos calóricos por cada ejercicio realizado en el día. El cálculo de consumo de un ejercicio corresponde al número de calorías por repetición, multiplicado por el número de repeticiones realizadas.
-
+  ![](./assets/images/proyecto/recetario/tabla1.png)
+  
+- Para calcular la cantidad y el costo de los ingredientes, para cada ingrediente se calcula proporcionalmente la cantidad de acuerdo a las cantidades de la receta base y se aproximan al entero mayor más cercano. El costo se calcula con este valor por el precio por unidad del ingrediente.
+ 
 
 ## Tecnologías para el desarrollo 
 
