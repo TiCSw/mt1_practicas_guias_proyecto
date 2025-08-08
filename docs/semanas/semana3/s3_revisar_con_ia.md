@@ -22,7 +22,8 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
 
 * Ejecutar el validador:
   * Acceder a la pestaña **Actions** del repositorio en GitHub.
-  * Ejecutar el flujo de trabajo llamado **Validación automática de historias en la Wiki**. El validador revisará las historias detalladas y dejará un registro con observaciones en cada archivo `.md` correspondiente.
+  * Actualizar la URL del repositorio en el flujo de trabajo llamado **Validación automática de historias en la Wiki**.
+  * Ejecutar el flujo de trabajo. El validador revisará las historias detalladas y dejará un registro con observaciones en cada archivo `.md` correspondiente.
 
 * Revisar los resultados de la IA:
   * Abrir cada historia y leer con atención las sugerencias generadas por la IA.
@@ -31,6 +32,20 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
 * Ajustar las historias de usuario:
   * Realizar las correcciones necesarias en las historias de usuario, basándose en las sugerencias recibidas.
   * Volver a ejecutar el validador hasta que la revisión evidencie que la historia está correctamente detallada.
+ 
+* Solicitar la revisión par de un compañero
+  * Coordinar con un compañero del equipo la revisión par de las HU detalladas.
+  * El revisor debe confirmar que las observaciones del validador fueron atendidas y que no existen inconsistencias o errores no detectados por la IA.
+  * Documentar al final de cada archivo los resultados de la revisión:
+    
+   ````
+   ## Revisión par
+   Revisor: [Nombre completo]
+   Fecha: [DD/MM/AAAA]
+        
+   Observaciones:
+    - [Comentario 1]
+    - [Comentario 2]
 
 ### Recursos
 
@@ -43,12 +58,13 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
 ---
 
 En la wiki del proyecto:
-* Las historias de usuario corregidas, con la evidencia de revisión generada por la IA.
+* Las historias de usuario corregidas, con la evidencia de revisión generada por la IA y por el compañero.
 
 ### Criterios de evaluación
 
 ---
 
 * Todas las historias de usuario fueron revisadas mediante el validador y dicha revisión está evidenciada en los archivos.
+* Todas las historias incluyen la sección revisión par con observaciones o indicación de que no hubo comentarios adicionales.
 * Las observaciones emitidas por la IA fueron comprendidas y corregidas.
 * Las historias cumplen con los lineamientos del curso y están completas, claras y correctamente detalladas.
