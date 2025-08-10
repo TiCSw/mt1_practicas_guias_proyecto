@@ -46,6 +46,7 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
    Observaciones:
     - [Comentario 1]
     - [Comentario 2]
+   ````
 
 ### Recursos
 
