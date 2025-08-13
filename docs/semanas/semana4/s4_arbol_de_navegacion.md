@@ -2,47 +2,45 @@
 
 ## Árbol de navegación y diseño de pantallas
 
-<img src="./../../assets/images/proyecto/enforma/arbol_navegacion.png" width="100%"> 
+<img src="./../../assets/images/proyecto/recetario/Recetario-ArbolNavegacionV2.png" width="100%"> 
 
 
-### Ventana Principal - Lista de personas
+### Ventana Principal - Lista de recetas
 
-Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las personas que se entrenan y se puede acceder a las demás funcionalidades de la aplicación (Personas, ejercicios y entrenamientos).
+Esta es la pantalla principal de la aplicación. Desde acá se pueden ver todas las recetas que se tienen en Recetario y se puede acceder a las demás funcionalidades de la aplicación (íngredientes, preparación).
 
-<img src="./../../assets/images/proyecto/enforma/lista_personas.png" width="60%"> 
+<img src="./../../assets/images/proyecto/recetario/lista_recetas.png" width="60%"> 
 
-#### Ejercicios
-El botón de Ejercicios permite ver la lista de ejercicios disponibles:
+#### Ingredientes
+El botón de "Crear receta" permite ver la lista de ingredientes disponibles:
 
-<img src="./../../assets/images/proyecto/enforma/listar_ejercicios.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/listar_ingredientes.png" width="60%">
 
- A partir de este listado se puede crear/editar un ejercicio o eliminarlo: 
+ A partir de este listado se puede crear/editar una receta o eliminarla: 
  
-<img src="./../../assets/images/proyecto/enforma/crear_editar_ejercicios.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/crear_editar_ingredientes.png" width="60%">
 
 La eliminación de ejercicios se hace a través de los botones correspondientes.
 
-#### Personas
-El boton Crear persona de la Ventana principal abre la ventana para crear una persona:
+#### Recetas
+El boton Crear resceta de la Ventana principal abre la ventana para crear una receta:
 
-<img src="./../../assets/images/proyecto/enforma/crear_persona.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/crear_receta.png" width="60%">
 
-Esta ventanta sirve también para editar los datos de una persona.
+Esta ventanta sirve también para editar los datos de una receta.
 
-#### Entrenamientos
+#### Ingredientes receta
 
-Con el botón entrenamientos se abre la ventana que listas todos los ejercicios que ha realizado la persona.
+Con el botón ingredientes e la pantalla crear receta se abre la ventana que listas todos los ingredientes que tiene una receta.
 
-<img src="./../../assets/images/proyecto/enforma/entrenamientos.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/ingredientes_receta.png" width="60%">
 
-Desde esta ventana, con el botón Registrar ejercicio se puede registrar un nuevo ejercicio realizado por la persona.
+Desde esta ventana, con el botón agregar ingrediente se puede adicionar un nuevo ingrediente para la receta.
 
-<img src="./../../assets/images/proyecto/enforma/crear_editar_entrenamientos.png" width="60%">
+<img src="./../../assets/images/proyecto/recetario/crear_editar_ingrediente_recetaV2.png" width="60%">
 
-#### Reporte
+#### Preparación receta
 
-El botón Reporte de la ventana de Entrenamientos muestra el reporte de los entrenamientos de la persona.
+El botón Preparar de la ventana de Principal muestra la información para la preparación de una receta.
 
-<img src="./../../assets/images/proyecto/enforma/reporte_entrenamientos.png" width="60%"> 
-
-
+<img src="./../../assets/images/proyecto/recetario/preparacion_receta.png" width="60%"> 
