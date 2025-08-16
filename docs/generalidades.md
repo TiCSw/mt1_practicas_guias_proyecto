@@ -54,7 +54,6 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 
 ## Enunciado
-## Enunciado
 
 La empresa SoftOne4101 lo ha contratado para desarrollar una aplicación llamada “Recetario” que permitirá a un administrador de un restaurante gestionar todo lo relacionado con las recetas y platos que preparan en el restaurante. El administrador debe estar pendiente de las compras necesarias para la preparación de los platos que el chef decide ofrecer cada semana. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
 
