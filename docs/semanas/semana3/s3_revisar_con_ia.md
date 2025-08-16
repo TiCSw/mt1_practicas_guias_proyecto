@@ -33,8 +33,8 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
   * Realizar las correcciones necesarias en las historias de usuario, basándose en las sugerencias recibidas.
   * Volver a ejecutar el validador hasta que la revisión evidencie que la historia está correctamente detallada.
  
-* Solicitar la revisión par de un compañero
-  * Coordinar con un compañero del equipo la revisión par de las HU detalladas.
+* Solicitar la revisión par del compañero
+  * Coordinar con el compañero de equipo la revisión par de las HU detalladas.
   * El revisor debe confirmar que las observaciones del validador fueron atendidas y que no existen inconsistencias o errores no detectados por la IA.
   * Documentar al final de cada archivo los resultados de la revisión:
     
