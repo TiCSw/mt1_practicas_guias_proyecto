@@ -29,20 +29,30 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
   * Solo las historias que incluyan este marcador serán procesadas por la IA.  
   * El validador eliminará automáticamente el marcador después de realizar la revisión.  
   * Si se requiere una nueva revisión tras hacer correcciones, será necesario volver a agregar manualmente el marcador.  
+
+  <br>
 * Ejecutar el validador:
   * Acceder a la pestaña **Actions** del repositorio en GitHub.
   * Actualizar la URL del repositorio en el flujo de trabajo llamado **Validación automática de historias en la Wiki**.
   * Ejecutar el flujo de trabajo. El validador revisará las historias detalladas y dejará un registro con observaciones en cada archivo `.md` correspondiente.  
+
+  <br>
 * Revisar los resultados de la IA:
   * Abrir cada historia y leer con atención las sugerencias generadas por la IA.
   * Analizar los comentarios para comprender por qué se hacen las observaciones y cómo mejorar la historia.  
+
+  <br>
 * Ajustar las historias de usuario:
   * Realizar las correcciones necesarias en las historias de usuario, basándose en las sugerencias recibidas.
   * Volver a ejecutar el validador hasta que la revisión evidencie que la historia está correctamente detallada.  
-* Solicitar la revisión par del compañero
+
+  <br>
+* Solicitar la revisión par del compañero:
   * Coordinar con el compañero de equipo la revisión par de las HU detalladas.
   * El revisor debe confirmar que las observaciones del validador fueron atendidas y que no existen inconsistencias o errores no detectados por la IA.
   * Documentar al final de cada archivo los resultados de la revisión:  
+
+  <br>  
   
    ````
    ## Revisión par
