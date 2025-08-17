@@ -20,6 +20,15 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
+* Marcar historias listas para revisión:
+  Antes de ejecutar el validador, cada historia de usuario que deba revisarse debe contener el siguiente marcador en cualquier parte del archivo `.md`:
+  
+  `HU lista para revisión`
+  
+  **Condiciones importantes**  
+  * Solo las historias que incluyan este marcador serán procesadas por la IA.  
+  * El validador eliminará automáticamente el marcador después de realizar la revisión.  
+  * Si se requiere una nueva revisión tras hacer correcciones, será necesario volver a agregar manualmente el marcador.
 * Ejecutar el validador:
   * Acceder a la pestaña **Actions** del repositorio en GitHub.
   * Actualizar la URL del repositorio en el flujo de trabajo llamado **Validación automática de historias en la Wiki**.
