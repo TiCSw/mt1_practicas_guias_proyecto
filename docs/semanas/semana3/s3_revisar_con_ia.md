@@ -31,7 +31,7 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
   * Si se requiere una nueva revisión tras hacer correcciones, será necesario volver a agregar manualmente el marcador.  
 
   <br>
-* Ejecutar el validador ([ver instructivo](./MT1PEA-InstructivoEjecutarGitHubActions.pdf)):
+* Ejecutar el validador ([ver instructivo](./MT1PEA-InstructivoEjecutarGitHubActions.pdf))
   * El validador revisará las historias detalladas y dejará un registro con observaciones en cada archivo `.md` correspondiente.  
 
   <br>
