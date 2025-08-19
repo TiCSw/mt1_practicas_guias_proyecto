@@ -11,7 +11,7 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
 * Crear la página de **Enunciado** del proyecto:
   * Crear una página llamada **Enunciado** en la raíz de la wiki.
   * Copiar el enunciado completo del proyecto en esta página, ya que será tenida en cuenta por el validador para evaluar las historias de usuario.
-* Configurar la API Key de OpenAI en la configuración del repositorio en GitHub. Las instrucciones detalladas para obtener y configurar esta clave se encuentran en el archivo `README.md` del repositorio.
+* Configurar la API Key de OpenAI ([ver instructivo](./MT1PEA-InstructivoOpenAI.pdf)).
 
 
 ### Descripción actividad
