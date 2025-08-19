@@ -32,9 +32,7 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
 
   <br>
 * Ejecutar el validador ([ver instructivo](./MT1PEA-InstructivoEjecutarGitHubActions.pdf))
-  * Acceder a la pestaña **Actions** del repositorio en GitHub.
-  * Actualizar la URL del repositorio en el flujo de trabajo llamado **Validación automática de historias en la Wiki**.
-  * Ejecutar el flujo de trabajo. El validador revisará las historias detalladas y dejará un registro con observaciones en cada archivo `.md` correspondiente.  
+  * El validador revisará las historias detalladas y dejará un registro con observaciones en cada archivo `.md` correspondiente.  
 
   <br>
 * Revisar los resultados de la IA:
@@ -67,8 +65,8 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
 ### Recursos
 
 ---
-* Instrucciones para obtener y configurar la API Key necesaria en el archivo `README.md` del repositorio.
-* Flujo de trabajo ya configurado en GitHub Actions para realizar la validación.
+* Instrucciones para configurar la API Key de OpenAI.
+* Instrucciones para ejecutar el validador con GitHub Actions.
 
 ### Entregables
 
