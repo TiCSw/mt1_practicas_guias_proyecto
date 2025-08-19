@@ -31,7 +31,7 @@ Asegurar la calidad de las historias de usuario con el apoyo de un script de val
   * Si se requiere una nueva revisión tras hacer correcciones, será necesario volver a agregar manualmente el marcador.  
 
   <br>
-* Ejecutar el validador ([ver instructivo](./MT1PEA-GuiaInspeccionHU.pdf))
+* Ejecutar el validador ([ver instructivo](./MT1PEA-InstructivoEjecutarGitHubActions.pdf))
   * Acceder a la pestaña **Actions** del repositorio en GitHub.
   * Actualizar la URL del repositorio en el flujo de trabajo llamado **Validación automática de historias en la Wiki**.
   * Ejecutar el flujo de trabajo. El validador revisará las historias detalladas y dejará un registro con observaciones en cada archivo `.md` correspondiente.  
