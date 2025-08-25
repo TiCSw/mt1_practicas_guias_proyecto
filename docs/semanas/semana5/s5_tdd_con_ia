@@ -1,41 +1,57 @@
-## Semana 5  - Implementación usando TDD
+# Semana 5 – Implementación usando TDD con Pair Programming y GitHub Copilot
 
-### Objetivos
+## Objetivos
+El objetivo de esta semana es desarrollar el primer grupo de historias de usuario del proyecto aplicando la práctica de **Desarrollo Dirigido por Pruebas (TDD)** y **pair programming**, con el apoyo de **GitHub Copilot** como asistente en pasos concretos del ciclo.
 
-El objetivo de esta semana es desarrollar el primer grupo de historias de usuario del proyecto utilizando las prácticas de TDD y pair programming. 
-
-### Pasos previos
----
-* Haber realizado el [tutorial de pruebas unitarias en Python](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-unit-test/index.html?index=..%2F..index#0).
-* Haber estudiado el [video tutorial de la Kata TDD](https://www.coursera.org/learn/practicas-esenciales-software-agilismo/lecture/faHIu/kata-tdd)
-* Haber realizado la configuración inicial de las fuentes del proyecto en el repositorio . 
-
-### Descripción actividad
----
-En esta semana se inicia el desarrollo de las funcionalidades del producto. Se propone dividir la funcionalidad en tres grupos de historias y desarrollar cada grupo en una semana. Durante esta semana se utilizará el flujo de trabajo que estableció el equipo en la semana 4. 
-
-#### ![](./../../assets/images/grupo.png) Actividad de equipo
-* Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202511.md) el listado de funcionalidades a desarrollar en la semana.
-* Realizar las correcciones sugeridas por el tutor para las historias de usuario que se deben entregar esa semana.
-* Planear los tiempos para desarrollar cada una de las historias: el equipo debe acordar los espacios en la semana para hacer el desarrollo puesto que se va a realizar haciendo pair programming, como se muestra en el video de la Kata TDD. 
-* Actualizar el tablero de actividades del proyecto con las tareas planeadas.
-* Desarrollar cada una de las historias en los espacios planeados usando TDD y pair programming. 
-* Integrar el código que pasa exitosamente las pruebas unitarias en el repositorio github del equipo de acuerdo con el flujo de trabajo definido.
-
-
-### Entregables
----
-En el repositorio de GitHub del equipo:
-* El código implementado debe estar en la rama principal. 
-
-En el tablero de actividades del proyecto:
-* El estado del tablero de actividades del proyecto refleja el estado de las actividades durante el proceso.
-
-
-### Criterios de evaluación
 ---
 
-* Se han desarrollado las historias del primer grupo de funcionalidades.
-* Todas las pruebas unitarias funcionan correctamente. 
-* En el historial del código en el respositorio se evidencia el desarrollo usando TDD.
-* El resultado de la integración continua es exitoso.
+## Pasos previos
+* Haber realizado el [tutorial de pruebas unitarias en Python](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-unit-test/index.html?index=..%2F..index#0).  
+* Haber visto el **video de la Kata TDD con Copilot**, donde se ejemplifica cómo usarlo como compañero virtual.  
+* Haber realizado la configuración inicial del repositorio y del entorno de desarrollo.  
+* Tener instalado y configurado el **plugin de GitHub Copilot** en el IDE (ver instructivo).  
+
+---
+
+## Descripción de la actividad
+Durante esta semana se inicia la implementación de las funcionalidades del producto.  
+
+El equipo trabajará siguiendo la mecánica mostrada en la Kata TDD con Copilot:  
+
+1. Definir los **escenarios de prueba** para cada historia de usuario.  
+2. **Escribir la prueba unitaria** correspondiente (con apoyo de Copilot).  
+3. **Ejecutar la prueba y confirmar que falle** (Rojo).  
+4. **Implementar el código mínimo** necesario para que la prueba pase.  
+5. **Ejecutar nuevamente las pruebas y confirmar que pasen** (Verde).  
+6. **Refactorizar el código** cuando sea necesario (Azul).  
+7. Repetir el ciclo con nuevos escenarios hasta completar la funcionalidad.  
+
+### ![](./../../assets/images/grupo.png) Actividad de equipo
+* Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202511.md) las historias correspondientes a esta semana.  
+* Ajustar las historias de usuario según las observaciones del tutor.  
+* Planear las sesiones de desarrollo en pareja, organizando los espacios para trabajar cada historia.  
+* Seguir la dinámica de roles mostrada en el video de la Kata TDD:  
+  - **Copilot sugiere la prueba para el escenario dado.**  
+  - **Un estudiante implementa el código mínimo para que la prueba pase.**  
+  - **El otro estudiante refactoriza y valida.**  
+* Registrar en el tablero de actividades el avance de las tareas.  
+* Integrar en el repositorio cada paso.  
+
+---
+
+## Entregables
+En el repositorio de GitHub del equipo:  
+* El código implementado en la rama principal.  
+* Evidencia del ciclo TDD en el historial de commits (commits rojos, verdes y azules).  
+
+En el tablero de actividades del proyecto:  
+* Historias de usuario con sus tareas actualizadas según el avance real.  
+
+---
+
+## Criterios de evaluación
+* Se desarrollaron todas las historias de usuario previstas para la semana.  
+* Todas las pruebas unitarias se ejecutan correctamente.  
+* En el historial de commits se evidencia el ciclo TDD (rojo, verde, azul).  
+* El uso de GitHub Copilot es responsable y limitado a su rol de asistente, no de sustituto del trabajo en equipo.  
+* El resultado de la integración continua es exitoso.  
