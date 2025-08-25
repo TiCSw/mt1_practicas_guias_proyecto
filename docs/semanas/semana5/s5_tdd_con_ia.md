@@ -27,7 +27,7 @@ El equipo trabajará siguiendo la mecánica mostrada en la Kata TDD con Copilot:
 7. Repetir el ciclo con nuevos escenarios hasta completar la funcionalidad.  
 
 ### ![](./../../assets/images/grupo.png) Actividad de equipo
-* Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202511.md) las historias correspondientes a esta semana.  
+* Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202514.md) las historias correspondientes a esta semana.  
 * Ajustar las historias de usuario según las observaciones del tutor.  
 * Planear las sesiones de desarrollo en pareja, organizando los espacios para trabajar cada historia.  
 * Seguir la dinámica de roles mostrada en el video de la Kata TDD:  
