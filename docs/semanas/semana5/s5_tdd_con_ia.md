@@ -20,9 +20,9 @@ El equipo trabajará siguiendo la mecánica mostrada en la Kata TDD con Copilot:
 
 1. Definir los **escenarios de prueba** para cada historia de usuario.  
 2. **Escribir la prueba unitaria** correspondiente (con apoyo de Copilot).  
-3. **Ejecutar la prueba y confirmar que falle** (Rojo).  
+3. Ejecutar la prueba y confirmar que falle (Rojo).  
 4. **Implementar el código mínimo** necesario para que la prueba pase.  
-5. **Ejecutar nuevamente las pruebas y confirmar que pasen** (Verde).  
+5. Ejecutar nuevamente las pruebas y confirmar que pasen (Verde).  
 6. **Refactorizar el código** cuando sea necesario (Azul).  
 7. Repetir el ciclo con nuevos escenarios hasta completar la funcionalidad.  
 
@@ -31,9 +31,9 @@ El equipo trabajará siguiendo la mecánica mostrada en la Kata TDD con Copilot:
 * Ajustar las historias de usuario según las observaciones del tutor.  
 * Planear las sesiones de desarrollo en pareja, organizando los espacios para trabajar cada historia.  
 * Seguir la dinámica de roles mostrada en el video de la Kata TDD:  
-  - **Copilot sugiere la prueba para el escenario dado.**  
-  - **Un estudiante implementa el código mínimo para que la prueba pase.**  
-  - **El otro estudiante refactoriza y valida.**  
+  - Copilot sugiere la prueba para el escenario dado.
+  - Un estudiante implementa el código mínimo para que la prueba pase.
+  - El otro estudiante refactoriza y valida.
 * Registrar en el tablero de actividades el avance de las tareas.  
 * Integrar en el repositorio cada paso.  
 
