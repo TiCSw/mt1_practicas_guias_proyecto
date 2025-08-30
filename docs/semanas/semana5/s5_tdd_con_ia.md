@@ -10,7 +10,7 @@ El objetivo de esta semana es desarrollar el primer grupo de historias de usuari
 * Haber realizado la configuración inicial del repositorio y del entorno de desarrollo.  
 * Haber instalado y configurado **GitHub Copilot** en el IDE
   * [Instructivo PyCharm](MT1PEA-GitHubCopilotPyCharm.pdf)
-  * [Instructivo VS Code]()
+  * [Instructivo VS Code](MT1PEA-ConfiguracionGitHubCopilotVSCode.pdf)
 * Haber visto el **video de la Kata TDD con Copilot**, donde se ejemplifica cómo usarlo como compañero virtual.  
 
 ---
