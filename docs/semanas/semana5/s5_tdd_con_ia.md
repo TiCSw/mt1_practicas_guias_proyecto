@@ -7,9 +7,11 @@ El objetivo de esta semana es desarrollar el primer grupo de historias de usuari
 
 ## Pasos previos
 * Haber realizado el [tutorial de pruebas unitarias en Python](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-unit-test/index.html?index=..%2F..index#0).  
-* Haber visto el **video de la Kata TDD con Copilot**, donde se ejemplifica cómo usarlo como compañero virtual.  
 * Haber realizado la configuración inicial del repositorio y del entorno de desarrollo.  
-* Tener instalado y configurado el **plugin de GitHub Copilot** en el IDE (ver instructivo).  
+* Haber instalado y configurado **GitHub Copilot** en el IDE
+  * [Instructivo PyCharm](MT1PEA-GitHubCopilotPyCharm.pdf)
+  * [Instructivo VS Code]()
+* Haber visto el **video de la Kata TDD con Copilot**, donde se ejemplifica cómo usarlo como compañero virtual.  
 
 ---
 
