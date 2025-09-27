@@ -11,7 +11,7 @@ Implementar el primer grupo de historias de usuario aplicando **Desarrollo Dirig
 * Haber instalado y configurado **GitHub Copilot** en el IDE:  
   * [Instructivo PyCharm](MT1PEA-GitHubCopilotPyCharm.pdf)  
   * [Instructivo VS Code](MT1PEA-ConfiguracionGitHubCopilotVSCode.pdf)  
-* Haber visto el **video de la Kata TDD con Copilot**. (Pendiente enlace)
+* Haber visto el [video de la Kata TDD con Copilot](https://uniandes-my.sharepoint.com/:v:/g/personal/misovirtual-pea_uniandes_edu_co/EVz1QuBnFCVBv594y2wECkQB0uRF148asQRAX90vHtgZhg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=72q0SA)
 
 ---
 
