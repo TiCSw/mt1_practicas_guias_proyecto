@@ -6,7 +6,7 @@ Esta guía explica cómo habilitar en la máquina local el hook de pre-commit qu
 
 ## 1. Pasos previos
  
-- Configurar la API Key de OpenAI ([ver instructivo](./MT1PEA-InstructivoOpenAI.pdf)).
+- Configurar la API Key de OpenAI ([ver instructivo](./../semana3/MT1PEA-InstructivoOpenAI.pdf)).
 
 ---
 
