@@ -24,4 +24,11 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
    * Los archivos de configuración del entorno y las dependencias necesarias para ejecutar la aplicación. 
 
 * Cada uno de los integrantes clona el repositorio del proyecto para crear su espacio local de trabajo. 
-* Desde el IDE escogido, verificar que el proyecto se ejecute correctamente. Para realizar esta configuración inicial, consultar el `README` del repositorio del proyecto del curso, donde se encuentra el paso a paso detallado para preparar el entorno y los enlaces a los videos de instalación en PyCharm y Visual Studio Code.
+   * Desde el IDE escogido, verificar que el proyecto se ejecute correctamente. Para realizar esta configuración inicial, consultar el `README` del repositorio del proyecto del curso, donde se encuentra el paso a paso detallado para preparar el entorno y los enlaces a los videos de instalación en PyCharm y Visual Studio Code.
+   * Habilitar el pre-commit con auditoría asistida por inteligencia artificial (IA) siguiendo la guía disponible en Recursos. Esta configuración permite analizar los cambios antes de cada commit y ofrece recomendaciones en modo `warn`. Es importante completar este paso para asegurar que el proyecto quede preparado para mantener un historial de commits claro y consistente durante el desarrollo.
+
+ 
+### Recursos
+
+---
+* [Guía para habilitar el pre-commit con auditoría asistida por IA](./../semana4/MT1PEA-Configuración-pre-commit.md)
