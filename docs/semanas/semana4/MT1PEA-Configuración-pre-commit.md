@@ -8,13 +8,13 @@ Esta guía explica cómo habilitar en la máquina local el hook de pre-commit qu
 
 - Python 3.9 o superior  
 - Git instalado  
-- OpenAI API Key (proporcionada por el curso o gestionada por el estudiante)
+- OpenAI API Key
 
 ---
 
 ## 2. Archivos incluidos en el repositorio y su propósito
 
-El repositorio ya contiene la siguiente estructura mínima:
+El repositorio ya contiene los siguientes archivos de configuración:
 
 ```
 .pre-commit-config.yaml
@@ -32,7 +32,7 @@ Descripción de cada archivo:
 
 - **scripts/ai_precommit_openai.py**  
   Script que realiza la auditoría del commit.  
-  Recibe el diff, llama al modelo de IA y muestra un análisis en español con sugerencias y clasificaciones.
+  Recibe el diff, llama al modelo de IA y muestra un análisis con sugerencias y clasificaciones.
 
 ---
 
@@ -92,7 +92,7 @@ git add .
 git commit -m "prueba"
 ```
 
-El hook debe mostrar un **JSON en español** con:
+El hook debe mostrar un **JSON** con:
 
 - Clasificación del cambio  
 - Mensaje de commit sugerido  
