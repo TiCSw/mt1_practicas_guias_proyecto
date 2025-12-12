@@ -19,16 +19,9 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-En el repositorio del proyecto en GitHub se encuentra la estructura incial del las fuentes del proyecto. Esta versión inicial ya contiene las clases que implementan la interfaz de la aplicación.  
+* En el repositorio del proyecto en GitHub se encuentra la estructura inicial de la aplicación. Esta versión inicial incluye:
+   * El backend y frontend organizados con sus paquetes y módulos base.
+   * Los archivos de configuración del entorno y las dependencias necesarias para ejecutar la aplicación. 
 
 * Cada uno de los integrantes clona el repositorio del proyecto para crear su espacio local de trabajo. 
-* Desde el IDE escogido, verifica que el código no tiene errores y que las librerías necesarias se enlazan al proyecto. En la sección de recursos encuentran videos que muestran cómo instalar el proyecto en los IDE PyCharm y Visual Studio Code.
-
-
-### Recursos
-
----
-* Fuentes iniciales con la interfaz de la aplicación implementada.
-* [Video instalación proyecto en Visual Studio Code](https://uniandes.sharepoint.com/:v:/s/misw4101-202111-sesiones/EfYfRQUCN5BevxTiYxStj_gBsGkROrGvkQTRrwNdzPFqpQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gYsQfL)
-* [Video instalación proyecto en PyCharm](https://uniandes.sharepoint.com/:v:/s/misw4101-202111-sesiones/ETBIH-8YfKZVItds4QRXjz8Bp744bjx2ozC3Zz5k9bnEMg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s1PjRp)
-
+* Desde el IDE escogido, verificar que el proyecto se ejecute correctamente. Para realizar esta configuración inicial, consultar el `README` del repositorio del proyecto del curso, donde se encuentra el paso a paso detallado para preparar el entorno y los enlaces a los videos de instalación en PyCharm y Visual Studio Code.
