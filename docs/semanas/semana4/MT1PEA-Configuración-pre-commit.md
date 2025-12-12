@@ -1,4 +1,4 @@
-# Guía rápida para activar el pre-commit con IA (OpenAI)
+# Guía para activar el pre-commit con IA (OpenAI)
 
 Esta guía explica cómo habilitar en la máquina local el hook de pre-commit que analiza los cambios realizados y sugiere mensajes de commit utilizando un modelo de IA. Todos los archivos necesarios ya están incluidos en el repositorio del curso.
 
