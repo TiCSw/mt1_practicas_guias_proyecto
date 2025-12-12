@@ -5,9 +5,7 @@ Esta guía explica cómo habilitar en la máquina local el hook de pre-commit qu
 ---
 
 ## 1. Requisitos
-
-- Python 3.9 o superior  
-- Git instalado  
+ 
 - Configurar la API Key de OpenAI ([ver instructivo](./MT1PEA-InstructivoOpenAI.pdf)).
 
 ---
