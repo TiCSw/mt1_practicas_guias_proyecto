@@ -41,10 +41,13 @@ Los estudiantes **pueden apoyarse en GitHub Copilot para la generación de mensa
   * Evidenciar el avance incremental del desarrollo.
 * El equipo es responsable de **revisar y ajustar** cualquier mensaje sugerido por la IA antes de confirmar el commit.
 
-> El uso de IA **no reemplaza el criterio del equipo** ni exime la responsabilidad sobre la claridad y coherencia del historial de versiones.
-> [Sugerencia de mensajes de commit con GitHub Copilot](MT1PEA-MensajesCommitConGitHubCopilot.md).
+> El uso de IA **no reemplaza el criterio del equipo** ni exime la responsabilidad sobre la claridad y coherencia del historial de versiones. Ver guía de uso en sección de recursos.
 
 
+### Recursos
+---
+* [Guía para usar sugerencia de mensajes de commit con GitHub Copilot](MT1PEA-MensajesCommitConGitHubCopilot.md).
+ 
 
 ### Entregables
 ---
