@@ -55,34 +55,20 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 ## Enunciado
 
-La empresa SoftOne4101 lo ha contratado para desarrollar una aplicación llamada “Recetario” que permitirá a un administrador de un restaurante gestionar todo lo relacionado con las recetas y platos que preparan en el restaurante. El administrador debe estar pendiente de las compras necesarias para la preparación de los platos que el chef decide ofrecer cada semana. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
-
-Al iniciar la aplicación el administrador verá una pantalla principal, donde podrá ver el logo del restaurante, la descripción de la aplicación “Recetario”, una opción para agregar una receta, otra para ir al listado de ingredientes que se utilizan en el restaurante y el listado de recetas que se preparan.  En el listado de ingredientes se muestra el nombre del ingrediente, la unidad de medida, el valor por unidad, el nombre del sitio donde lo compran y botones para editar o borrar un ingrediente, siempre y cuando no se esté usando en alguna receta. En la pantalla de ingredientes, el administrador encuentra también una opción para agregar un ingrediente nuevo y otra para volver a la pantalla principal.
-
-En la opción para agregar una nueva receta, el administrador podrá registrar el nombre de la receta, el tiempo de preparación, el número de personas para las que se prepara, las calorías por porción y la descripción de las instrucciones de preparación. Desde la pantalla para agregar la receta el administrador puede ingresar a una opción para registrar los ingredientes que se requieren para preparar la receta, por cada ingrediente detallan la cantidad que se requiere y la unidad de medida que se utiliza. A partir de esta lista podrá agregar un nuevo ingrediente si lo necesita, editar o borrar alguno, Los ingredientes que se pueden escoger para agregar a la receta son los del listado de ingredientes del restaurante. 
-
-El listado de recetas de la página principal muestra para cada receta el nombre, una opción que permite editar toda la información de la receta, otra que permite eliminar la receta y una opción preparar. La opción de preparar permite planear una preparación para un número específico de personas. Al utilizar esta opción se solicita la cantidad de personas para las que se va a preparar la receta y luego calcula, a partir de la información que se tiene de la receta, el tiempo de preparación estimado, las calorías por porción, el costo de los ingredientes y para cada ingrediente la cantidad que se debe utilizar proporcional a la cantidad de personas. 
-
-**Método para calcular el tiempo, la cantidad de ingredientes y el costo de una preparación**
-
-- Para calcular el tiempo de preparación se hace un estimado basado en la cantidad de personas de la receta base (PB), la cantidad de personas para las que se va a realizar la preparación (PP) y el tiempo de la preparación de la receta(TR), de acuerdo con la siguiente tabla:
-
-  ![](./assets/images/proyecto/recetario/tabla1.png)
-  
-- Para calcular la cantidad y el costo de los ingredientes, para cada ingrediente se calcula proporcionalmente la cantidad de acuerdo a las cantidades de la receta base y se aproximan al entero mayor más cercano. El costo se calcula con este valor por el precio por unidad del ingrediente.
+_El enunciado del proyecto se publicará una vez se hayan conformado los grupos para el proyecto y asignado tutores a cada grupo._
  
 
 ## Tecnologías para el desarrollo 
 
-La aplicación que se va a desarrollar es una aplicación muy sencilla, mono usuario y con interfaz de escritorio. 
+La aplicación que se va a desarrollar es una aplicación muy web muy sencilla. 
 
-Las tecnologías que se utilizarán para desarrollar el proyecto son: Python como lenguaje de programación, GIT para el control de versiones, SQLite y SQLAlchemy para la base de datos. Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
+Las tecnologías que se utilizarán para desarrollar el proyecto son: Python como lenguaje de programación, GIT para el control de versiones, para frontend angular, el framework Flask para el backen y SQLite para la base de datos. Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
 
 
 | Elemento                  | Herramienta |
 | ------------------------- | ----------- |
 | Base de datos             | SQLite      |
-| Framework ORM para Python | SQLAlchemy  |
+| Framework backend         | Flask       |
 | Lenguaje de programación  | Python      |
 | Manejador de versiones    | Git         |
 | Repositorio remoto        | Github      |
