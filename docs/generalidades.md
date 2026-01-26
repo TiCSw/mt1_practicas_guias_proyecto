@@ -55,12 +55,18 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 ## Enunciado
 
-_El enunciado del proyecto se publicará una vez se hayan conformado los grupos para el proyecto y asignado tutores a cada grupo._
+*Los enunciados de los proyectos se publicarán una vez se conformen los grupos y se asignen tutores*
+<!--
+| Proyecto                  | Enunciado               | Tutor             |
+| ------------------------- | ------------------------|-------------------|
+| 1.CineVault                 | Enunciado CineVault     | Sebastian Correa  |
+| 2.Concesionario             | Enunciado Concesionario | Tatiana Macias    |
+| 3.ShopFlow                  | Enunciado ShopFlow      | Carlos Riveros    |
  
-
+-->
 ## Tecnologías para el desarrollo 
 
-La aplicación que se va a desarrollar es una aplicación muy web muy sencilla. 
+La aplicación que se va a desarrollar es una aplicación web muy sencilla. 
 
 Las tecnologías que se utilizarán para desarrollar el proyecto son: Python como lenguaje de programación, GIT para el control de versiones, para frontend angular, el framework Flask para el backen y SQLite para la base de datos. Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
 
