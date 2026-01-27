@@ -53,17 +53,17 @@ En las semanas 4, 5, 6 y 7 se desarrollan las historias en dos iteraciones. En c
 El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las parejas se conforman durante la semana 2 y el trabajo en grupo inicia en la semana 3.
 
 
-## Enunciado
+## Enunciados
 
-*Los enunciados de los proyectos se publicarán una vez se conformen los grupos y se asignen tutores*
-<!--
+
+
 | Proyecto                  | Enunciado               | Tutor             |
 | ------------------------- | ------------------------|-------------------|
-| 1.CineVault                 | Enunciado CineVault     | Sebastian Correa  |
-| 2.Concesionario             | Enunciado Concesionario | Tatiana Macias    |
-| 3.ShopFlow                  | Enunciado ShopFlow      | Carlos Riveros    |
+| 1.CineVault                 | [Enunciado CineVault](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado1)    | Sebastian Correa  |
+| 2.Concesionario             | [Enunciado Concesionario](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado2) | Tatiana Macias    |
+| 3.ShopFlow                  | [Enunciado ShopFlow](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado3)      | Carlos Riveros    |
  
- -->
+
 ## Tecnologías para el desarrollo 
 
 La aplicación que se va a desarrollar es una aplicación web muy sencilla. 
