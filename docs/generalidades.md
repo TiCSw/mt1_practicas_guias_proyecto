@@ -63,7 +63,7 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 | 2.Concesionario             | Enunciado Concesionario | Tatiana Macias    |
 | 3.ShopFlow                  | Enunciado ShopFlow      | Carlos Riveros    |
  
--->
+ -->
 ## Tecnologías para el desarrollo 
 
 La aplicación que se va a desarrollar es una aplicación web muy sencilla. 
