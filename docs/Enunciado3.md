@@ -1,0 +1,11 @@
+# ShopFlow - Sistema de Gestión de Tienda
+
+La empresa RetailMax lo ha contratado para desarrollar una aplicación llamada "ShopFlow" que permitirá a un gerente de inventario gestionar todo lo relacionado con productos y categorías de la tienda en línea. El gerente de inventario debe estar pendiente de mantener actualizado el catálogo de productos y la organización por categorías. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
+
+Al iniciar la aplicación el gerente de inventario verá una pantalla principal, donde podrá ver el logo de RetailMax, la descripción de la aplicación "ShopFlow", una opción para agregar producto, otra para ir al listado de categorías y el listado de productos disponibles. En el listado de categorías se muestra nombre, descripción y estado activo y botones para editar o borrar categoría, siempre y cuando no tenga productos asociados. En la pantalla de categorías, el gerente de inventario encuentra también una opción para agregar categoría nueva y otra para volver a la pantalla principal.
+
+En la opción para agregar producto, el gerente de inventario podrá registrar nombre, descripción, precio, stock disponible, código SKU y seleccionar categoría de una lista disponible. Desde la pantalla para agregar producto el gerente de inventario puede ingresar a una opción para gestionar categorías si necesita agregar una nueva.
+
+El listado de productos de la página principal muestra para cada producto nombre, precio, stock y categoría, una opción que permite editar toda la información, otra que permite eliminar y una opción ver detalles. La opción de ver detalles permite consultar información completa incluyendo los datos de categoría asociada.
+
+Además, la aplicación deberá contar con la funcionalidad de generar un reporte de categorías por popularidad. En la parte superior de este, deberá mostrar el total de productos, el total de categorías y la categoría más popular. El detalle de este reporte deberá mostrar, para cada categoría, el total de productos y el precio promedio de los productos en ella.La categoría más popular es aquella con màs productos. En el caso que dos categorias tengan el mimso número de productos la más popular entre ellas es la que tenga el precio promedio más alto. El listado debe presentarse ordenado por categoría.
