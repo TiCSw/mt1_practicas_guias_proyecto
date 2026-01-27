@@ -1,0 +1,11 @@
+# Sistema de Gestión de Concesionario Automotriz
+
+La empresa DriveMax lo ha contratado para desarrollar una aplicación llamada "AutoHub" que permitirá a un vendedor gestionar todo lo relacionado con vehículos y marcas del concesionario. El vendedor debe estar pendiente de mantener actualizado el inventario de vehículos y la información de las marcas disponibles. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
+
+Al iniciar la aplicación el vendedor verá una pantalla principal, donde podrá ver el logo de DriveMax, la descripción de la aplicación "AutoHub", una opción para agregar vehículo, otra para ir al listado de marcas y el listado de vehículos disponibles. En el listado de marcas se muestra nombre y país de origen y botones para editar o borrar marca, siempre y cuando no tenga vehículos asociados. En la pantalla de marcas, el vendedor encuentra también una opción para agregar marca nueva y otra para volver a la pantalla principal.
+
+En la opción para agregar vehículo, el vendedor podrá registrar modelo, año, precio y kilometraje y seleccionar marca de una lista disponible. Desde la pantalla para agregar vehículo el vendedor puede ingresar a una opción para gestionar marcas si necesita agregar una nueva.
+
+El listado de vehículos de la página principal muestra para cada vehículo modelo, año, precio, una opción que permite editar toda la información, otra que permite eliminar y una opción ver detalles. La opción de ver detalles permite consultar información completa incluyendo los datos de marca asociada.
+
+Además, la aplicación debe incluir una funcionalidad de "Reporte de Marcas por Popularidad" que permite al administrador de contenido generar estadísticas de vehículos por marca. En la parte superior de este, deberá mostrar el total de marcas, el total de vehículos y la marca más popular (activa). El reporte muestra para cada marca: el total de vehículos y listado de vehículos de la marca (nombre y año). La marca más popular es aquella con más vehículos. En el caso que dos marcas tengan el mimso número de vehículos la más popular entre ellas es la que tenga el vehículo de año más reciente. El listado debe presentarse ordenado por popularidad.
