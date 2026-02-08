@@ -8,7 +8,7 @@ Realizar el diseño de la aplicación.
 
 ---
 
-* Haber realizado el tutorial sobre  [SQLAlchemy](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-SQLAlchemy-Python/index.html#0).
+* Haber realizado el tutorial sobre  [SQLAlchemy](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-SQLAlchemy-Python/index.html#0) y el [tutorial de Flask](coursera.org/learn/practicas-esenciales-software-agilismo/item/UGDg4).
 * Haber revisado y actualizado las Historias de Usuario que se van a implementar. 
   
   
@@ -16,7 +16,7 @@ Realizar el diseño de la aplicación.
 ---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-* Construir un modelo de clases que represente el diseño de la aplicación correspondiente con las funcionalidades de la primera entrega, es decir las que se [desarrollarán en la semana 5](./../semana5/MT1PEA-PlanDesarrolloHistorias202514.md). Este diseño debe incluir las clases necesarias para implementar la lógica de la aplicación:
+* Construir un modelo de clases que represente el diseño de la aplicación correspondiente con las funcionalidades de la primera entrega, es decir las que se [desarrollarán en la semana 5](./../semana5/MT1PEA-PlanDesarrolloHistorias202611.md). Este diseño debe incluir las clases necesarias para implementar la lógica de la aplicación:
 
   * Las clases que contienen los métodos que servirán para implementar las historias de usuario. 
   * Las entidades persistentes en la base de datos.
