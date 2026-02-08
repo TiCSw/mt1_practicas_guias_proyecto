@@ -16,7 +16,15 @@ Realizar el diseño de la aplicación.
 ---
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
 
-* Construir un modelo de clases que represente el diseño de la aplicación correspondiente con las funcionalidades de la primera entrega, es decir las que se [desarrollarán en la semana 5](./../semana5/MT1PEA-PlanDesarrolloHistorias202611.md). Este diseño debe incluir las clases necesarias para implementar la lógica de la aplicación:
+* Construir un modelo de clases que represente el diseño de la aplicación correspondiente con las funcionalidades de la primera entrega, es decir las que se desarrollarán en la semana 5:
+  
+| Proyecto                  | Arbol de navegacion     |
+| ------------------------- | ------------------------|
+| 1.CineVault               | [Plan desarrollo CineVault](./../semana5/MT1PEA-PlanDesarrollo1Historias-202611.md)    | 
+| 2.Concesionario           | [Plan desarrollo  Concesionario](./../semana5/MT1PEA-PlanDesarrollo2Historias-202611.md) | 
+| 3.ShopFlow                | [Plan desarrollo  ShopFlow](./../semana5/MT1PEA-PlanDesarrollo3Historias-202611.md)      | 
+
+Este diseño debe incluir las clases necesarias para implementar la lógica y la persistencia de la aplicación:
 
   * Las clases que contienen los métodos que servirán para implementar las historias de usuario. 
   * Las entidades persistentes en la base de datos.
