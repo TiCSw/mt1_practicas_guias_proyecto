@@ -1,5 +1,5 @@
 ## Distribución de funcionalidades por semana CineVault
-<!--
+
 ### Semana 5
 
 #### Todas las funcionalidades de la semana 5 se deben desarrollar usando TDD y Pair programming
@@ -32,4 +32,4 @@ Reporte género por popularidad  (TDD + Pair programming) (Parte 1):
 
 Reporte géneros por popularidad  (TDD + Pair programming) (Parte 2):
 * Se implementa que el listado esté ordenado por popularidad y que muestre el género más popular
--->
+
