@@ -16,7 +16,15 @@ Implementar el primer grupo de historias de usuario aplicando **Desarrollo Dirig
 ---
 
 ### ![](./../../assets/images/grupo.png) Actividad de equipo
-1. Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202514.md) las historias a implementar.  
+1. Revisar en el plan de desarrollo de su proyecto el listado de funcionalidades a desarrollar en la semana 5:
+  
+| Proyecto                  | Plan de desarrollo     |
+| ------------------------- | ------------------------|
+| 1.CineVault               | [Plan desarrollo CineVault](./../semana5/MT1PEA-PlanDesarrollo1Historias-202611.md)    | 
+| 2.Concesionario           | [Plan desarrollo  Concesionario](./../semana5/MT1PEA-PlanDesarrollo2Historias-202611.md) | 
+| 3.ShopFlow                | [Plan desarrollo  ShopFlow](./../semana5/MT1PEA-PlanDesarrollo3Historias-202611.md)      |
+
+ 
 2. Ajustar las historias de usuario con base en las observaciones del tutor.  
 3. Planear sesiones de trabajo en pareja y organizar las tareas en el tablero del proyecto.  
 4. Desarrollar cada historia siguiendo el ciclo TDD con alternancia de roles:  
