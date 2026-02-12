@@ -26,4 +26,5 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 
 * Cada uno de los integrantes clona el repositorio del proyecto para crear su espacio local de trabajo. 
    * Desde el IDE escogido, verificar que el proyecto se ejecute correctamente. Para realizar esta configuración inicial, consultar el `README` del repositorio del proyecto del curso, donde se encuentra el paso a paso detallado para preparar el entorno y los enlaces a los videos de instalación en PyCharm y Visual Studio Code.
+   * Puede utilizar tambien el [tutorial](./MISW4101-InstructivoInstalacionAplicaciones.pdf) para la instalación de las aplicaciones.
 
