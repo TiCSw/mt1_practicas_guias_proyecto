@@ -12,4 +12,4 @@ Usuario del proyecto.
 | Actividad                                    |
 | -------------------------------------------- |
 | [Implementar usando TDD ](s5_tdd) |
-
+| [Implementar usando TDD con Copilot ](s5_tdd_con_ia) |
