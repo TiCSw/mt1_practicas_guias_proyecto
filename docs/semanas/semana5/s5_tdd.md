@@ -17,7 +17,14 @@ En esta semana se inicia el desarrollo de las funcionalidades del producto. Se p
 
 
 #### ![](./../../assets/images/grupo.png) Actividad de equipo
-* Revisar en la [distribución de funcionalidades por semana](MT1PEA-PlanDesarrolloHistorias202514.md) el listado de funcionalidades a desarrollar en la semana.
+* Revisar en el plan de desarrollo de su proyecto el listado de funcionalidades a desarrollar en la semana 5:
+  
+| Proyecto                  | Plan de desarrollo     |
+| ------------------------- | ------------------------|
+| 1.CineVault               | [Plan desarrollo CineVault](./../semana5/MT1PEA-PlanDesarrollo1Historias-202611.md)    | 
+| 2.Concesionario           | [Plan desarrollo  Concesionario](./../semana5/MT1PEA-PlanDesarrollo2Historias-202611.md) | 
+| 3.ShopFlow                | [Plan desarrollo  ShopFlow](./../semana5/MT1PEA-PlanDesarrollo3Historias-202611.md)      |
+
 * Realizar las correcciones sugeridas por el tutor para las historias de usuario que se deben entregar esa semana.
 * Planear los tiempos para desarrollar cada una de las historias: el equipo debe acordar los espacios en la semana para hacer el desarrollo puesto que se va a realizar haciendo pair programming, como se muestra en el video de la Kata TDD. 
 * Actualizar el tablero de actividades del proyecto con las tareas planeadas.
