@@ -33,6 +33,7 @@ Este diseño debe incluir las clases necesarias para implementar la lógica y la
 
 ---
 *   Herramienta para diseño del diagrama de clases (DrawIO, Lucidchart o Visual Paradigm)
+*   Ejemplo de diseño de la aplicación base ([ShopFlow](./DiagramaShopFlow.pdf))
   
 ### Entregables
 ---
