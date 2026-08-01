@@ -59,16 +59,16 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 | Proyecto                  | Enunciado               | Tutor             |
 | ------------------------- | ------------------------|-------------------|
-| 1.CineVault                 | [Enunciado CineVault](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado1)    | Sebastian Correa  |
-| 2.Concesionario             | [Enunciado Concesionario](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado2) | Tatiana Macias    |
-| 3.ShopFlow                  | [Enunciado ShopFlow](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado3)      | Carlos Riveros    |
+| 1.Concesionario            | [Enunciado Concesionario](https://ticsw.github.io/mt1_practicas_guias_proyecto/Concesionario)    | Carlos Riveros  |
+| 2.Gestión RH            | [Enunciado Gestión RH](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado2) | Jhony Toro   |
+| 3.Recetas                  | [Enunciado Recetas](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado3)      | Sebastian Correa    |
  
 
 ## Tecnologías para el desarrollo 
 
 La aplicación que se va a desarrollar es una aplicación web muy sencilla. 
 
-Las tecnologías que se utilizarán para desarrollar el proyecto son: Python como lenguaje de programación, GIT para el control de versiones, para frontend angular, el framework Flask para el backen y SQLite para la base de datos. Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
+Las tecnologías que se utilizarán para desarrollar el proyecto son: Python como lenguaje de programación, GIT para el control de versiones, para frontend angular, el framework Flask para el backend y SQLite para la base de datos. Para el desarrollo del proyecto se cuenta con la siguiente infraestructura:
 
 
 | Elemento                  | Herramienta |
