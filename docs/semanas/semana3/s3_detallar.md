@@ -39,9 +39,9 @@ El siguiente es el formato que deben usar en el tablero para la definición de u
   
 | Proyecto                  | Arbol de navegacion     |
 | ------------------------- | ------------------------|
-| 1.CineVault               | [Arbol de navegación CineVault](./ArbolDeNavegacion1.png)    | 
-| 2.Concesionario           | [Arbol de navegación  Concesionario](./ArbolDeNavegacion2.png) | 
-| 3.ShopFlow                | [Arbol de navegación  ShopFlow](./ArbolDeNavegacion3.png)      | 
+| 1.Concesionario               | [Arbol de navegación Concesionario](./arbolesNavegacion/202614/ArbolDeNavegacion1.png)    | 
+| 2.Gestión RH           | [Arbol de navegación  Gestión RH](./arbolesNavegacion/202614/ArbolDeNavegacion2.png) | 
+| 3.CookHub                | [Arbol de navegación  CookHub](./arbolesNavegacion/202614/ArbolDeNavegacion3.png)      | 
 
 * Durante la semana, cada integrante, a medida que va iniciando o completando las tareas, actualiza el
   estado de la tarea en el tablero de actividades del proyecto, moviéndola a la columna **En progreso** o **Terminada** respectivamente.
