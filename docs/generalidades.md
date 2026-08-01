@@ -59,9 +59,9 @@ El proyecto se comienza a desarrollar a partir de la **semana 2** del curso. Las
 
 | Proyecto                  | Enunciado               | Tutor             |
 | ------------------------- | ------------------------|-------------------|
-| 1.Concesionario            | [Enunciado Concesionario](https://ticsw.github.io/mt1_practicas_guias_proyecto/Concesionario)    | Carlos Riveros  |
-| 2.Gestión RH            | [Enunciado Gestión RH](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado2) | Jhony Toro   |
-| 3.Recetas                  | [Enunciado Recetas](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado3)      | Sebastian Correa    |
+| 1.Concesionario            | [Enunciado Concesionario](https://ticsw.github.io/mt1_practicas_guias_proyecto/enunciados/202614/Enunciado1)    | Carlos Riveros  |
+| 2.Gestión RH            | [Enunciado Gestión RH](https://ticsw.github.io/mt1_practicas_guias_proyecto/enunciados/202614/Enunciado2) | Jhony Toro   |
+| 3.Recetas                  | [Enunciado Recetas](https://ticsw.github.io/mt1_practicas_guias_proyecto/enunciados/202614/Enunciado3)      | Sebastian Correa    |
  
 
 ## Tecnologías para el desarrollo 
