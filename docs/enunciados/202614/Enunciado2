@@ -1,4 +1,5 @@
-Sistema de Gestión de Recursos Humanos
+# Sistema de Gestión de Recursos Humanos
+
 La empresa CorporateHR Solutions lo ha contratado para desarrollar una aplicación llamada "RH Pro" que permitirá a un gerente de recursos humanos gestionar todo lo relacionado con empleado y departamento de la empresa. El gerente de recursos humanos debe estar pendiente de mantener actualizada la información de empleados y departamentos. Para iniciar el contrato, la empresa lo cita a una reunión para especificar sus necesidades, como se comenta a continuación.
 
 Al iniciar la aplicación el gerente de recursos humanos verá una pantalla principal, donde podrá ver el logo de CorporateHR Solutions, la descripción de la aplicación "EmployeeManager Pro", una opción para agregar empleado, otra para ir al listado de departamentos y el listado de empleados disponibles. En el listado de departamentos se muestra nombre, ubicación, presupuesto y botones para editar o borrar departamento, siempre y cuando no tenga empleados asociados. En la pantalla de departamentos, el gerente de recursos humanos encuentra también una opción para agregar departamento nuevo y otra para volver a la pantalla principal.
