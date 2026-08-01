@@ -27,9 +27,9 @@
 
 | Proyecto                  | Enunciado               | Formulario preguntas             | Archivo respuestas      |
 | ------------------------- | ------------------------|----------------------------------|-------------------------|
-| 1.CineVault                 | [Enunciado CineVault](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado1)    | [Formulario CineVault](https://forms.office.com/r/4kac6MVFJE) |[Respuestas CineVault](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/IQCyfGQ_Z_7WR5NMBqWbWCX1AUdCqMiXa8_yUTgs_wsGyfU?e=m2K3R6) |
-| 2.Concesionario             | [Enunciado Concesionario](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado2) | [Formulario Concesionario](https://forms.office.com/r/P5DmX4F4zG)   |[Respuestas Concesionario](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/IQBOJEkGRWF9QpwTzOeXNZSOAUKebGnH9-yiKXph4PU7Hv0?e=ha9yFM)|
-| 3.ShopFlow                  | [Enunciado ShopFlow](https://ticsw.github.io/mt1_practicas_guias_proyecto/Enunciado3)      | [Formulario ShopFlow](https://forms.office.com/r/F4mZbpkkVm)     |[Repuestas ShopFlow](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/IQBkh_Q1R7vOQpCAqrwpzKDnAQCscvgSijXguPkYSvsK4T8?e=W2bYaz)|
+| 1.Concesionario                 | [Enunciado Concesionario](https://ticsw.github.io/mt1_practicas_guias_proyecto/enunciados/202614/Enunciado1)    | [Formulario Concesionario](https://forms.cloud.microsoft/r/xfSFV4iyiW) |[Respuestas Concesionario](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/IQDr90UrNp9yRow5PdtrnvqMAW8kZTaG379SU3xXCcFLFRM?e=WdKIbn) |
+| 2.Gestión RH            | [Enunciado Gestión RH](https://ticsw.github.io/mt1_practicas_guias_proyecto/enunciados/202614/Enunciado2) | [Formulario Gestión RH](https://forms.cloud.microsoft/r/2NJPhx8Yq2)   |[Respuestas Gestión RH](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/IQDfcYgjOvoLRIBzuyTCDSsnAcPnlhM2oLFgyW1S1s2cZ8M?e=4ks9U6)|
+| 3.CookHub                  | [Enunciado CookHub](https://ticsw.github.io/mt1_practicas_guias_proyecto/enunciados/202614/Enunciado3)      | [Formulario CookHub](https://forms.cloud.microsoft/r/Cdv6GbZFZb)     |[Repuestas CookHub](https://uniandes-my.sharepoint.com/:x:/g/personal/misovirtual-pea_uniandes_edu_co/IQCi3Inp8hl0TZmDw2Y2UT-GAbpgCjUAnPn76o5j4zlY1U8?e=McYR7N)|
 
 *Recuerde abrir los archivos en una nueva pestaña o ventana.*
 
