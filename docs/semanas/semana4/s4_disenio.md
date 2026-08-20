@@ -20,9 +20,9 @@ Realizar el diseño de la aplicación.
   
 | Proyecto                  | Plan de desarrollo     |
 | ------------------------- | ------------------------|
-| 1.CineVault               | [Plan desarrollo CineVault](./../semana5/MT1PEA-PlanDesarrollo1Historias-202611.md)    | 
-| 2.Concesionario           | [Plan desarrollo  Concesionario](./../semana5/MT1PEA-PlanDesarrollo2Historias-202611.md) | 
-| 3.ShopFlow                | [Plan desarrollo  ShopFlow](./../semana5/MT1PEA-PlanDesarrollo3Historias-202611.md)      | 
+| 1.Concesionario               | [Plan desarrollo Concesionario]()    | 
+| 2.Gestión RH          | [Plan desarrollo  Gestión RH]() | 
+| 3.CookHub               | [Plan desarrollo CookHub]()      | 
 
 Este diseño debe incluir las clases necesarias para implementar la lógica y la persistencia de la aplicación:
 
